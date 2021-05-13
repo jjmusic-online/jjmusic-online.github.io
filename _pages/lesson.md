@@ -4,18 +4,32 @@ title: "Lesson"
 permalink: /lesson/
 ---
 
-## Online Private Piano Lesson
+## Online Private(1:1) Jazz Piano and Theory Lesson
 
 ### 강의 대상
 
-- 입시
-- 취미
-- 입시초견 단기완성 (10주)
+- 실용음악 재즈피아노 및 작곡 입시
+- 취미 (초급,중급,고급)
+- 입시특강 코드초견 단기완성 (10주)
 - 리하모니제이션 핵심기법 단기완성 (10주)
-- 재즈화성법 완성
+- 이론정복!재즈화성법 완성
 
-### 커리큘럼 및 문의
+
+Lesson in English.
+
+- University Audition
+- Beginner Intermediate Advanced
+- Reharmoniztion Technique for 10 Weeks
+- Jazz Harmony
+
+Unterricht auf Deutsch
+
+- Studienvorbereitung
+- Anfänger Wiederreinsteiger Fortgeschrittener
+- Reharmonization für 10 Wochen
+- Jazz Harmony
+
+
+### curriculum & More Info
 jazzydusmusic@gmail.com
-
-`@jj_jazzydus_music` (Instagram)
 
