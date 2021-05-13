@@ -8,7 +8,7 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 - JJ currently lives in Germany from 2017 현 독일 거주🇩🇪 
-- Korea🇰🇷 경희대 포스트모던음악학과 Kyunhee Univ. Jazzpiano scholarship 수석졸업 (B.A.)
+- Korea🇰🇷 경희대 포스트모던음악학과 Kyunghee Univ. Jazzpiano scholarship 수석졸업 (B.A.)
 - Korea 🇰🇷숙명여대 교육대학원 Sookmyung Women's Univ. Music Education (M.edu)
 - U.S.A.🇺🇸 City University of New York 뉴욕시립대 Queens College Jazz Performane (M.A.)
 
