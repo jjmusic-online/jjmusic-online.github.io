@@ -15,14 +15,14 @@ permalink: /lesson/
 - 이론정복!재즈화성법 완성
 
 
-Lesson in English.
+Lessons in English.
 
 - University Audition
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 10 Weeks
 - Jazz Harmony
 
-Unterricht auf Deutsch
+Unterrichten auf Deutsch
 
 - Studienvorbereitung
 - Anfänger Wiederreinsteiger Fortgeschrittener
@@ -30,6 +30,6 @@ Unterricht auf Deutsch
 - Jazz Harmony
 
 
-### curriculum & More Info
+### Curriculum & More Info
 jazzydusmusic@gmail.com
 
