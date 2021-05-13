@@ -3,6 +3,9 @@ main:
   - title: "About"
     url: /about
     descrition: About myself
+  - title: "Free PDF"
+    url: /freepdf
+    descrition: Free PDF
   - title: "Lesson"
     url: /lesson
     descrition: Jazz Piano lessons
