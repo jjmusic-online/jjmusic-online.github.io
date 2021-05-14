@@ -24,15 +24,15 @@ permalink: /about/
 - (Germany)Inter Kulturelle Wochen in Chemnitz 문화 교류 주간 켐니츠시 주최 단독공연 2018. 10
 - (Germany)Alte Handelsbörse Konzertsaal,Leipzig 라이프치히 한인 통일음악회 연주 2018. 11
 - (Germany)Frauen Treffen in Deutschland Pianist 전속 연주자
-- Son Jiyeon 5th 손지연 5집 Recording(2017)Korea 
-- Veritas 찬양팀 베리타스 'Beautiful Secret Series'(2016)Korea
-- C2J Trio 2013 International Jazz Day(2013)Korea 
-- Veritas 'You Never Fail' (2013)Korea 
-- Seoul Soloist Jazz Orchestra 서울솔리스트오케스트라 2집 피아노 전곡 녹음II (2012)Korea
-- SBS Superstar Survival 슈퍼스타 서바이벌 OST(2006)Korea
-- Kang Hyosun 피리연주자 강효선 ' Attraction'(2006)Korea 
-- Son Jiyeon 손지연 3집 3rd Recording (2009)Korea
-- Seoul Sololist Jazz Orchestra I 서울솔리스트오케스트라 1집(2010)Korea
+- CD: Son Jiyeon 5th 손지연 5집 Recording(2017)Korea 
+- CD: Veritas 찬양팀 베리타스 'Beautiful Secret Series(2016)Korea
+- CD: C2J Trio 2013 International Jazz Day (2013)Korea 
+- CD: Veritas 'You Never Fail' (2013)Korea 
+- CD: Seoul Soloist Jazz Orchestra II 서울솔리스트오케스트라 2집(2012)Korea
+- CD: SBS Superstar Survival 슈퍼스타 서바이벌 OST(2006)Korea
+- CD: Kang Hyosun 피리연주자 강효선 ' Attraction'(2006)Korea 
+- CD: Son Jiyeon 손지연 3집 3rd Recording (2009)Korea
+- CD: Seoul Sololist Jazz Orchestra I 서울솔리스트오케스트라 1집(2010)Korea
 - Sumida Jazz Festival Performance 일본 스미다 재즈페스티벌2012)Japan
 - Queens College,Lefrak Concert Hall'Graduation and Award Ceremony'Performance(2011) NewYork 뉴욕 퀸즈컬리지 졸업생 대표 연주 
 - WBGO Jazz 88.3 FM Live Performance 뉴욕 라디오 생방송 연주(2010)NewYork
