@@ -21,3 +21,7 @@ permalink: /freepdf/
     Two Handed Voicings for F Blues Comping
     <a href="https://youtu.be/nBIKGlYgZXs" target="_blank"> (Video)</a>
 </a>
+
+- <a href="I Got Rhythm by Hampton Hawes.pdf" target="_blank" download>
+    I Got Rhythm by Hampton Hawes
+    <a href="https://youtu.be/yj9kpIQ2sX0" target="_blank"> (Video)</a>
