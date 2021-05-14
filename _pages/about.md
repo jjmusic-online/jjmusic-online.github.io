@@ -12,7 +12,7 @@ permalink: /about/
 - Korea 🇰🇷숙명여대 교육대학원 Sookmyung Women's Univ. Music Education (M.edu)
 - U.S.A.🇺🇸 City University of New York 뉴욕시립대 Queens College Jazz Performane (M.A.)
 - Lecturer in Univ. for 7years in Korea 
-- 경희대학교 광신대학교 국제예대학교 동아방송대학교 서울기독대학교 전임4년 외래강의경력 2년6개월, 입시경력 18년(총 100명이상,상위권50명이상 배출)
+- 경희대학교 광신대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 전임4년 외래강의경력 2년6개월, 입시경력 18년(총 100명이상,상위권50명이상 배출)
 
 
 <img src="https://jjmusic-online.github.io/assets/images/photo2.jpeg" alt="JJ Photo2"
