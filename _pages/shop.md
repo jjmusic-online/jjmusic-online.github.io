@@ -21,3 +21,8 @@ permalink: /shop/
 - <a href="https://gumroad.com/jazzydusmusic#JCupaZ" target="_blank">
     Polka dots and Moonbeams (Jazzpiano Arrangement)
 </a>
+
+## Sheet Music - mapianist.com
+
+-<a href="<a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Artist's Page
