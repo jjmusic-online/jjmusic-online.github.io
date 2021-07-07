@@ -24,5 +24,5 @@ permalink: /shop/
 
 ## Sheet Music - mapianist.com
 
-- <a href="<a href="https://www.mapianist.com/profile/670590/main" target="_blank">
+- <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
     Artist's Page
