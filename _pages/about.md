@@ -1,13 +1,13 @@
 ---
 layout: "pages"
-title: "Jiyeon Jeon(JJ)"
+title: "Jiyeon Jeon(JJ) 전지연 "
 permalink: /about/
 ---
 
 <img src="https://jjmusic-online.github.io/assets/images/photo1.jpeg" alt="JJ Photo1"
 	title="Photo of JJ" style="min-width: 150px" />
 
-- JJ currently lives in Germany from 2017 현 독일 거주🇩🇪 
+- JJ currently lives in Germany since 2017 현 독일 거주🇩🇪 
 - Korea🇰🇷 경희대 포스트모던음악학과 Kyunghee Univ. Jazzpiano scholarship 수석졸업 (B.A.)
 - Korea 🇰🇷숙명여대 교육대학원 Sookmyung Women's Univ. Music Education (M.edu)
 - U.S.A.🇺🇸 City University of New York 뉴욕시립대 Queens College Jazz Performane (M.A.)
@@ -18,7 +18,7 @@ permalink: /about/
 <img src="https://jjmusic-online.github.io/assets/images/photo2.jpeg" alt="JJ Photo2"
 	title="Photo of JJ" style="min-width: 150px" />
 
-- 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
+## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
 - (Germany) Leipziger Kurbus in Leipzig,(Peace Together for Teenagers)독일 라이프치히 청소년 통일캠프 연주 2019.7
 - (Germany)City Jazz Chemnitz Solo Piano 공연 2019.05
 - (Germany)Inter Kulturelle Wochen in Chemnitz 문화 교류 주간 켐니츠시 주최 단독공연 2018. 10
