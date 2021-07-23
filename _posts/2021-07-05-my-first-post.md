@@ -5,7 +5,7 @@ title: "JJ Online Lesson 4회완성 입시 코드초견 단기특강안내
 date: 2021-07-05
 ---
 
-# JJ  Online Lesson 4회완성  입시 코드초견 특강안내 (알짜배기 보이싱편)
+# JJ Online Lesson 4회완성  입시 코드초견 특강안내 (알짜배기 보이싱편)
 *(스케일 편(Impro))과 Funk피아노 편은 2021년 10월 중순경 오픈 합니다)*
 
 - #### 기간
