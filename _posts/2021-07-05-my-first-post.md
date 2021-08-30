@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "JJ Online Lesson 4회완성 입시 코드초견 단기특강안내
+title: "JJ Online Lesson 입시 코드초견 단기특강안내
          (알짜배기 보이싱편)"
 date: 2021-07-05
 ---
