@@ -22,6 +22,11 @@ permalink: /shop/
     Polka dots and Moonbeams (Jazzpiano Arrangement)
 </a>
 
+- <a href="jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
+    6 Beautiful Major 7th Chords for Piano
+
+- <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
+    Pop Ballad (Key of Eb,F, G)  
 ## Sheet Music - mapianist.com
 
 - <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
