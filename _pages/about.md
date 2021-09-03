@@ -8,18 +8,17 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 - JJ currently lives in Germany since 2017 현 독일 거주🇩🇪 
-- Korea🇰🇷 경희대 포스트모던음악학과 Kyunghee Univ. Jazzpiano scholarship 수석졸업 (B.A.)
-- Korea 🇰🇷숙명여대 교육대학원 Sookmyung Women's Univ. Music Education (M.edu)
-- U.S.A.🇺🇸 City University of New York 뉴욕시립대 Queens College Jazz Performane (M.A.)
-- Lecturer in Univ. for 7years in Korea 
-- 경희대학교 광신대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 전임4년 외래강의경력 2년6개월, 입시경력 18년(총 100명이상,상위권50명이상 배출)
+- Korea🇰🇷 Kyunghee Univ. Jazzpiano scholarship B.A. (경희대 포스트모던음악학과 수석졸업)
+- Korea 🇰🇷 Sookmyung Women's Univ. Music Education M.edu. (숙명여자대학교 교육대학원 음악교육 석사졸업)
+- U.S.A.🇺🇸 City University of New York Queens College Jazz Performane M.A. (뉴욕시립대학교 재즈퍼포먼스 석사 졸업)
+- Worked as an Assistant Professor(조교수) and an Instructor(외래강사) at KyungHee Univ. Kwangshin Univ.Kukje Univ. Dongah(DIMA)Univ. Seoul Theological Univ. in South Korea(경희대학교 광신대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 전임4년 외래강의경력 2년6개월, 입시경력 18년 총 100명이상,상위권50명이상 배출)
 
 
 <img src="https://jjmusic-online.github.io/assets/images/photo2.jpeg" alt="JJ Photo2"
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
-- (Germany) Leipziger Kurbus in Leipzig,(Peace Together for Teenagers)독일 라이프치히 청소년 통일캠프 연주 2019.7
+- (Germany) Leipziger Kurbus in Leipzig,Peace Together for Teenagers 독일 라이프치히 청소년 통일캠프 연주 2019.7
 - (Germany)City Jazz Chemnitz Solo Piano 공연 2019.05
 - (Germany)Inter Kulturelle Wochen in Chemnitz 문화 교류 주간 켐니츠시 주최 단독공연 2018. 10
 - (Germany)Alte Handelsbörse Konzertsaal,Leipzig 라이프치히 한인 통일음악회 연주 2018. 11
