@@ -22,7 +22,7 @@ permalink: /shop/
     Polka dots and Moonbeams (Jazzpiano Arrangement)
 </a>
 
-- <a href="jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
     6 Beautiful Major 7th Chords for Piano
 
 - <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
