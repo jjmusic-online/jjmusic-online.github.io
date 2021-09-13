@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "JJ Online Lesson (Voicings!)
+title: "JJ Online Lesson (Voicings!)"
 date: 2021-07-05
 ---
 
