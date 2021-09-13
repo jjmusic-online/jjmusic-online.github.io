@@ -19,11 +19,13 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
-- (Germany) Leipziger Kurbus in Leipzig,Peace Together for Teenagers 독일 라이프치히 청소년 통일캠프 연주 2019.7
+- (Germany)Peace Together for Teenagers in Leipziger Kurbus, Leipzig 독일 라이프치히 청소년 통일캠프 연주 7.2019
+- (Germany) 6.Chemnitzer Neujahrs Konzert 2019.01 
 - (Germany)City Jazz Chemnitz Solo Piano 공연 2019.05
-- (Germany)Inter Kulturelle Wochen in Chemnitz 문화 교류 주간 켐니츠시 주최 단독공연 2018. 10
-- (Germany)Alte Handelsbörse Konzertsaal,Leipzig 라이프치히 한인 통일음악회 연주 2018. 11
+- (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 문화 교류 주간 켐니츠시 주최 단독공연 2018.10
+- (Germany) 6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 한인통일음악회 2018.11
 - (Germany)Frauen Treffen in Deutschland Pianist 전속 연주자
+- (Germany)Anstaltungen(Klavier) in Studentenwerk Chemnitz 
 - CD: Son Jiyeon 5th 손지연 5집 Recording(2017)Korea 
 - CD: Veritas 찬양팀 베리타스'Beautiful Secret Series(2016)Korea
 - CD: C2J Trio 2013 International Jazz Day (2013)Korea 
