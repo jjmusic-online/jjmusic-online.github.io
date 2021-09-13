@@ -6,7 +6,7 @@ permalink: /lesson/
 
 ## Online Private(1:1) Jazz Piano and Theory Lesson
 
-### 강의 대상
+Lessons in Korean(한국어)
 
 - 실용음악 재즈피아노 및 작곡 입시
 - 취미 (초급,중급,고급)
