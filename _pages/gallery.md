@@ -19,3 +19,6 @@ permalink: /gallery/
 
 <img src="https://jjmusic-online.github.io/assets/images/photo10.png" alt="JJ Photo10"
 	title="Photo of JJ" style="min-width: 150px" />
+
+<img src="https://jjmusic-online.github.io/assets/images/photo9.jpg" alt="JJ Photo9"
+	title="Photo of JJ" style="min-width: 150px" />
