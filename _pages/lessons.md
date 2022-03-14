@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Lessons"
+title: "lessons"
 permalink: /lessons/
 ---
 
