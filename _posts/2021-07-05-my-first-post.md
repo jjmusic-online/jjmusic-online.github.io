@@ -14,7 +14,7 @@ date: 2021-07-05
   - 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다.
   - 레슨구경하러 가기 No.1
     <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video.1)</a>
-</a>
+
 
   - Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
 
