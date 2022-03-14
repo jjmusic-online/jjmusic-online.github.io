@@ -4,7 +4,7 @@ title: "Jiyeon Jeon(JJ) 전지연 "
 permalink: /about/
 ---
 
-<img src="https://jjmusic-online.github.io/assets/images/photo8.jpg" alt="JJ Photo8"
+<img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
 
 - JJ currently lives in Germany since 2017 (현 독일 거주🇩🇪) 
