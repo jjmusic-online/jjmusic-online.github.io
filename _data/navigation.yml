@@ -6,9 +6,12 @@ main:
   - title: "Free PDF"
     url: /freepdf
     descrition: Free PDF
-  - title: "Lesson"
-    url: /lesson
+  - title: "Lessons"
+    url: /lessons
     descrition: Jazz Piano lessons
+  - title: "Gallery"
+    url: /gallery
+    descrition: photos from JJ
   - title: "Shop"
     url: /shop
     descrition: shop for sheet music and lectures
