@@ -7,7 +7,8 @@ permalink: /about/
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
 
-- JJ currently lives in Germany since 2017 (현 독일 거주🇩🇪) 
+- JJ currently lives in Germany since 2017 
+- (현 독일 거주🇩🇪) 
 - Korea🇰🇷 Kyunghee Univ. Jazzpiano scholarship (B.A.) 
 - (경희대 포스트모던음악학과 수석 학사졸업)
 - Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
