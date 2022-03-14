@@ -1,10 +1,10 @@
 ---
 layout: "pages"
-title: "Lesson"
-permalink: /lesson/
+title: "Lessons"
+permalink: /lessons/
 ---
 
-## Online Private(1:1) Jazz Piano and Theory Lesson
+## Online Private(1:1) Jazz Piano and Theory Lessons
 
 Lessons in Korean(한국어)
 
