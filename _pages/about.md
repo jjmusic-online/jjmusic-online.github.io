@@ -21,7 +21,7 @@ permalink: /about/
 - 1.2021-heute Klavierlehrerin(Selbständig) 
 
 
-<img src="https://jjmusic-online.github.io/assets/images/photo2.jpeg" alt="JJ Photo2"
+<img src="https://jjmusic-online.github.io/assets/images/photo13.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
