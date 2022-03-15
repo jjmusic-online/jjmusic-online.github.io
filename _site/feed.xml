@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T21:00:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JJ Music</title><subtitle>A website for JJ Music</subtitle><author><name>Jiyeon Jeon(JJ)</name><email>jazzydusmusic@gmail.com</email></author><entry><title type="html">JJ Plays! Konzert! 독일현지 연주소식</title><link href="http://localhost:4000/concert-schedule/" rel="alternate" type="text/html" title="JJ Plays! Konzert! 독일현지 연주소식" /><published>2021-07-23T00:00:00+02:00</published><updated>2021-07-23T00:00:00+02:00</updated><id>http://localhost:4000/concert-schedule</id><content type="html" xml:base="http://localhost:4000/concert-schedule/"><![CDATA[<p>in Alte Handelsbörse Konzertsaal,Leipzig. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T21:08:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JJ Music</title><subtitle>A website for JJ Music</subtitle><author><name>Jiyeon Jeon(JJ)</name><email>jazzydusmusic@gmail.com</email></author><entry><title type="html">JJ Plays! Konzert! 독일현지 연주소식</title><link href="http://localhost:4000/concert-schedule/" rel="alternate" type="text/html" title="JJ Plays! Konzert! 독일현지 연주소식" /><published>2021-07-23T00:00:00+02:00</published><updated>2021-07-23T00:00:00+02:00</updated><id>http://localhost:4000/concert-schedule</id><content type="html" xml:base="http://localhost:4000/concert-schedule/"><![CDATA[<p>in Alte Handelsbörse Konzertsaal,Leipzig. 
 Samstag 20.11.2021. 17:00 Uhr</p>]]></content><author><name>David Cho</name></author><summary type="html"><![CDATA[in Alte Handelsbörse Konzertsaal,Leipzig. Samstag 20.11.2021. 17:00 Uhr]]></summary></entry><entry><title type="html">JJ Online Lessons</title><link href="http://localhost:4000/my-first-post/" rel="alternate" type="text/html" title="JJ Online Lessons" /><published>2021-07-05T00:00:00+02:00</published><updated>2021-07-05T00:00:00+02:00</updated><id>http://localhost:4000/my-first-post</id><content type="html" xml:base="http://localhost:4000/my-first-post/"><![CDATA[<h4 id="skype-lessons">Skype Lessons</h4>
 
 <ul>
@@ -15,7 +15,11 @@ Samstag 20.11.2021. 17:00 Uhr</p>]]></content><author><name>David Cho</name></au
   </li>
   <li>실용음악 재즈피아노 및 작곡 입시</li>
   <li>취미 (초급,중급,고급)</li>
-  <li>알짜배기 코드초견 보이싱 특강 (6주)</li>
+  <li>
+    <ul>
+      <li><a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a></li>
+    </ul>
+  </li>
   <li>알짜배기 스케일 활용 즉흥연주 특강 (4주)</li>
   <li>알짜배기 펑크 및 스트레이트 특강 (4주)</li>
   <li>알짜배기 입시특강 코드초견 종합완성 (14주)</li>
