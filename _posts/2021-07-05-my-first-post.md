@@ -4,7 +4,7 @@ title: "JJ Online Lessons"
 date: 2021-07-05
 ---
 
-- #### Skype Lessons
+#### Skype Lessons
   
  - 온라인 개인레슨 강의 (1:1)  45분/60분 
  - Online Lesson (1:1) 45,60 Minutes
