@@ -12,9 +12,9 @@ permalink: /lessons/
  - Online Lesson (1:1) 45,60 Minutes
  - Online Einzelunterricht (1:1) 45,60 Minuten
  
+ ### Lessons in Korean(한국어)
+ 
 - 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. 화면공유시 레이턴시가 가장적은 Skype를 선호합니다.
-
-### Lessons in Korean(한국어)
 
 - 실용음악 재즈피아노 및 작곡 입시
 - 취미 (초급,중급,고급)
@@ -32,18 +32,18 @@ permalink: /lessons/
  - 레슨구경하러 가기 (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
 
-- Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
-
 ### Lessons in English.
+
+- Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
 
 - University Audition
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
 - Jazz Harmony (32 Weeks)
 
-- Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
-
 ### Unterrichten auf Deutsch
+
+- Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 - Studienvorbereitung
 - Anfänger Wiederreinsteiger Fortgeschrittener
