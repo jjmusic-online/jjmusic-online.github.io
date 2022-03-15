@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "lessons"
+title: "Lessons"
 permalink: /lessons/
 ---
 
@@ -18,7 +18,7 @@ permalink: /lessons/
 
 - 실용음악 재즈피아노 및 작곡 입시
 - 취미 (초급,중급,고급)
-- 알짜배기 코드초견 보이싱 특강 (6주)
+- <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
 - 알짜배기 스케일 활용 즉흥연주 특강 (4주)
 - 알짜배기 펑크 및 스트레이트 특강 (4주)
 - 알짜배기 입시특강 코드초견 종합완성 (14주)
