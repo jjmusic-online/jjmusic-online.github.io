@@ -10,7 +10,7 @@ date: 2021-07-05
  - Online Lesson (1:1) 45,60 Minutes
  - Online Einzelunterricht (1:1) 45,60 Minuten
  
- ### Lessons in Korean(한국어)
+### Lessons in Korean(한국어)
  
 - 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. 화면공유시 레이턴시가 가장적은 Skype를 선호합니다.
 
