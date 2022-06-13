@@ -22,4 +22,4 @@ Released on: 2022-Apr-01
 - Piano: Jeon JiYeon
 
 - Listen (들어보기)
-  <a href="https://youtu.be/GoXmYjS66YA" target="_blank"></a>
+  <a href="https://youtu.be/GoXmYjS66YA" target="_blank">(Play on YouTube)</a>
