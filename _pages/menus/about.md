@@ -19,7 +19,7 @@ permalink: /about/
   at KyungHee Univ. Kwangshin Univ.Kukje Univ. Dong-ah Institute of Media and Arts(DIMA), Seoul Theological Univ. in South Korea (경희대학교 광신대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 전임4년 외래강의경력 2년6개월, 입시경력 18년 총 100명이상,상위권50명이상 배출)
 - 1.2018 - 9.2019  Lehrkraft (Thomas Mann Platz Musikschule, Chemnitz, Germany)(독일뮤직슐레근무)
 - 10.2019-12.2020 Elternzeit in Germany(육아휴직)
-- 1.2021-heute Klavierlehrerin(Selbständig) 
+- 1.2021-heute Klavierlehrerin(Selbständig)
 
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
@@ -27,13 +27,21 @@ permalink: /about/
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
 
-- (Germany)Peace Together for Teenagers in Leipziger Kurbus,       Leipzig   독일 라이프치히 청소년 통일캠프 연주 7.2019
-- (Germany)City Jazz Chemnitz Solo Piano 공연 2019.05
+- (Germany)Peace Together for Teenagers in Leipziger Kurbus, Leipzig   
+-  독일 라이프치히 청소년 통일캠프 연주 7.2019
+- (Germany)City Jazz Chemnitz Solo Piano 2019.05
+-  독일 켐니츠 시티재즈 페스티발 솔로 피아노 연주 참여
 - (Germany) 6.Chemnitzer Neujahrs Konzert 2019.01 
-- (Germany) 6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 한인통일음악회 2018.11
-- (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 문화 교류 주간 켐니츠시 주최 단독공연 2018.10
+-  독일 켐니츠 제6회 새해 연주 시행사 연주 참여
+- (Germany) 6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 2018.11
+- 독일 라이프치히 한인통일음악회 
+- (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 2018.10
+- 독일 켐니츠 문화 교류 주간 켐니츠시 주최 전지연 단독공연 
 - (Germany)Frauen Treffen in Deutschland Pianist 전속 연주자
+- 독일 기독교 여성 모임 전속 피아니스트 
 - (Germany)Anstaltungen(Klavier) in Studentenwerk Chemnitz 
+-  독일 Studentwerk 켐니츠 츠비카우 행사 담당 피아니스트 
+
 - CD: Son Jiyeon 5th 손지연 5집 Recording(2017)Korea 
 - CD: Veritas 찬양팀 베리타스'Beautiful Secret Series(2016)Korea
 - CD: C2J Trio 2013 International Jazz Day (2013)Korea 
