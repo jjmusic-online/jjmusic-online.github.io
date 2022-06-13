@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "JJ Plays! Konzert! im Juli 2022"
-date: 2022-06-13
+date: 2022-06-11
 ---
 
 Embassy of the Republic of Korea (주 독일 대한민국 대사관)

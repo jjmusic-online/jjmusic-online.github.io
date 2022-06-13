@@ -1,9 +1,25 @@
 ---
 layout: posts
-title: "JJ Plays! Konzert! im Juli 2022"
+title: "Album Released!! Album veröffentlicht JJ 앨범발매소식"
 date: 2022-06-13
 ---
 
-Embassy of the Republic of Korea (주 독일 대한민국 대사관)
-Freitag 23.07.2022. 17:00 Uhr
-2022년  7월 23일 금요일 오후5시 
+Only one (단 한 번) · Kim Dae Han
+
+Only one
+
+℗ 주식회사 블렌딩
+
+Released on: 2022-Apr-01 
+
+Lyricist: 9do1
+Lyricist: Shin Ji Hye
+Composer: 9do1
+Composer: Kim Dae Han
+Arranger: 9do1
+Arranger: Kim Dae Han
+Arranger: Jeon JiYeon
+Piano: Jeon JiYeon
+
+- Listen (들어보기))
+    <a href="https://youtu.be/GoXmYjS66YA" target="_blank"></a>
