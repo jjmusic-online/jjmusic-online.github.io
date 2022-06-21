@@ -31,6 +31,8 @@ permalink: /lessons/
     <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.2)</a>
  - 레슨구경하러 가기 (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
+ - <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨결제하기 (알짜배기 코드초견 보이싱 특강 6주)</a>   
+ - <a href="https://jazzydusmusic.gumroad.com/l/vlpbh" target="_blank"> 레슨결제하기 (리하모니제이션 첨삭받기+해당 첨삭 동영상연주로 받기 (1회))</a>
 
 ### Lessons in English.
 
