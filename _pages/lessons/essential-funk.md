@@ -11,7 +11,7 @@ permalink: /lessons/essential-Funkpiano
 - (Opens on 13th September 2022)
 - 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
 - (6 Lessons)
-- 일주일1회 혹은 2회 총50분*6회 입니다. 
+- 일주일1회 혹은 2회 총60분*6회 입니다. 
 - (1 or 2 times per Week/ 50min*6)
 - 개인 맞춤별 수업 
 - (1:1 Private Lesson)
