@@ -7,8 +7,8 @@ permalink: /lessons/essential-Funkpiano
 
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
-- (Funk Pinao 특강) 9월 13일 개강 
-- (Opens on 13th September 2022)
+- Funk Pinao 특강 9월 13일 개강 
+- (Starts on 13th September 2022)
 - 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
 - (6 Lessons)
 - 일주일1회 혹은 2회 총60분*6회 입니다. 
@@ -18,11 +18,11 @@ permalink: /lessons/essential-Funkpiano
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능 모든 수업자료 및 악보는  PDF파일로 제공합니다.
 - (Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.)
 
-#### Curiculum
+#### Curriculum
 - Funk Rhythm 탄탄한 기본 기둥 세우기 (Minor Chords/Major Chords)
 *다운비트와 업비트에 간단하면서도 다양한 패턴의 탄탄한 기초를 세우는 패턴을 연습합니다*
-- (1. Basic Funk Rhythm to solidify your playing How to Build a Solid Basics (Minor Chords/Major Chords)
-*Practice patterns that build a solid foundation for simple yet varied patterns on downbeats and upbeats.*)
+- ( Basic Funk Rhythm to solidify your playing How to Build a Solid Basics (Minor Chords/Major Chords)
+*Practice patterns that build a solid foundation for simple yet varied patterns on downbeats and upbeats.*
 
 - 탄탄한 기둥 기본 리듬에 흐르는 박자에 맞춰 맛갈나는 Fill in을 채우는 방식을 
 공부합니다. (리듬만들기 유용한 화성형 블루스 릭, 블루스스케일, 펜타토닉을 사용 법) 
@@ -48,7 +48,7 @@ permalink: /lessons/essential-Funkpiano
 - (University Audition)
 
 #### 레슨 결제하기
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp?_gl=1*gt8kko*_ga*OTc0OTczODcyLjE2MDkxNjQ2MjE.*_ga_6LJN6D94N6*MTY2MTg1NjMwNS4zMC4xLjE2NjE4NTc2NzYuMC4wLjA." target="_blank"> 레슨비 알아보기 및 결재 (알짜배기 Funk Piano 특강 6주)</a> 
+- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp?_gl=1*gt8kko*_ga*OTc0OTczODcyLjE2MDkxNjQ2MjE.*_ga_6LJN6D94N6*MTY2MTg1NjMwNS4zMC4xLjE2NjE4NTc2NzYuMC4wLjA." target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
   
 #### More Info
 - jazzydusmusic@gmail.com 
