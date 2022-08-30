@@ -9,7 +9,7 @@ permalink: /lessons/essential-Funkpiano
 
 - (Funk Pinao 특강) 9월 13일 개강 
 - (Opens on 13th September 2022)
-- 총6회에 걸쳐서 펑크 피아노 특강을 진행합니다. 
+- 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
 - (6 Lessons)
 - 일주일1회 혹은 2회 총50분*6회 입니다. 
 - (1 or 2 times per Week/ 50min*6)
