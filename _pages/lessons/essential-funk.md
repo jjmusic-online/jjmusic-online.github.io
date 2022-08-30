@@ -5,10 +5,10 @@ permalink: /lessons/essential-Funkpiano
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-#### Funk Piano Workshop for 6 Lessons
+#### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
 - (Funk Pinao 특강) 9월 13일 개강 
-- (Open on 13th September 2022)
+- (Opens on 13th September 2022)
 - 총6회에 걸쳐서 펑크 피아노 특강을 진행합니다. 
 - (6 Lessons)
 - 일주일1회 혹은 2회 총50분*6회 입니다. 
@@ -25,7 +25,7 @@ permalink: /lessons/essential-Funkpiano
 *Practice patterns that build a solid foundation for simple yet varied patterns on downbeats and upbeats.*)
 
 - 탄탄한 기둥 기본 리듬에 흐르는 박자에 맞춰 맛갈나는 Fill in을 채우는 방식을 
-공부합니다. (블루스스케일, 펜타토닉을 사용합니다) 
+공부합니다. (리듬만들기 유용한 화성형 블루스 릭, 블루스스케일, 펜타토닉을 사용 법) 
 - (The method of delicious fill in according to the flowing beat on the solid basic rhythm.
 - (blues scales, pentatonic)
 
@@ -47,7 +47,11 @@ permalink: /lessons/essential-Funkpiano
 - 입시초견훈련 (Funk/Straight)
 - (University Audition)
 
-#### More Info: jazzydusmusic@gmail.com 
+#### 레슨 결제하기
+- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨비 알아보기 및 결재 (알짜배기 Funk Piano 특강 6주)</a> 
+  
+#### More Info
+- jazzydusmusic@gmail.com 
 
 
 
