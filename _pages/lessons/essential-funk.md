@@ -12,7 +12,7 @@ permalink: /lessons/essential-Funk Piano
 - 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
 - (6 Lessons)
 - 일주일1회 혹은 2회 총60분*6회 입니다. 
-- (1 or 2 times per Week/ 50min*6)
+- (1 or 2 times per Week/ 60min*6)
 - 개인 맞춤별 수업 
 - (1:1 Private Lesson)
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능 모든 수업자료 및 악보는  PDF파일로 제공합니다.
