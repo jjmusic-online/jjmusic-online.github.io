@@ -53,7 +53,7 @@ permalink: /lessons/essential-funk
 - 입시초견훈련 (Funk/Straight)
 - (University Audition)
 
-#### 레슨 결제하기
+#### 레슨 결제하기 (Check Out)
 - <a href="https://jazzydusmusic.gumroad.com/l/kyjzp?_gl=1*gt8kko*_ga*OTc0OTczODcyLjE2MDkxNjQ2MjE.*_ga_6LJN6D94N6*MTY2MTg1NjMwNS4zMC4xLjE2NjE4NTc2NzYuMC4wLjA." target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
   
 #### More Info
