@@ -35,8 +35,14 @@ permalink: /lessons/essential-funk
 - Dominant 코드에서의 Funk Voicings and Licks 
 - (Voicings and Licks for Funk in Dominant Chords)
 
+- 연속 도미넌트 코드에서의 Funk Voicings and Licks
+- (Voicings and Licks for Extended Dominant Chords)
+
 - 일반적인 발라드 진행에서의 Funk Piano (Advanced)
 - (Funk Piano in Formal Ballad Progression (Advanced))
+
+- II-7 V7의 펑크 표현 , I  I/3 IV V7 의 펑크 표현
+- (Expression on II-7 V7 , Expression on I I/3 IV V7)
 
 - 다양한 베이스라인과 오른손 컴비네이션 
 - (Variety of Baselines with using Right Hand Combinations)  
