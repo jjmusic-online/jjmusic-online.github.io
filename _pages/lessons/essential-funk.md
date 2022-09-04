@@ -54,9 +54,9 @@ permalink: /lessons/essential-funk
 - (University Audition)
 
 #### 레슨 결제하기 (Pay for Lessons)
-- <a href="jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
-- <a href="jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> Pay for lessons (Funk Piano Workshop)</a>
-- <a href="jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> Unterricht bezahlen (Funk Piano Workshop)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
+- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> Pay for lessons (Funk Piano Workshop)</a>
+- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> Unterricht bezahlen (Funk Piano Workshop)</a>
   
 #### More Info
 - jazzydusmusic@gmail.com 
