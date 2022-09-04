@@ -44,6 +44,9 @@ permalink: /lessons/essential-funk
 - II-7 V7의 펑크 표현 , I  I/3 IV V7 의 펑크 표현
 - (Expression on II-7 V7 , Expression on I I/3 IV V7)
 
+- V7sus4의 펑크표현
+- (Expression on V7sus4)
+
 - 다양한 베이스라인과 오른손 컴비네이션 
 - (Variety of Baselines with using Right Hand Combinations)  
 
