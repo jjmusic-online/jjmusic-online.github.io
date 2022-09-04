@@ -26,17 +26,17 @@ permalink: /lessons/essential-funk
 
 - 탄탄한 기둥 기본 리듬에 흐르는 박자에 맞춰 맛갈나는 Fill in을 채우는 방식을 
 공부합니다. (리듬만들기 유용한 화성형 블루스 릭, 블루스스케일, 펜타토닉을 사용 법) 
-- (The method of delicious fill in according to the flowing beat on the solid basic rhythm.
+- (The method of tasty fill in according to the flowing beat on the solid basic rhythm.
 - (blues scales, pentatonic)
 
 - Minor Blues 진행과 Funk Piano 12마디의 마이너 블루스 진행 전체를 펑크피아노로 연주할 수 있습니다.
-- (Minor Blues Progression and Funk Piano The entire 12-bar minor blues progression can be played on a funk piano.)
+- (Minor Blues Progression and Funk Piano The entire 12-bars minor blues progression can be played on a funk piano.)
 
 - Dominant 코드에서의 Funk Voicings and Licks 
-- (Voicings and Licks for Funk in Dominant Chords)
+- (Voicings and Licks for Funk on Dominant Chords)
 
 - 연속 도미넌트 코드에서의 Funk Voicings and Licks
-- (Voicings and Licks for Extended Dominant Chords)
+- (Voicings and Licks on Extended Dominant Chords)
 
 - 일반적인 발라드 진행에서의 Funk Piano (Advanced)
 - (Funk Piano in Formal Ballad Progression (Advanced))
