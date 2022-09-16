@@ -7,8 +7,8 @@ permalink: /lessons/essential-funk
 
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
-- Funk Pinao 특강 9월 13일 개강 
-- (Starts on 13th September 2022)
+- Funk Pinao 특강 
+- (Funk Piano Workshop)
 - 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
 - (6 Lessons)
 - 일주일1회 혹은 2회 총60분*6회 입니다. 
