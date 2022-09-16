@@ -38,6 +38,12 @@ permalink: /lessons/essential-funk
 - 마이너 2-5-1에서의 Funk 피아노 표현과 그루브 
 - Minor2-5-1 Funk Piano Voicing expresson and Groove
   
+- 비밥도미넌트 스케일을 이용한 펑크 보이싱 만들기 
+- Bebop Dominant Scale with Funk Dominant Voicings
+
+- 도리안 스케일을 이용한 펑크 보이싱 만들기 
+- Dorian Scale with Funk minor Voicings 
+
 - Dominant 코드에서의 Funk Voicings and Licks 
 - (Voicings and Licks for Funk on Dominant Chords)
 
