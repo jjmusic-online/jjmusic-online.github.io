@@ -37,10 +37,10 @@ permalink: /lessons/essential-funkeng
 - University Audition
 - Essential Funk Tunes Theme
 
-#### 레슨 결제하기 (Pay for Lessons)
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Funk Piano Workshop)</a>
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Funk Piano Workshop)</a>
+#### Pay for Lessons
+
+- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> (U.S $)Pay for lessons (Funk Piano Workshop)</a>
+- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
   
 #### More Info
 - jazzydusmusic@gmail.com 
