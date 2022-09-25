@@ -42,6 +42,8 @@ permalink: /lessons/
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
 - Jazz Harmony (32 Weeks)
+- Voicing Workshop for 6 weeks
+- <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks </a>
 
 ### Unterrichten auf Deutsch
 
@@ -51,6 +53,8 @@ permalink: /lessons/
 - Anfänger Wiederreinsteiger Fortgeschrittener
 - Reharmonization für 12 Wochen
 - Jazz Harmony(32 Wochen)
+- Voicing Workshop (6 Wochen)
+- Funk Piano Workshop (6 Wochen)
 
  - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
     <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
