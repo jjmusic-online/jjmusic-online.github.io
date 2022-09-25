@@ -58,6 +58,9 @@ permalink: /lessons/essential-funk
 - 연속 도미넌트 코드에서의 Funk Voicings and Licks
 - (Voicings and Licks on Extended Dominant Chords)
 
+- 큰 호흡으 연주하는 블루스 릭 비법
+- The secret to playing long blues licks
+
 
 - 일반적인 발라드 진행에서의 Funk Piano (펑크로 편곡하기) (Advanced)
 - (Funk Piano in Formal Ballad Progression (Advanced))
