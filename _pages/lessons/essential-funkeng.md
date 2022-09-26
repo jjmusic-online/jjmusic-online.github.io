@@ -9,7 +9,7 @@ permalink: /lessons/essential-funkeng
 
 - Funk Piano Workshop
 - 6 Lessons
-- 1 or 2 times per Week/ 60min*6
+- 1 or 2 times per Week/ 50min*6
 - 1:1 Private Lesson
 - Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
 
