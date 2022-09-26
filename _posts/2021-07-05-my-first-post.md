@@ -4,11 +4,13 @@ title: "JJ Online Lessons"
 date: 2021-07-05
 ---
 
-#### Skype Lessons
+## Online Private(1:1) Jazz Piano and Theory Lessons
+
+#### Online Lessons
   
- - 온라인 개인레슨 강의 (1:1)  45분/60분 
- - Online Lesson (1:1) 45,60 Minutes
- - Online Einzelunterricht (1:1) 45,60 Minuten
+ - 온라인 개인레슨 강의 (1:1)  45분/60분 (한국어)
+ - <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 45,60 Minutes (English)</a>
+ - <a href="/lessons/onlinelesson-deutsch">Online Einzelunterricht (1:1) 45,60 Minuten (Deutsch)</a>
  
 ### Lessons in Korean(한국어)
  
@@ -16,9 +18,9 @@ date: 2021-07-05
 
 - 실용음악 재즈피아노 및 작곡 입시
 - 취미 (초급,중급,고급)
-- - <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
+- <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
 - 알짜배기 스케일 활용 즉흥연주 특강 (4주)
-- - <a href="/lessons/essential-funk">알짜배기 펑크 및 스트레이트 특강 (6주)</a>
+- <a href="/lessons/essential-funk">알짜배기 Funk Piano 및 스트레이트 특강 (6주)</a>
 - 알짜배기 입시특강 코드초견 종합완성 (14주)
 - 리하모니제이션 핵심기법 단기완성 (12주)
 - 이론정복! 재즈화성법 완성(32주)
@@ -29,6 +31,8 @@ date: 2021-07-05
     <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.2)</a>
  - 레슨구경하러 가기 (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
+ - <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨결제하기 (알짜배기 코드초견 보이싱 특강 6주)</a>   
+ - <a href="https://jazzydusmusic.gumroad.com/l/vlpbh" target="_blank"> 레슨결제하기 (리하모니제이션 첨삭받기+해당 첨삭 동영상연주로 받기 (1회))</a>
 
 ### Lessons in English.
 
@@ -38,6 +42,8 @@ date: 2021-07-05
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
 - Jazz Harmony (32 Weeks)
+- Voicing Workshop for 6 weeks
+- <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks </a>
 
 ### Unterrichten auf Deutsch
 
@@ -47,6 +53,8 @@ date: 2021-07-05
 - Anfänger Wiederreinsteiger Fortgeschrittener
 - Reharmonization für 12 Wochen
 - Jazz Harmony(32 Wochen)
+- Voicing Workshop (6 Wochen)
+- Funk Piano Workshop (6 Wochen)
 
  - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
     <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
@@ -54,7 +62,6 @@ date: 2021-07-05
 
 ### More Info & Curriculum
 - jazzydusmusic@gmail.com
-
 
 
 
