@@ -5,13 +5,20 @@ permalink: /lessons/onlinelesson-deutsch
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-### Lessons in English.
+### Unterrichten auf Deutsch
 
-- Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
+- Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
-- University Audition
-- Beginner Intermediate Advanced
-- Reharmoniztion Technique for 12 Weeks
-- Jazz Harmony (32 Weeks)
-- Voicing Workshop for 6 weeks
-- <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks</a>
+- Studienvorbereitung
+- Anfänger Wiederreinsteiger Fortgeschrittener
+- Reharmonization für 12 Wochen
+- Jazz Harmony(32 Wochen)
+- Voicing Workshop (6 Wochen)
+- Funk Piano Workshop (6 Wochen)
+
+ - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
+    <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
+
+
+### More Info & Curriculum
+- jazzydusmusic@gmail.com
