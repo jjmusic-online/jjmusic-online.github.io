@@ -22,7 +22,7 @@ permalink: /about/about-eng
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹Performing and Recording Experience(2006-Present)
-- (Germany)Peace Together for Teenagers at Korean Embassy in Berlin Germany 07.2022
+- (Germany)Peace Together for Teenagers at Embassy of the Republic of Korea, Berlin Germany 07.2022
 - (Germany)Peace Together for Teenagers at Leipziger Kurbus, Leipzig 07.2019
 - (Germany)City Jazz Chemnitz Solo Piano 2019.05
 - (Germany)6.Chemnitzer Neujahrs Konzert 2019.01 
