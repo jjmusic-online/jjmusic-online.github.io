@@ -8,9 +8,9 @@ date: 2021-07-05
 
 #### Online Lessons
   
- - 온라인 개인레슨 강의 (1:1)  45분/60분 (한국어)
- - <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 45,60 Minutes (English)</a>
- - <a href="/lessons/onlinelesson-deutsch">Online Einzelunterricht (1:1) 45,60 Minuten (Deutsch)</a>
+ - 온라인 개인레슨 강의 (1:1)  50분 (한국어)
+ - <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 50 minutes (English)</a>
+ - <a href="/lessons/onlinelesson-deutsch">Online Einzelunterricht (1:1) 50 Minuten (Deutsch)</a>
  
 ### Lessons in Korean(한국어)
  
