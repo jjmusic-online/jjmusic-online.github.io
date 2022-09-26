@@ -1,7 +1,7 @@
 ---
 layout: "pages"
-title: "Online Lesson (in English)"
-permalink: /lessons/onlinelesson-neng
+title: "Online Lesson(in English)"
+permalink: /lessons/onlinelesson-eng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
