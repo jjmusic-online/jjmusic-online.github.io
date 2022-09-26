@@ -9,7 +9,7 @@ permalink: /lessons/
 #### Online Lessons
   
  - 온라인 개인레슨 강의 (1:1)  45분/60분 
- - <a href="/lessons/onlinelesson-eng"> Online Lesson (1:1) 45,60 Minutes (English) </a>
+ - <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 45,60 Minutes (English)</a>
  - Online Einzelunterricht (1:1) 45,60 Minuten (Deutsch)
  
 ### Lessons in Korean(한국어)
