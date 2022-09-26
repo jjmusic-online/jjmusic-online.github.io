@@ -8,17 +8,19 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 - <a href="/about/about-eng">JJ's Profile in English</a>
-- 2017년부터 현 독일 거주🇩🇪
+- 2017년부터 현 독일 베를린 거주🇩🇪
 - 경희대학교 포스트모던음악학과 수석 학사졸업 2005(4년장학생)
 - 숙명여자대학교 교육대학원 음악교육전공 석사졸업 2009
 - 뉴욕시립대학교 퀸즈컬리지 재즈퍼포먼스 석사 졸업 2012
 - 광주 광신대학교 풀타임 조교수 역임 (4년) 2013-2017
 - 경희대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 (외래강의경력 2년6개월) 2009,2010,2012
+- 경북예술고등학교, 서울공연예술고등학교 출강 2012. 2017
 - 국내외 대학 입시경력 18년 총 100명이상,상위권50명이상 배출 2000-현재
+  
 
 - 1.2018 - 9.2019 Thomas Mann Platz Musikschule, Chemnitz, Germany 독일뮤직슐레근무
 - 10.2019-12.2020 Elternzeit in Germany 육아휴직 
-- 1.2021- 독일 베를린에서 전문 연주자 활동 및 교육자 
+- 1.2021-현재 독일 베를린 전문 연주자 활동 및 교육자
 
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
