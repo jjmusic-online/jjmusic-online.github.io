@@ -12,7 +12,7 @@ permalink: /about/about-eng
 - Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
 - U.S.A.🇺🇸 City University of New York, Queens College, Jazz Performane (M.M.) 
 - Worked as an Assistant Professor and an Instructor 
-- at KyungHee Univ. Kwangshin Univ.Kukje Univ. Dong-ah Institute of Media and Arts(DIMA), Seoul Theological Univ. in South Korea 
+- at KyungHee Univ. Kwangshin Univ.Kukje Univ. Dong-ah Institute of Media and Arts(DIMA). Kukje Art Unir. Seoul Theological Univ. in South Korea 
 
 - 1.2018 - 9.2019  Pianoteacher at Thomas Mann Platz Musikschule, Chemnitz, Germany
 - 10.2019-12.2020 Parental leave in Germany
@@ -21,14 +21,14 @@ permalink: /about/about-eng
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
 
-## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
+## 🎹Performing and Recording Experience(2006-Present)
 - (Germany)Peace Together for Teenagers at Korean Embassy in Berlin Germany 07.2022
 - (Germany)Peace Together for Teenagers at Leipziger Kurbus, Leipzig 07.2019
 - (Germany)City Jazz Chemnitz Solo Piano 2019.05
-- (Germany) 6.Chemnitzer Neujahrs Konzert 2019.01 
-- (Germany) 6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 2018.11
-- (Germany) Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 2018.10
-- (Germany) Frauen Treffen in Deutschland Pianist 
+- (Germany)6.Chemnitzer Neujahrs Konzert 2019.01 
+- (Germany)6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 2018.11
+- (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 2018.10
+- (Germany)Frauen Treffen in Deutschland Pianist Chemnitz
 - (Germany)Anstaltungen(Klavier) in Studentenwerk Chemnitz 
 
 
@@ -37,10 +37,10 @@ permalink: /about/about-eng
 - CD: C2J Trio 2013 International Jazz Day (2013)Korea 
 - CD: Veritas'You Never Fail'(2013)Korea 
 - CD: Seoul Soloist Jazz Orchestra.2 (2012)Korea
-- CD: SBS Superstar Survival 슈퍼스타 서바이벌 OST(2006)Korea
+- CD: SBS Superstar Survival OST(2006)Korea
 - CD: Kang Hyosun 'Attraction'(2006)Korea 
 - CD: Son Jiyeon 3rd Recording (2009)Korea
-- CD: Seoul Sololist Jazz Orchestra.1 서울솔리스트오케스트라 1집(2010)Korea
+- CD: Seoul Sololist Jazz Orchestra.1 (2010)Korea
 - Sumida Jazz Festival Performance (2010) Japan
 - Queens College,Lefrak Concert Hall'Graduation and Award Ceremony'Performance(2011) NewYork 
 - WBGO Jazz 88.3 FM Live Performance (2010 )NewYork
