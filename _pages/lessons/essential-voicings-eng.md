@@ -1,91 +1,86 @@
 ---
 layout: "pages"
 title: "Essential Voicings"
-permalink: /lessons/essential-voicings0-eng
+permalink: /lessons/essential-voicings-eng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
 #### Pop 
-- 보이싱 기본 패턴 체크
 
-- 오픈보이싱 기본패턴 체크 
-  
-- 목적을 갖고 의미있는 아르페지오 활용하기 
+- Voicing basic pattern check
+- Open Voicing Basic Pattern Check
+- Using Arpeggios with Purpose and Meaning
+- The ratio of voicings and arpeggios (still VS motion)
 
-- 보이싱과 아르페지오의 비율에 관한 연구(정지VS움직임)
+#### Functional Chord Changes (Pop)
 
-- 보이지 않는 진행요리하기
+1) Pop Approach
 
-1) 팝 어프로치 
- 
-2) 베이스 흐름 및 라인바꾸기
+2) Base flow and line changing
 
-3) 도미넌트 분할하기
+3) Dividing Dominant Chords
 
-4) 팝에서 과하지 않는 Tritone Sub 짝꿍 훈련과 텐션찾기
+4) Tritone Sub matching training and tension finding in pop
 
-5) 보이스 리딩 (메이져, 마이너)
+5) Voice leading (Major, Minor)
 
-6) 다양한 방향의 라인클리셰와 위치(내성/외성)
+6) Line clichés and positions in various directions (introversion/externality)
 
-7) 팝에서 사용하는 Borrowed Diminished
+7) Borrowed Diminished Chords  in pop
 
-8) Gospel적인 어프로치
+8) Gospel-like approach
 
-9) 엔딩(토닉)코드보이싱 꾸밈 모음
+9) Ending (tonic) chord voicing embellishments 
 
-10)Sycopation 그리고 R&B style에 관한 연구
+10) Sycopation and R&B style
 
-- 단일텐션 사용 및 텐션의 좋은 조합 훈련하기 
+Training using single tension and good combinations of tensions
 
-- 착하지 않은 진행 (Non functional 한 진행 훈련하기)
+Non functional Chord Change training and Melodies
 
-- 마이너진행 만드는 법
+How to make a minor progressions
 
-- 외우고 있으면 유용한 진행 모음 안내
+Essential Chord Progressions that you must memorize 
 
 #### Jazz Ballad
-- ##### 초견예제 1
 
-1) 도미넌트 어퍼스트럭쳐
+- example 1
 
-2) 마이너 어퍼스트럭쳐
+1) Dominant Aperture
 
-3) 메이저 어퍼스트럭쳐 
+2) Minor Aperture
 
-3) 디미니쉬드 어퍼스트럭쳐
+3) Major Aperture
 
-4) 디미니쉬드 Drop2
+4) Demined Aperture
 
-5) 하프디미니쉬드 Drop2
+5) Demined Drop2
 
-6) Block Chord 쉽게 보이싱에 적용 활용하는 팁
+6) Half-demined Drop2
 
-7) Borrowed Diminished
+7) Tips to easily apply Block Chord to voicing
 
-8) 양손컴핑 보이싱(Two Handed Voicing) 활용한 재즈발라드
+8) Borrowed Diminished
 
-9) Rootless Voicing을 활용한 재즈발라드
+9) Jazz ballad using Two Handed Voicing
 
-- ##### 초견예제 2 
+10) Jazz ballad using Rootless Voicing
 
-1) 마이너 투파이브 리하모니제이션 및 왼손 변형 라인 from Bill Evans (흐르는 왼손에 관한 연구)
+- example 2
 
-2) 메이저 투파이브 리하모니제이션 및 Tritone Sub + Training of Tritone sub Dom with Tentions
+1) Minor Two-Five Reharmonization and Left Hand Deformation Line from Bill Evans (Study on the Flowing Left Hand)
 
+2) Major Two-Five Reharmonization and Tritone Sub + Training of Tritone sub Dom with Tentions
 
-- ##### 초견예제 3
+- example 3
 
-1) 마이너 코드 Drop2
+1) Minor Chord Drop2
 
-2) 마이너 메이져 코드 Drop2
+2) Minor Major Chord Drop2
 
-3) 메이저 코드 Drop2
+3) Major Chord Drop2
 
-4) 로크리안 #2 모드를 이용한 하프디미니쉬드 코드 연습법
-   
-4) 발라드 초견시 Fill in Scale 쉽게 연습하는 법.
+4) How to practice half-demined chords using Lokrian #2 mode
 
-
-
+5) How to easily practice (fill in Scale when you play ballads)
 
