@@ -26,15 +26,16 @@ permalink: /lessons/
 - 이론정복! 재즈화성법 완성(32주)
   
  
-  #### 레슨구경하러 가기 
+#### 레슨 구경하러 가기 
   
-- 레슨구경하러 가기 (코드편곡) No.1
+- (코드편곡) No.1
     <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.1)</a>
- - 레슨구경하러 가기 (보이싱특강) No.2
+ - (보이싱특강) No.2
     <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.2)</a>
- - 레슨구경하러 가기 (환경세팅 및 레슨) No.3
+ - (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
- - <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+  <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">
+  #### 수강생 후기 보러가기</a>
   
  
 ### Lessons in English.
