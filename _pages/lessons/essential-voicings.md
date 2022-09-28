@@ -86,7 +86,7 @@ permalink: /lessons/essential-voicings
    
 4) 발라드 초견시 Fill in Scale 쉽게 연습하는 법.
 
-- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨결제하기 (알짜배기 코드초견 보이싱 특강 6주)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨비 알아보기 및 레슨결제 (알짜배기 코드초견 보이싱 특강 6주)</a>
 
 
 
