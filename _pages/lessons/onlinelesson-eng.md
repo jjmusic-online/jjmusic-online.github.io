@@ -13,5 +13,5 @@ permalink: /lessons/onlinelesson-eng
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
 - Jazz Harmony (32 Weeks)
-- Voicing Workshop for 6 weeks
+- <a href="/lessons/essential-voicings-eng">Voicing Workshop for 6 weeks</a>
 - <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks</a>
