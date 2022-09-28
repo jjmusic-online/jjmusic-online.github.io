@@ -36,8 +36,7 @@ permalink: /lessons/
     <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.2)</a>
  - (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
-  <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">
-  #### 수강생 후기 보러가기</a>
+  #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
   
  
 ### Lessons in English.
@@ -63,7 +62,8 @@ permalink: /lessons/
   - Funk Piano Workshop (6 Wochen)
 
   #### Zum Unterricht gehen 
-  (Lesson Sample. 1 Pop Piano)<a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
+  (Lesson Sample. 1 Pop Piano)
+<a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
 
 
 ### More Info & Curriculum
