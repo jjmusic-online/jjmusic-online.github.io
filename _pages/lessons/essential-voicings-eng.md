@@ -84,3 +84,9 @@ Essential Chord Progressions that you must memorize
 
 5) How to easily practice (fill in Scale when you play ballads)
 
+
+#### More Info 
+jazzydusmusic@gmail.com 
+
+
+- <a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank"> Pay for Lessons(Voicing Workshop)</a>
