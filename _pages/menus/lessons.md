@@ -37,7 +37,8 @@ permalink: /lessons/
 - (환경세팅 및 레슨) No.3
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.3)</a>
 - (Funk Piano 레슨) No.4 
-    <a href="https://youtu.be/93QkhEATEMc"target="_blank"> (Video Korean.4)</a>
+    <a href="https://youtu.be/93QkhEATEMc"
+    target="_blank"> (Video Korean.4)</a>
 - <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
  
 ### Lessons in English.
