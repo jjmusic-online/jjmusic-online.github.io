@@ -5,6 +5,8 @@ permalink: /lessons/essential-funk
 ---
 <a href="/lessons">< Back to Lessons</a>
 
+#### 펑크 피아노 단기 온라인 특강 , 펑크 피아노 온라인 레슨
+
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
 - Funk Pinao 특강 
