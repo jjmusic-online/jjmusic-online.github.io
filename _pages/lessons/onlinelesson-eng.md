@@ -5,7 +5,7 @@ permalink: /lessons/onlinelesson-eng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-### Online Jazzpiano Lesson , Online Piano Lesson
+### Online Jazzpiano Lesson , Online Piano Lesson in Berlin 
 ### Lessons in English.
 
 - Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
