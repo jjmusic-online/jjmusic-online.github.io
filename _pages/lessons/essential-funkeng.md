@@ -5,6 +5,7 @@ permalink: /lessons/essential-funkeng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
+#### Funk Piano Online Lesson 
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
 - Funk Piano Workshop
