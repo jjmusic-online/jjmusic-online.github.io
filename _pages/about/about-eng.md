@@ -12,9 +12,14 @@ permalink: /about/about-eng
 - Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
 - U.S.A.🇺🇸 City University of New York, Queens College, Jazz Performane (M.M.) 
 - Worked as an Full time Assistant Professor and an Instructor in South Korea
-  (KyungHee Univ. Kwangshin Univ.Kukje Univ. Dong-ah Institute of Media and Arts(DIMA) Kukje Art Unir. Seoul Theological Univ. School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.Kyungbok High School of Arts)
+  KyungHee Univ. Suwon
+  Kwangshin Univ.Kukje Univ. 
+  Dong-ah Institute of Media and Arts(DIMA) Kukje Art Univ. Seoul
+  Seoul Theological Univ. 
+  School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
+  Kyungbok High School of Arts
 
-- 1.2018 - 9.2019  Pianoteacher at Thomas Mann Platz Musikschule, Chemnitz, Germany
+- 1.2018 - 9.2019  Piano Teacher at Thomas Mann Platz Musikschule, Chemnitz, Germany
 - 10.2019-12.2020 Parental leave in Germany
 - 1.2021- Freelancer, Professional musician, Educator
 
