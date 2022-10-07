@@ -5,7 +5,7 @@ permalink: /lessons/essential-voicings-eng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-#### Online Piano Lessons
+#### Online Piano Lessons in Berlin 
 #### Pop 
 
 - Voicing basic pattern check
