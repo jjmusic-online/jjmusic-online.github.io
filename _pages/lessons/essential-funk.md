@@ -25,8 +25,8 @@ permalink: /lessons/essential-funk
 *Practice patterns that build a solid foundation for simple yet varied patterns on downbeats and upbeats.*
 
 
-- 탄탄한 기둥 기본 리듬에 흐르는 박자에 맞춰 맛갈나는 Fill in을 채우는 방식을 
-공부합니다. (리듬만들기 유용한 화성형 블루스 릭, 블루스스케일, 펜타토닉을 사용 법) 
+- 탄탄한 기둥 기본 리듬에 흐르는 박자에 맞춰 맛갈나는 Fill in을 채우는 방식을 공부합니다. (리듬만들기 유용한 화성형 블루스 릭, 블루스스케일, 펜타토닉을 사용 법) 
+
 - (The method of tasty fill in according to the flowing beat on the solid basic rhythm.
 - (blues scales, pentatonic)
 
@@ -72,6 +72,8 @@ permalink: /lessons/essential-funk
 
 - V7sus4의 펑크표현
 - (Expression on V7sus4)
+- 원코드 펑크
+- (One Chord Funk)
 
 
 - 다양한 베이스라인과 오른손 컴비네이션 
