@@ -5,7 +5,7 @@ permalink: /lessons/onlinelesson-deutsch
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-### Online Klavierunterricht (Jazzklavier, Jazzpiano)
+### Online Klavierunterricht (Jazzklavier, Jazzpiano) in Berlin 
 ### Unterrichten auf Deutsch
 
 - Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
