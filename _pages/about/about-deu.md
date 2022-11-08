@@ -8,7 +8,7 @@ permalink: /about/about-deu
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## Schulbildung
-- JJ lebt mit ihrer Familie in Hermsdorf, Berlinn, Deutschland 🇩🇪
+- Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 - Städtischen Universität in New York im Fach Jazzklavier(M.A) /U.S.A/ 2010-2012
 - Sookmyung Frauen Universität in Seoul im Fach Musikalische Pädagogik(M.Edu)/ Südkorea/ 2006-2009 
 - KyungHee Universität in Suwon im Fach Jazzklavier(B.A) /Südkorea/2001-2005  
@@ -17,7 +17,7 @@ permalink: /about/about-deu
 	title="Photo of JJ" style="min-width: 150px" />
     
 ## Die Unterrichten als Dozentin und Professorin
-- Private Lessons/Onlin Kurs (Berlin, Deutschland)
+- Private Lessons/Online Kurs (Berlin, Deutschland)
 2021.01-Heute
 - Elternzeit(Deutschland)
 2019.09-2020.12
@@ -41,9 +41,7 @@ permalink: /about/about-deu
 - Dozentin in Kukje Universität (Seoul, Korea)
 2009. 03 – 2010. 08 Applied Music Dep.
 :Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I,II
--School Of Continuing Education Seoul Christian Universität (Seoul, Korea)
-2010.03-2010.08
-:Jazz Piano 15weeks 3hours a week.
+-School Of Continuing Education Seoul Christian Universität (Seoul, Korea) 2010.03-2010.08 :Jazzklavier 
 
 ## 🎹 Konzerte und Aufnehmen (2006-heute)
 - (Deutschland) Peace Together for Teenagers in Botschaft der Republik Korea in Berlin 07.22
@@ -67,8 +65,8 @@ permalink: /about/about-deu
 - Seoul Sololist Jazz Orchestra I (2010)Korea
 ## ect.. 
 - Sumida Jazz Festival Performance (2012)Japan
-- Queens College,Lefrak Concert Hall ' Graduation and Award Ceremony '
--  Performance (2011) NewYork WBGO Jazz 88.3 FM Live Performance (2010) New York, USA
+- Queens College,Lefrak Concert Hall ' Graduation and Award Ceremony ' Performance (2011) New York, USA
+- WBGO Jazz 88.3 FM Live Performance (2010) New York, USA
 - Korean Jazz People Rising Stars 5 (2010) Korea
 - Takatsuki Jazz Street, Performance (2010) Japan
 - Week of Korea China Friendship Performance (2010) Jangchun, Inner Mongolia, China
