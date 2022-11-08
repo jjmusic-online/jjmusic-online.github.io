@@ -8,6 +8,7 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 - <a href="/about/about-eng">JJ's Profile in English</a>
+- <a href="/about/about-deu">JJ's Profile in German</a>
 - 2017년부터 현 독일 베를린 거주🇩🇪
 - 경희대학교 포스트모던음악학과 수석 학사졸업 2005(4년장학생)
 - 숙명여자대학교 교육대학원 음악교육전공 석사졸업 2009
