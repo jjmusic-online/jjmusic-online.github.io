@@ -6,7 +6,7 @@ permalink: /lessons/essential-scale
 <a href="/lessons">< Back to Lessons</a>
 
 #### Improvisation 기초특강 
-### 6회레슨 * 50분 
+### 6회레슨 * 50분 (Online Live 1:1 Lesson)
 
 - 	Chord Tone Soloing
 -   Approach System 이해하기
