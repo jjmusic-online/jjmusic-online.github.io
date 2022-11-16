@@ -1,7 +1,7 @@
 ---
 layout: "pages"
 title: "Essential Scale and Improv"
-permalink: /lessons/essential-scale
+permalink: /lessons/essential-scale-eng
 ---
 <a href="/lessons">< Back to Lessons</a>
 
@@ -35,7 +35,7 @@ permalink: /lessons/essential-scale
 
 #### Pay for Lessons
  
-- <a href="hhttps://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
 
 
 #### Lesson Samples 
