@@ -35,8 +35,8 @@ permalink: /lessons/essential-scale
 
 #### 레슨 결제하기 (Pay for Lessons)
 - <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 즉흥연주 특강 6주)</a> 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Scale & Improv Workshop)</a>
+- <a href="jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
+
 
 #### 레슨 구경하러 가기 
 - (Funk Piano 레슨) No.1 
