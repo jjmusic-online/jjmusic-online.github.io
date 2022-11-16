@@ -33,23 +33,23 @@ permalink: /lessons/essential-scale
 - Screen sharing method (Keyboard/Writing App/Chordie Keyboard App) Recorded class contents can be saved (excellent for review) All class materials and sheet music are provided as PDF files.
 
 
-#### 레슨 결제하기 (Pay for Lessons)
-- <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 즉흥연주 특강 6주)</a> 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Scale & Improv Workshop)</a>
+#### Pay for Lessons
+ 
+- <a href="hhttps://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
 
-#### 레슨 구경하러 가기 
-- (Funk Piano 레슨) No.1 
+
+#### Lesson Samples 
+- (Funk Piano) No.1 
     <a href="https://youtu.be/93QkhEATEMc"
     target="_blank"> (Video Korean.1)</a>  
-- (코드편곡) No.2
+- (Chord Arranging) No.2
     <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.2)</a>
-- (보이싱특강) No.3
+- (Voicing Workshop) No.3
     <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.3)</a>
-- (환경세팅 및 레슨) No.4
+- (Setting) No.4
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.4)</a>
 
-#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">Feedback</a>
 
   
 #### More Info
