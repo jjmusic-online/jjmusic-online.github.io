@@ -13,6 +13,7 @@ permalink: /lessons/onlinelesson-eng
 - University Audition
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
+- Sacle and Improv Workshop (6 Weeks)
 - Jazz Harmony (32 Weeks)
 - <a href="/lessons/essential-voicings-eng">Voicing Workshop for 6 weeks</a>
 - <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks</a>
