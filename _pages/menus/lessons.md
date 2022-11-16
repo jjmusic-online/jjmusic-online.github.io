@@ -50,6 +50,7 @@ permalink: /lessons/
   - Reharmoniztion Technique for 12 Weeks
   - Jazz Harmony (32 Weeks)
   - Voicing Workshop for 6 weeks
+  - <a href="/lessons/essential-scale-eng">Scale & Improv Workshop for 6 weeks
   - <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks </a>
 
 ### Unterrichten auf Deutsch
