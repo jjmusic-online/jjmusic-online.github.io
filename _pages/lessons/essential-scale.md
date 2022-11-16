@@ -9,14 +9,16 @@ permalink: /lessons/essential-scale
 ### 6회레슨 * 50분 
 
 - 	Chord Tone Soloing
+-   Approach System 이해하기
 - 	Blues Scale Soloing
 - 	Jazz Minor Scale Soloing 
 - 	Bebop Dominant Scale Soloing
 - 	Half-whole Diminished Scale Soloing
 - 	Chromatic Major Scale Soloing 
 - 	Altered Scale Soloing 
-- 	Transcription 분석방법 및 활용방법
--    Standard 적용
+-   Locrian/Locrian#2
+- 	교육적으로 Transcription 분석하는 방법  및 연습 방법
+-   Standard 적용
 
   - *Afternoon in Paris
   - *All the things you are
