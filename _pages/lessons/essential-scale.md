@@ -8,30 +8,30 @@ permalink: /lessons/essential-scale
 #### Improvisation 기초특강 
 ### 6회레슨 * 50분 
 
-- 1.	Chord Tone Soloing
-- 2.	Blues Scale Soloing
-- 3.	Jazz Minor Scale Soloing 
-- 4.	Bebop Dominant Scale Soloing
-- 5.	Half-whole Diminished Scale Soloing
-- 6.	Chromatic Major Scale Soloing 
-- 7.	Altered Scale Soloing 
-- 8.	Transcription 분석방법 및 활용방법
-- 9.   Standard 적용
+- 	Chord Tone Soloing
+- 	Blues Scale Soloing
+- 	Jazz Minor Scale Soloing 
+- 	Bebop Dominant Scale Soloing
+- 	Half-whole Diminished Scale Soloing
+- 	Chromatic Major Scale Soloing 
+- 	Altered Scale Soloing 
+- 	Transcription 분석방법 및 활용방법
+-    Standard 적용
 
-- *Afternoon in Paris
-- *All the things you are
-- *Fly me to the moon
-- *I’ll Close my eyes
-- *Autumn Leaves
-- *Recordame 
+  - *Afternoon in Paris
+  - *All the things you are
+  - *Fly me to the moon
+  - *I’ll Close my eyes
+  - *Autumn Leaves
+  - *Recordame 
 
-- Standard 곡을 중심으로 수업합니다. 정보전달 위주의 레슨이 아닌, 학습자를 매순간 모니터링합니다. 실력을 향상되는 레슨이 됩니다. 같이 열심히 해보실 분들 연락바랍니다. 기초부터 단단하게 시작하시고 싶은 분들. 솔로를 처음 시작하기 두려우신 분들. 혹은 이론적으로 정리가 안되어 늘 연습방법이 막막하신 분들. 초보자 입시생 전공자 혹은 선생님들을 위한 레슨입니다. 
+Standard 곡을 중심으로 수업합니다. 정보전달 위주의 레슨이 아닌, 학습자를 매순간 모니터링합니다. 실력을 향상되는 레슨이 됩니다. 같이 열심히 해보실 분들 연락바랍니다. 기초부터 단단하게 시작하시고 싶은 분들. 솔로를 처음 시작하기 두려우신 분들. 혹은 이론적으로 정리가 안되어 늘 연습방법이 막막하신 분들. 초보자 입시생 전공자 혹은 선생님들을 위한 레슨입니다. 
 
 
 
-- 일주일1회 혹은 2회 총50분*6회 입니다. 
+
 - 개인 맞춤별 수업 
-  - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능 모든 수업자료 및 악보는  PDF파일로 제공합니다.
+- 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능(복습에 탁월합니다) 모든 수업자료 및 악보는  PDF파일로 제공합니다.
 - (Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.)
 
 
