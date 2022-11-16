@@ -31,7 +31,6 @@ permalink: /lessons/essential-scale
 
 - 개인 맞춤별 수업 
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능(복습에 탁월합니다) 모든 수업자료 및 악보는  PDF파일로 제공합니다.
-- (Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.)
 
 
 #### 레슨 결제하기 (Pay for Lessons)
