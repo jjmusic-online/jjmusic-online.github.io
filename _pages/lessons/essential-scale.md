@@ -35,7 +35,7 @@ Standard 곡을 중심으로 수업합니다. 정보전달 위주의 레슨이 �
 
 
 #### 레슨 결제하기 (Pay for Lessons)
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 즉흥연주 특강 6주)</a> 
+- <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 즉흥연주 특강 6주)</a> 
 - <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
 - <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Scale & Improv Workshop)</a>
 
