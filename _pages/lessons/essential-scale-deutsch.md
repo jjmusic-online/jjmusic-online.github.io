@@ -1,7 +1,7 @@
 ---
 layout: "pages"
 title: "Essential Scale and Improv"
-permalink: /lessons/essential-scale-eng
+permalink: /lessons/essential-scale-deutsch
 ---
 <a href="/lessons">< Back to Lessons</a>
 
@@ -27,10 +27,10 @@ permalink: /lessons/essential-scale-eng
   - *Autumn Leaves
   - *Recordame 
 
-- Understanding the intervals that best characterize each scale. Let's try to understand the sound of a solo that makes good use of character notes. I teach you how to solo linguistically. The lesson focuses on one standard tunes and its  functional harmony. It is not a lesson focused on information delivery, but monitors the learner every moment. There is always a demonstration performance from me. This will be a lesson that will improve your skills. If you would like to work hard with me, please contact. Those who want to start from the basics. Those who are afraid to start solo for the first time. Or those who have not always been able to practice because they are not organized in theory. These are lessons for beginners or piano teachers as well. 
+- Verstehen der Intervalle, die jede Skala am besten charakterisieren. Lassen Sie uns versuchen, den Klang eines Solos zu verstehen, das die Charakternoten gut nutzt. Ich bringe dir bei, sprachlich solo zu sein. Der Unterricht konzentriert sich auf eine Standardmelodie und ihre funktionale Harmonie. Es ist keine Lektion, die sich auf die Bereitstellung von Informationen konzentriert, sondern überwacht den Lernenden in jedem Moment. Es gibt immer viele Demonstrationsperformance von mir. Dies wird eine Lektion sein, die Ihre Fähigkeiten verbessern wird. Wenn Sie hart mit mir arbeiten möchten, wenden Sie sich bitte an. Diejenigen, die mit den Grundlagen beginnen möchten. Diejenigen, die Angst haben, zum ersten Mal alleine zu starten. Oder diejenigen, die nicht immer praktizieren konnten, weil sie theoretisch nicht organisiert sind. Dies sind auch Unterrichtsstunden für Anfänger oder Klavierlehrer.
 
 
-- Screen sharing method (Keyboard/Writing App/Chordie Keyboard App) Recorded class contents can be saved (excellent for review) All class materials and sheet music are provided as PDF files.
+- Screen-Sharing-Methode (Keyboard/Writing App/Chordie Keyboard App) Aufgezeichnete Unterrichtsinhalte können gespeichert werden (hervorragend zur Überprüfung) Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 
 #### Pay for Lessons
