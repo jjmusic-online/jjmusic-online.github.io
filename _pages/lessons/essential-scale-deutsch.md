@@ -35,7 +35,7 @@ permalink: /lessons/essential-scale-deutsch
 
 #### Pay for Lessons
  
-- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank"> (Euro) Bezaheln für lessons (Scale & Improv Workshop)</a>
 
 
 #### Lesson Samples 
