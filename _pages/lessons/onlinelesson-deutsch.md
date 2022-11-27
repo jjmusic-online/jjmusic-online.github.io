@@ -14,8 +14,9 @@ permalink: /lessons/onlinelesson-deutsch
 - Anfänger Wiederreinsteiger Fortgeschrittener
 - Reharmonization für 12 Wochen
 - Jazz Harmony(32 Wochen)
-- Voicing Workshop (6 Wochen)
-- Funk Piano Workshop (6 Wochen)
+- <a href="/lessons/essential-voicings-deutsch">Voicing Workshop (6 Wochen)
+- <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
+- <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
 
  - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
     <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
