@@ -1,7 +1,7 @@
 ---
 layout: "pages"
 title: "Essential Funkpinao"
-permalink: /lessons/essential-funkeng
+permalink: /lessons/essential-funkdeutsch
 ---
 <a href="/lessons">< Back to Lessons</a>
 
