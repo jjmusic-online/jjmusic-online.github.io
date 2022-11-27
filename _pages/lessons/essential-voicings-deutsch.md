@@ -1,17 +1,17 @@
 ---
 layout: "pages"
 title: "Essential Voicings"
-permalink: /lessons/essential-voicings-eng
+permalink: /lessons/essential-voicings-deutsch
 ---
 <a href="/lessons">< Back to Lessons</a>
 
 #### Online Piano Lessons in Berlin 
 #### Pop 
 
-- Voicing basic pattern check
+- Voicing Basic Pattern Check
 - Open Voicing Basic Pattern Check
-- Using Arpeggios with Purpose and Meaning
-- The ratio of voicings and arpeggios (still VS motion)
+- Verwendung von Arpeggios mit Zweck und Bedeutung
+- Das Verhältnis von Voicings und Arpeggios (Bleiben VS Bewegung)
 
 #### Functional Chord Changes (Pop)
 
@@ -27,7 +27,7 @@ permalink: /lessons/essential-voicings-eng
 
 6) Line clichés and positions in various directions (introversion/externality)
 
-7) Borrowed Diminished Chords  in pop
+7) Borrowed Diminished Chords in pop
 
 8) Gospel-like approach
 
@@ -47,17 +47,17 @@ Essential Chord Progressions that you must memorize
 
 - example 1
 
-1) Dominant Aperture
+1) Dominant Upperstructure
 
-2) Minor Aperture
+2) Minor Upperstructure
 
-3) Major Aperture
+3) Major Upperstructure
 
-4) Demined Aperture
+4) Diminished Upperstructure
 
-5) Demined Drop2
+5) Diminished Drop2
 
-6) Half-demined Drop2
+6) Half-Dminished Drop2
 
 7) Tips to easily apply Block Chord to voicing
 
