@@ -9,38 +9,36 @@ permalink: /lessons/essential-funkeng
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
 - Funk Piano Workshop
-- 6 Lessons
-- 1 or 2 times per Week/ 50min*6
-- 1:1 Private Lesson
-- Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
+- 6 Klavierunterrichtstunde
+- 1 or 2  per Wochen/ 50min*6
+- 1:1 
+- Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 #### Curriculum
 
-- Basic Funk Rhythm to solidify your playing How to Build a Solid Basics (Minor Chords/Major Chords
-*Practice patterns that build a solid foundation for simple yet varied patterns on downbeats and upbeats.*
-- The method of tasty fill in according to the flowing beat on the solid basic rhythm.
-- blues scales, pentatonic
-- Minor Blues Progression and Funk Piano. The entire 12-bars minor blues progression can be played on a funk piano.
-- Rock Blues Progression and Funk Piano 
+- Grundlegender Funkrhythmus, um Ihr Spiel zu festigen. So bauen Sie solide Grundlagen auf (Moll-Akkorde/Dur-Akkorde
+*Patterns üben, die eine solide Grundlage für einfache, aber abwechslungsreiche Patterns auf Downbeats und Upbeats bilden.*
+- Die Methode des "Tasty Lick" nach dem fließenden Beat auf dem soliden Grundrhythmus.
+- Blues scale, Pentatonic
+- Minor Blues Progression und Funk Piano. Die gesamte 12-taktige Moll-Blues-Progression kann auf einem Funk-Klavier gespielt werden.
+- Rock Blues Progression und Funk Piano
 
-- Minor2-5-1 Funk Piano Voicing expresson and Groove
-- Bebop Dominant Scale with Funk Dominant Voicings
-- Dorian Scale with Funk minor Voicings 
-- Voicings and Licks for Funk on Dominant Chords
+- Minor2-5-1 Funk Piano Funk Voicing und Groove 
+- Bebop-dominante Tonleiter mit funk-dominanten Voicings
+- Dorian Scale mit Funk-Moll-Voicings
+- Voicings und Licks für Funk auf dominanten Akkorden
 
-- Voicings and Licks on Extended Dominant Chords
-- The secret to playing long blues licks
-- Funk Piano in Formal Ballad Progression (Advanced)
-- Expression on II-7 V7 , Expression on I I/3 IV V7
-- Expression on V7sus4
-- Variety of Baselines with using Right Hand Combinations
-- Ghost notes and your funk articulation which determins the quality of your performance
-- University Audition
-- Essential Funk Tunes Theme
-
+- Voicings und Licks auf erweiterten dominanten Akkorden
+- Das Geheimnis, lange Blues-Licks zu spielen
+- Funk-Klavier in formaler Balladenprogression (Fortgeschrittene)
+- Expression auf II-7 V7 , Expression auf I I/3 IV V7
+- Ausdruck auf V7sus4
+- Vielzahl von Grundlinien mit Kombinationen für die rechte Hand
+- Geisternoten und Ihre Funk-Artikulation, die die Qualität Ihrer Darbietung bestimmt
+- Wesentliches Funk-Melodien-Thema
 #### Pay for Lessons
 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> (U.S $)Pay for lessons (Funk Piano Workshop)</a>
+
 - <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
   
 #### More Info
