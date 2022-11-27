@@ -90,4 +90,17 @@ Essential Chord Progressions that you must memorize
 jazzydusmusic@gmail.com 
 
 
-- <a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank"> Pay for Lessons(Voicing Workshop)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/qmczn" target="_blank"> Bezahlen für Lessons(Voicing Workshop)</a>
+
+#### Lesson Samples 
+- (Funk Piano) No.1 
+    <a href="https://youtu.be/93QkhEATEMc"
+    target="_blank"> (Video Korean.1)</a>  
+- (Chord Arranging) No.2
+    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.2)</a>
+- (Voicing Workshop) No.3
+    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.3)</a>
+- (Setting) No.4
+    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.4)</a>
+
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">Feedback</a>
