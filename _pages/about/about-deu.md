@@ -44,6 +44,7 @@ permalink: /about/about-deu
 -School Of Continuing Education Seoul Christian Universität (Seoul, Korea) 2010.03-2010.08 :Jazzklavier 
 
 ## 🎹 Konzerte und Aufnehmen (2006-heute)
+- (Deutschland) 10.Konzert für die Wiedervereinigung koreas in Alte Börse, Leipzig 11.2022
 - (Deutschland) Peace Together for Teenagers in Botschaft der Republik Korea in Berlin 07.22
 - (Südkorea) Veröffentlichtes digitales Single-Album (Kim Daehan/Only one 단 한 번) 04.22
 - (Deutschland) Peace Together for Teenagers in Leipziger Kurbus, Leipzig 07.2019
