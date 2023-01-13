@@ -27,11 +27,12 @@ permalink: /about/about-eng
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹Performing and Recording Experience(2006-Present)
+- (Germany)) 10.Concert for the "Wiedervereinigung koreas" in Alte Börse, Leipzig 11.2022
 - (Germany)Peace Together for Teenagers at Embassy of the Republic of Korea, Berlin Germany 07.2022
 - (Germany)Peace Together for Teenagers at Leipziger Kurbus, Leipzig 07.2019
 - (Germany)City Jazz Chemnitz Solo Piano 2019.05
 - (Germany)6.Chemnitzer Neujahrs Konzert 2019.01 
-- (Germany)6.Konzert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 2018.11
+- (Germany)6.Concert für die Wiedervereinigung Koreas in Alte Handelsbörse Konzertsaal,Leipzig 2018.11
 - (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 2018.10
 - (Germany)Frauen Treffen in Deutschland Pianist Chemnitz
 - (Germany)Anstaltungen(Klavier) in Studentenwerk Chemnitz 
