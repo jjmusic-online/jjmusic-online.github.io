@@ -29,10 +29,11 @@ permalink: /about/
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
 
--  독일 베를린 주독 한국대사관 청소년 통일캠프 연주 7.2022
--  독일 라이프치히 청소년 통일캠프 연주 7.2019
--  독일 켐니츠 City Jazz Chemnitz 페스티벌 Solo Piano 솔로 피아노 연주 참여 
--  독일 켐니츠 제6회 새해 연주 시행사 연주 참여 6.Chemnitzer Neujahrs Konzert 2019.01 
+- 독일 제10회 통일희망 라이프치히음악회 연주  11.2022
+- 독일 베를린 주독 한국대사관 청소년 통일캠프 연주 7.2022
+- 독일 라이프치히 청소년 통일캠프 연주 7.2019
+- 독일 켐니츠 City Jazz Chemnitz 페스티벌 Solo Piano 솔로 피아노 연주 참여 
+- 독일 켐니츠 제6회 새해 연주 시행사 연주 참여 6.Chemnitzer Neujahrs Konzert 2019.01 
 - 독일 라이프치히 한인통일음악회 2018.11
 - 독일 켐니츠 문화 교류 주간 켐니츠시 주최 전지연 단독공연 2018.10
 - 독일 기독교 여성 모임 전속 피아니스트 Frauen Treffen in Deutschland 
