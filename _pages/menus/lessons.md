@@ -33,7 +33,8 @@ permalink: /lessons/
     <a href="https://youtu.be/93QkhEATEMc"
     target="_blank"> (Video Korean.1)</a>  
 - (Funk Piano 레슨: 악보로 배우는 펑크) No.2
-    <a href="https://youtu.be/SaeBq5GyAEw" target=blank">(Video Korean.2) 
+    <a href="https://youtu.be/SaeBq5GyAEw"
+    target=blank">(Video Korean.2) 
 - (코드편곡) No.2
     <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.3)</a>
 - (보이싱특강) No.3
