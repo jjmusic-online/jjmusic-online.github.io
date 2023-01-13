@@ -32,12 +32,14 @@ permalink: /lessons/
 - (Funk Piano 레슨) No.1 
     <a href="https://youtu.be/93QkhEATEMc"
     target="_blank"> (Video Korean.1)</a>  
+- (Funk Piano 레슨: 악보로 배우는 펑크) No.2
+    <a href="https://youtu.be/SaeBq5GyAEw" target=blank">(Video Korean.2) 
 - (코드편곡) No.2
-    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.2)</a>
+    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.3)</a>
 - (보이싱특강) No.3
-    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.3)</a>
+    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.4)</a>
 - (환경세팅 및 레슨) No.4
-    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.4)</a>
+    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
  
