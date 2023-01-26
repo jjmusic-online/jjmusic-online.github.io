@@ -14,7 +14,7 @@ permalink: /lessons/essential-scale
 - 	Chord Tone Soloing
 -   Approach System 이해하기
 - 	Blues Scale Soloing
-- 	Jazz Minor Scale Soloing 
+- 	Jazz Minor Scale Soloing
 - 	Bebop Dominant Scale Soloing
 - 	Half-whole Diminished Scale Soloing
 - 	Chromatic Major Scale Soloing 
