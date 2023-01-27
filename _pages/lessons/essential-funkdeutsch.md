@@ -12,7 +12,7 @@ permalink: /lessons/essential-funkdeutsch
 - 6 Klavierunterrichtstunden
 - 1 or 2  per Woche/ 50min*6
 - 1:1 Einzelunterricht
-- Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
+- Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden. All Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 #### Lernplan
 
