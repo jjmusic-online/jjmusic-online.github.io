@@ -8,9 +8,9 @@ permalink: /lessons/essential-funkdeutsch
 #### Funk Piano Online Lesson in Berlin
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
-- Funk Piano Workshop
-- 6 Klavierunterrichtstunde
-- 1 or 2  per Wochen/ 50min*6
+- FunkKlavier Workshop
+- 6 Klavierunterrichtstunden
+- 1 or 2  per Woche/ 50min*6
 - 1:1 
 - Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
