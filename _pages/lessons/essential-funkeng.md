@@ -38,6 +38,23 @@ permalink: /lessons/essential-funkeng
 - University Audition
 - Essential Funk Tunes Theme
 
+#### Lesson Samples 
+
+- (Funk Piano mit Noten) 
+    <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
+- (Funk Piano) No.1 
+    <a href="https://youtu.be/93QkhEATEMc"
+    target="_blank"> (Video Korean.1)</a>  
+- (Chord Arranging) No.2
+    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.2)</a>
+- (Voicing Workshop) No.3
+    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.3)</a>
+- (Setting) No.4
+    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.4)</a>
+
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">Feedback</a>
+
+
 #### Pay for Lessons
 
 - <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> (U.S $)Pay for lessons (Funk Piano Workshop)</a>
