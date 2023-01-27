@@ -56,12 +56,12 @@ permalink: /lessons/
 
 ### Unterrichten auf Deutsch
 
-- Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
+  -Der Bildschirim (Klavierr-video, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden. Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
-  - Studienvorbereitung
-  - Anfänger Wiederreinsteiger Fortgeschrittener
+  - Studienvorbereitung(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
+  - Anfänger Wiederreinsteiger Fortgeschrittene
   - Reharmonization für 12 Wochen
-  - Jazz Harmony(32 Wochen)
+  - Jazz Harmonie (32 Wochen)
   - Voicing Workshop (6 Wochen)
   - Funk Piano Workshop (6 Wochen)
 
