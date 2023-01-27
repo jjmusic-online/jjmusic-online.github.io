@@ -7,8 +7,9 @@ permalink: /about/about-eng
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
 
-- JJ currently lives in Germany since 2017 🇩🇪
-- Korea🇰🇷 Kyunghee Univ. Jazzpiano scholarship (4years) (B.A.) 
+- JJ currently lives in Germany(Berlin) since 2017 🇩🇪
+- Korea🇰🇷 Kyunghee Univ. Jazzpiano(B.A.)
+- 4years scholarship 
 - Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
 - U.S.A.🇺🇸 City University of New York, Queens College, Jazz Performane (M.M.) 
 - Worked as an Full time Assistant Professor and an Instructor in South Korea
