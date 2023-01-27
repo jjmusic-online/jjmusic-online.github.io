@@ -21,15 +21,44 @@ permalink: /about/about-eng
   School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
   Kyungbok High School of Arts
 
-- 1.2018 - 9.2019  Piano Teacher at Thomas Mann Platz Musikschule, Chemnitz, Germany
-- 10.2019-12.2020 Parental leave in Germany
-- 1.2021- Freelancer, Professional musician, Educator
+
+
+- Professional Concert Pianist in Germany
+- Private Lessons/Online Lessons (Hermsdorf Weidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
+
+- Maternity Leave(in Germany) 2019.09-2020.12
+
+- Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano Teacher)
+
+- Teaching Artist in Seoul Foundation for Arts and Culture (Seoul, Korea) 2017.03 – 2017.09 (Intergrated Arts Education Research and Teaching Artist in Middlschools)
+
+- Lecturer in High School of Performing Arts Seoul (Seoul, Korea) 2017.03 – 2017.08 Applied Music Dep. Class Piano Lab . I
+
+- Full time Professor in KwangShin University (Gwangju, Korea) 2013.03 – 2017. 02 (Applied Music Department) :Undergraduate : Jazz Harmony I, II/ Jazz Analysis I, II/ Private lesson / Music Pedagogy/Arranging I, II :Graduate: Jazz Analysis I, II, III, IV / Private Lesson
+- Lecturer in Dong-ah Institute of Media and Arts (Ansung, Korea)
+03 – 2013. 02 : Sight Singing & Ear Training I, II :Philosophical Foundation of Education I :Teaching Method of Music I
+
+- Lecturer in KyungHee University (Suwon, Korea)
+03 – 2012.12 in Post Modern Music Studies : Jazz Piano Private lesson Basic I, II, III, IV : Jazz Piano Private Lesson Advanced I, II, III, IV
+
+- Lecturer in Kukje University (Seoul, Korea)
+03 – 2012.12 Applied Music Dep.:Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I :Piano Lab III, IV
+
+- Lecturer in Kyungbok High School of Arts (Daegu, Korea) 2012.03 – 2012. 08 Applied Music Dep.:Private Jazz Piano Lesson
+
+- Lecturer in Kukje University (Seoul, Korea)
+03 – 2010. 08 Applied Music Dep. :Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I,II 
+
+- School Of Continuing Education Seoul Christian University (Seoul, Korea) 2010.03-2010.08 :Jazzklavier
+
+
+
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹Performing and Recording Experience(2006-Present)
-- (Germany)) 10.Concert for the "Wiedervereinigung koreas" in Alte Börse, Leipzig 11.2022
+- (Germany) 10.Concert for the "Wiedervereinigung koreas" in Alte Börse, Leipzig 11.2022
 - (Germany)Peace Together for Teenagers at Embassy of the Republic of Korea, Berlin Germany 07.2022
 - (Germany)Peace Together for Teenagers at Leipziger Kurbus, Leipzig 07.2019
 - (Germany)City Jazz Chemnitz Solo Piano 2019.05
