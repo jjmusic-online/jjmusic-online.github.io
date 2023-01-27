@@ -11,15 +11,15 @@ permalink: /lessons/essential-funkdeutsch
 - FunkKlavier Workshop
 - 6 Klavierunterrichtstunden
 - 1 or 2  per Woche/ 50min*6
-- 1:1 
+- 1:1 Einzelunterricht
 - Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
-#### Curriculum
+#### Lernplan
 
-- Grundlegender Funkrhythmus, um Ihr Spiel zu festigen. So bauen Sie solide Grundlagen auf (Moll-Akkorde/Dur-Akkorde
-*Patterns üben, die eine solide Grundlage für einfache, aber abwechslungsreiche Patterns auf Downbeats und Upbeats bilden.*
+- Grundlagen Funkrhythmus, um Ihr Spiel zu festigen. So bauen Sie solide Grundlagen auf Moll-Akkorde/Dur-Akkorde
+*Patterns(Mustern, Shema, Strukturen) üben, die eine solide Grundlage für einfache, aber abwechslungsreiche Patterns auf Downbeats und Upbeats bilden.*
 - Die Methode des "Tasty Lick" nach dem fließenden Beat auf dem soliden Grundrhythmus.
-- Blues scale, Pentatonic
+- Blues Skala, Pentatonic Tonleiter
 - Minor Blues Progression und Funk Piano. Die gesamte 12-taktige Moll-Blues-Progression kann auf einem Funk-Klavier gespielt werden.
 - Rock Blues Progression und Funk Piano
 
@@ -29,14 +29,15 @@ permalink: /lessons/essential-funkdeutsch
 - Voicings und Licks für Funk auf dominanten Akkorden
 
 - Voicings und Licks auf erweiterten dominanten Akkorden
-- Das Geheimnis, lange Blues-Licks zu spielen
+- Das Geheimnis (Tipps und Tricks), lange Blues-Licks zu spielen
 - Funk-Klavier in formaler Balladenprogression (Fortgeschrittene)
 - Expression auf II-7 V7 , Expression auf I I/3 IV V7
-- Ausdruck auf V7sus4
+- Den musikalischen Ausdruck auf V7sus4
 - Vielzahl von Grundlinien mit Kombinationen für die rechte Hand
 - Geisternoten und Ihre Funk-Artikulation, die die Qualität Ihrer Darbietung bestimmt
 - Wesentliches Funk-Melodien-Thema
-#### Pay for Lessons
+
+#### Bezahlen für Lessons
 
 
 - <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
