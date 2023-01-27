@@ -42,6 +42,8 @@ permalink: /lessons/essential-funkdeutsch
 - <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
 
 #### Lesson Samples 
+- (Funk Piano mit Noten) 
+    <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
 - (Funk Piano) No.1 
     <a href="https://youtu.be/93QkhEATEMc"
     target="_blank"> (Video Korean.1)</a>  
