@@ -30,15 +30,17 @@ permalink: /lessons/essential-scale-deutsch
 - Verstehen der Intervalle, die jede Skala am besten charakterisieren. Lassen Sie uns versuchen, den Klang eines Solos zu verstehen, das die Charakternoten gut nutzt. Ich bringe dir bei, sprachlich solo zu sein. Der Unterricht konzentriert sich auf eine Standardmelodie und ihre funktionale Harmonie. Es ist keine Lektion, die sich auf die Bereitstellung von Informationen konzentriert, sondern überwacht den Lernenden in jedem Moment. Es gibt immer viele Demonstrationsperformance von mir. Dies wird eine Lektion sein, die Ihre Fähigkeiten verbessern wird. Wenn Sie hart mit mir arbeiten möchten, wenden Sie sich bitte an. Diejenigen, die mit den Grundlagen beginnen möchten. Diejenigen, die Angst haben, zum ersten Mal alleine zu starten. Oder diejenigen, die nicht immer praktizieren konnten, weil sie theoretisch nicht organisiert sind. Dies sind auch Unterrichtsstunden für Anfänger oder Klavierlehrer.
 
 
-- Screen-Sharing-Methode (Keyboard/Writing App/Chordie Keyboard App) Aufgezeichnete Unterrichtsinhalte können gespeichert werden (hervorragend zur Überprüfung) Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
+- Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden. All Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 
-#### Pay for Lessons
+#### Bezahlen für Lessons
  
 - <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank"> (Euro) Bezaheln für lessons (Scale & Improv Workshop)</a>
 
 
-#### Lesson Samples 
+#### Lesson Videos 
+- (Funk Piano mit Noten) 
+    <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
 - (Funk Piano) No.1 
     <a href="https://youtu.be/93QkhEATEMc"
     target="_blank"> (Video Korean.1)</a>  
