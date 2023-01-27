@@ -11,6 +11,7 @@ permalink: /about/about-eng
 - Korea🇰🇷 Kyunghee Univ. Jazzpiano(B.A.)
 - 4years scholarship 
 - Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
+- Qualification for a Teacher's Certificate, Südkorea (2009)
 - U.S.A.🇺🇸 City University of New York, Queens College, Jazz Performane (M.M.) 
 - Worked as an Full time Assistant Professor and an Instructor in South Korea
   KyungHee Univ. Suwon
