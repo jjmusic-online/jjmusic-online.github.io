@@ -13,6 +13,7 @@ permalink: /about/about-deu
 - Sookmyung Frauen Universität in Seoul im Fach Musikalische Pädagogik(M.Edu)/ Südkorea/ 2006-2009 
 - Befähigung zum Lehramtsstudium Südkorea 2009
 - KyungHee Universität in Suwon im Fach Jazzklavier(B.A) /Südkorea/2001-2005  
+- 4 Jahre Stipendium 2001-2005
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
