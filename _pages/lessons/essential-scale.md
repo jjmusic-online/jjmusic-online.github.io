@@ -34,6 +34,10 @@ permalink: /lessons/essential-scale
 
 - 개인 맞춤별 수업 
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능(복습에 탁월합니다) 모든 수업자료 및 악보는  PDF파일로 제공합니다.
+- Zoom 유료 문제로 Skype를 선호합니다.
+- 수강하는 학생은 특별한 장비를 요하지 않습니다.
+- 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
+- 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
 
 
 #### 레슨 결제하기 (Pay for Lessons)
@@ -42,23 +46,23 @@ permalink: /lessons/essential-scale
 
 
 #### 레슨 구경하러 가기 
-- (Funk Piano 레슨) No.1 
-    <a href="https://youtu.be/93QkhEATEMc"
-    target="_blank"> (Video Korean.1)</a>  
-- (코드편곡) No.2
-    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.2)</a>
-- (보이싱특강) No.3
-    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.3)</a>
-- (환경세팅 및 레슨) No.4
-    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.4)</a>
+- (Funk Piano 레슨:워크샵 하이라이트) No.1 
+    <a href="https://youtu.be/93QkhEATEMc" target="_blank"> (Video Korean.1)</a>  
+- (Funk Piano 레슨:악보로 배우는 펑크) No.2
+    <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
+- (코드편곡) No.3
+    <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.3)</a>
+- (보이싱특강) No.4
+    <a href="https://youtu.be/hi-q-cANOEc" target="_blank"> (Video Korean.4)</a>
+- (환경세팅 및 레슨) No.5
+    <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
 
-  
-#### More Info
-- jazzydusmusic@gmail.com 
-
-
+#### More Infos 강의 정보 
+- jazzydusmusic@gmail.com
 
 
 
