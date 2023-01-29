@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Online Lesson(한국어)"
+title: "Klavierunterricht in Hermsdorf-Berlin"
 permalink: /lessons/onlinelesson-vorort
 ---
 <a href="/lessons">< Back to Lessons</a>
