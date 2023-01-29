@@ -6,14 +6,9 @@ permalink: /lessons/
 
 ## Online Private(1:1) Jazz Piano and Theory Lessons
 
-- <a href="/lessons/onlinelesson-korean" 
-  #### 베를린 현장레슨 Klavierunterricht vor Ort in Hermsodrf/Weidmannslus Berlin bei mir zu Hause.</a>
-- Studienvorbereitung im Fach Jazz(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
-- Anfänger,Wiederreinsteiger,Fortgeschrittene
-- Kinder, Erwachsene
-- Berlin Hermsorf/Weidmannslus
-- 30min 45min 60min 
-- Mehr Infos : jazzydusmusic@gmail.com
+- <a href="/lessons/onlinelesson-vorort" 
+  #### 베를린 현장레슨 Klavierunterricht vor Ort in Hermsdorf/Weidmannslust Berlin bei mir zu Hause.</a>
+
 
 #### 세계 어디서나 온라인레슨 Online Lessons
   
