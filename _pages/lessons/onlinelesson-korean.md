@@ -34,3 +34,6 @@ permalink: /lessons/onlinelesson-korean
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+
+#### More Infos 강의 정보 
+- jazzydusmusic@gmail.com
