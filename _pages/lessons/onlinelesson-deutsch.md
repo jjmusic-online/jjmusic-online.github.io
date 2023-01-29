@@ -18,9 +18,9 @@ permalink: /lessons/onlinelesson-deutsch
 - <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
 - <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
 
- - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
+- zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
     <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
 
 
-### More Info & Curriculum
+### Mehr Infos & Lernplan
 - jazzydusmusic@gmail.com
