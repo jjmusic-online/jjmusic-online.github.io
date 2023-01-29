@@ -5,17 +5,16 @@ permalink: /lessons/onlinelesson-vorort
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-#### Klavierunterricht vor Ort in Hermsdorf/Weidmannslust Berlin bei mir zu Hause.
+#### Klavierunterricht in Hermsdorf Waidmannslust Berlin bei mir zu Hause.
 
 - 13467 Berlin in der Nähe von Kita Froschkönig
+- Hermsdorf/Weaidmannslust Reinickendorf. Berlin
 
 - Studienvorbereitung im Fach Jazz(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
 
 - Anfänger,Wiederreinsteiger,Fortgeschrittene
 
-- Kinder, Erwachsene
-
-- Hermsorf/Weidmannslust Reinickendorf. Berlin
+- Kinder, Jugendliche, Erwachsene
 
 - Klassik, Jazz, Pop, K Pop, Theorie
 
