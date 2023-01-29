@@ -15,7 +15,7 @@ permalink: /lessons/onlinelesson-vorort
 
 - Kinder, Erwachsene
 
-- Hermsorf/Weidmannslus. Reinickendorf. Berlin
+- Hermsorf/Weidmannslust Reinickendorf. Berlin
 
 - Klassik, Jazz, Pop, K Pop, Theorie
 
