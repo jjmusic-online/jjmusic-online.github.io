@@ -16,7 +16,7 @@ permalink: /lessons/onlinelesson-korean
   - <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
   - <a href="/lessons/essential-scale">알짜배기 스케일 활용 즉흥연주 기초 특강 (6주)
   - <a href="/lessons/essential-funk">알짜배기 Funk Piano 및 스트레이트 특강 (6주)</a>
-  - 알짜배기 입시특강 코드초견 종합완성 (14주)
+  - 알짜배기 입시특강 코드초견 종합완성 (18주)
   - 리하모니제이션 핵심기법 단기완성 (12주)
   - 이론정복! 재즈화성법 완성(32주)
   
