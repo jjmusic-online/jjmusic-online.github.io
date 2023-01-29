@@ -12,7 +12,7 @@ permalink: /lessons/onlinelesson-deutsch
 
 - Sie benötigen keine spezielle Ausrüstung. Verbinden Sie Ihr Mobiltelefon mit What's App für Videoanrufe. Befestigen Sie Ihr Telefon einfach so, dass Sie Ihre Hände auf der Tastatur sehen können. Ich überwache jeden Moment Ihre Körperhaltung und Fingersatz.
 
-<img src="https://jjmusic-online.github.io/assets/images/lessonshot.jpg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 - Studienvorbereitung im Fach Jazz(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
 
