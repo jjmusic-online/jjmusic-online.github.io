@@ -67,10 +67,10 @@ permalink: /lessons/
   -Der Bildschirim (Klavierr-video, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden. Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
   - Studienvorbereitung(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
-  - Anfänger Wiederreinsteiger Fortgeschrittene
+  - Anfänger,Wiederreinsteiger,Fortgeschrittene
   - Reharmonization für 12 Wochen
-  - Jazz Harmonie (32 Wochen)
-  - Studienvorbereitung
+  - Jazzharmonie (32 Wochen)
+
   - <a href="/lessons/essential-voicings-deutsch">Voicing Workshop (6 Wochen)
   - <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
   - <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
