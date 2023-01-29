@@ -5,7 +5,7 @@ permalink: /lessons/onlinelesson-vorort
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-#### Klavierunterricht vor Ort in Hermsodrf/Weidmannslus Berlin bei mir zu Hause.
+#### Klavierunterricht vor Ort in Hermsdorf/Weidmannslust Berlin bei mir zu Hause.
 
 - 13467 Berlin in der Nähe von Kita Froschkönig
 
@@ -16,6 +16,8 @@ permalink: /lessons/onlinelesson-vorort
 - Kinder, Erwachsene
 
 - Hermsorf/Weidmannslus. Reinickendorf. Berlin
+
+- Klassik, Jazz, Pop, K Pop, Theorie
 
 - 30min 45min 60min 
 
