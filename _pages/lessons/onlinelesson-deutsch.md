@@ -8,12 +8,18 @@ permalink: /lessons/onlinelesson-deutsch
 ### Online Klavierunterricht (Jazzklavier, Jazzpiano) in Berlin 
 ### Unterrichten auf Deutsch
 
-- Die Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden, und alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
+- Der Bildschirm(Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden,damit Sie das Video nach dem Unterricht wieder ansehen kann.Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
-- Studienvorbereitung
-- Anfänger Wiederreinsteiger Fortgeschrittener
+- Sie benötigen keine spezielle Ausrüstung. Verbinden Sie Ihr Mobiltelefon mit What's App für Videoanrufe. Befestigen Sie Ihr Telefon einfach so, dass Sie Ihre Hände auf der Tastatur sehen können. Ich überwache jeden Moment Ihre Körperhaltung und Fingersatz.
+
+- Studienvorbereitung im Fach Jazz(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
+
+- Anfänger Wiederreinsteiger Fortgeschrittene
+
 - Reharmonization für 12 Wochen
-- Jazz Harmony(32 Wochen)
+
+- Jazzharmonie(32 Wochen)
+
 - <a href="/lessons/essential-voicings-deutsch">Voicing Workshop (6 Wochen)
 - <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
 - <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
