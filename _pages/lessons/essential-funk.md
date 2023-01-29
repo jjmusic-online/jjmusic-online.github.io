@@ -9,7 +9,7 @@ permalink: /lessons/essential-funk
 
 #### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
 
-#### 펑크 피아노 연주시 망설여지는 이유가 단지 리듬을 타지 못하거나 리듬을 쪼개지 못해서 일까요? 제가 생각하는 주 원인 중 하나는 "상황에 알맞은 보이싱을 찾지 못해서" 입니다. 따라서 펑크 연주 시 필요한 보이싱을 먼저 다져두는 것이 필요합니다. 보이싱이 기본이 된 패턴들은 이후 리듬을 만들기 용이해 지기에 손에 익히는 것은 매우 중요합니다. 이후 기본 리듬을 추가하고 Fill in 을 넣고 이후 긴 프레이즈, 스케일을 이용해 솔로하는 방식으로 연습을 전개해 나가면 좋습니다. 
+#### 펑크 피아노 연주시 망설여지는 이유가 단지 리듬을 타지 못하거나 복잡하게 리듬을 분할하지 못해서 일까요? 제가 생각하는 주 원인 중 하나는 "상황에 알맞은 음역과 보이싱을 찾지 못해서" 입니다. 따라서 펑크 연주 시 필요한 보이싱을 먼저 다져두는 것이 필요합니다. 보이싱이 기본이 된 패턴들은 이후 리듬을 만들기 용이해 지기에 손에 익히는 것은 매우 중요합니다. 이후 기본 리듬을 추가하고 Fill in 을 넣고 이후 긴 프레이즈, 스케일을 이용해 솔로하는 방식으로 연습을 전개해 나가면 좋습니다. 
 
 #### 펑크 즉흥연주를 할 수 있도록 연주가 되게끔 유도하는 수업이며 또한 악보화 되어 있는 좋은 패턴(by JJ)들을 코드 진행별로 익히며 암기 해서 자기것으로 만드는 방법을 터득하 실 수 있도록 도와드립니다. 
 
@@ -98,10 +98,17 @@ permalink: /lessons/essential-funk
 - 대표적인 Funk 곡들의 테마 만들기 
 - (Essential Funk Tunes Theme)
 
-#### 레슨 결제하기 (Pay for Lessons)
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Funk Piano Workshop)</a>
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Funk Piano Workshop)</a>
+- 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. -Zoom 유료 문제로 Skype를 선호합니다.
+- 수강하는 학생은 특별한 장비를 요하지 않습니다.
+- 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
+- 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
+
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+
+
+
 
 #### 레슨 구경하러 가기 
 - (Funk Piano 레슨:악보로 배우는 펑크) No.1
@@ -116,6 +123,12 @@ permalink: /lessons/essential-funk
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+
+#### 레슨 결제하기 (Pay for Lessons)
+- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 Funk Piano 특강 6주)</a> 
+- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> ($)Pay for lessons (Funk Piano Workshop)</a>
+- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (€)Unterricht bezahlen (Funk Piano Workshop)</a>
+
 
   
 #### More Info
