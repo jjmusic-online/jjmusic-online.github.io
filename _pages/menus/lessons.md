@@ -1,10 +1,10 @@
 ---
 layout: "pages"
-title: "Lessons"
+title: "Piano Lessons"
 permalink: /lessons/
 ---
 
-## Online Private(1:1) Jazz Piano and Theory Lessons
+## Private(1:1) Piano and Theory Lessons
 
 - <a href="/lessons/onlinelesson-vorort"> 
   베를린 현장레슨 Klavierunterricht vor Ort in Hermsdorf/Weidmannslust Berlin bei mir zu Hause</a>
