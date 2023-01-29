@@ -2,6 +2,7 @@
 layout: posts
 title: "Album Released!! Album veröffentlicht JJ 앨범발매소식"
 date: 2022-06-13
+published: false
 ---
 
 Only one (단 한 번) · Kim Dae Han

@@ -2,6 +2,7 @@
 layout: posts
 title: "JJ Plays! Konzert! im Juli 2022"
 date: 2022-06-11
+published: false
 ---
 
 - Embassy of the Republic of Korea, Berlin, Germany
