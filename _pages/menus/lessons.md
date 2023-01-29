@@ -7,7 +7,7 @@ permalink: /lessons/
 ## Private(1:1) Piano and Theory Lessons
 
 - <a href="/lessons/onlinelesson-vorort"> 
-  Klavierunterricht in Hermsdorf Weidmannslust Berlin bei mir zu Hause (베를린 피아노레슨)</a>
+  Klavierunterricht in Hermsdorf Weidmannslust Berlin  (베를린 피아노레슨)</a>
 
 
 #### 온라인레슨 Online Lessons
