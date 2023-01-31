@@ -7,13 +7,6 @@ permalink: /lessons/essential-funk
 
 #### 펑크 피아노 단기 온라인 특강 , 펑크 피아노 온라인 레슨
 
-#### Funk Piano Workshop for 6 Lessons (Korean/English/Deutsch)
-
-#### 펑크 피아노 연주시 망설여지는 이유가 단지 리듬을 타지 못하거나 복잡하게 리듬을 분할하지 못해서 일까요? 제가 생각하는 주 원인 중 하나는 "상황에 알맞은 음역과 보이싱을 찾지 못해서" 입니다. 따라서 펑크 연주 시 필요한 보이싱을 먼저 다져두는 것이 필요합니다. 보이싱이 기본이 된 패턴들은 이후 리듬을 만들기 용이해 지기에 손에 익히는 것은 매우 중요합니다. 이후 기본 리듬을 추가하고 Fill in 을 넣고 이후 긴 프레이즈, 스케일을 이용해 솔로하는 방식으로 연습을 전개해 나가면 좋습니다. 
-
-#### 펑크 즉흥연주를 할 수 있도록 연주가 되게끔 유도하는 수업이며 또한 악보화 되어 있는 좋은 패턴(by JJ)들을 코드 진행별로 익히며 암기 해서 자기것으로 만드는 방법을 터득하 실 수 있도록 도와드립니다. 
-
-
 - Funk Pinao 특강 
 - (Funk Piano Workshop)
 - 총 6회에 걸쳐서 알짜배기 Funk Piano 특강을 진행합니다. 
@@ -24,6 +17,11 @@ permalink: /lessons/essential-funk
 - (1:1 Private Lesson)
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능 모든 수업자료 및 악보는  PDF파일로 제공합니다.
 - (Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.)
+
+#### 펑크 피아노 연주시 망설여지는 이유가 단지 리듬을 타지 못하거나 복잡하게 리듬을 분할하지 못해서 일까요? 제가 생각하는 주 원인 중 하나는 "상황에 알맞은 음역과 보이싱을 찾지 못해서" 입니다. 따라서 펑크 연주 시 필요한 보이싱을 먼저 다져두는 것이 필요합니다. 보이싱이 기본이 된 패턴들은 이후 리듬을 만들기 용이해 지기에 손에 익히는 것은 매우 중요합니다. 이후 기본 리듬을 추가하고 Fill in 을 넣고 이후 긴 프레이즈, 스케일을 이용해 솔로하는 방식으로 연습을 전개해 나가면 좋습니다. 
+
+#### 펑크 즉흥연주를 할 수 있도록 연주가 되게끔 유도하는 수업이며 또한 악보화 되어 있는 좋은 패턴(by JJ)들을 코드 진행별로 익히며 암기 해서 자기것으로 만드는 방법을 터득하 실 수 있도록 도와드립니다. 
+
 
 #### Curriculum
 - Funk Rhythm 탄탄한 기본 기둥 세우기 (Minor Chords/Major Chords)
