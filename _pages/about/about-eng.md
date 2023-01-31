@@ -8,29 +8,29 @@ permalink: /about/about-eng
 	title="Photo of JJ" style="min-width: 150px" />
 
 - JJ currently lives in Germany(Berlin) since 2017 🇩🇪
-- Korea🇰🇷 Kyunghee Univ. Jazzpiano(B.A.)
+- Kyunghee Univ. Jazzpiano(B.A.) 2005. South Korea🇰🇷 
 - 4years scholarship 
-- Korea 🇰🇷 Sookmyung Women's Univ. Music Education (M.Edu.) 
-- Qualification for a Teacher's Certificate, Südkorea (2009)
-- U.S.A.🇺🇸 City University of New York, Queens College, Jazz Performane (M.M.) 
+- Sookmyung Women's Univ. Music Education (M.Edu.) 2009. SouthKorea 🇰🇷 
+- Qualification for a Teacher's Certificate, 2009. South Korea 
+- City University of New York, Queens College, Jazz Performane 2012. U.S.A.🇺🇸 (M.M.) 
 - Worked as an Full time Assistant Professor and an Instructor in South Korea
-  KyungHee Univ. Suwon
-  Kwangshin Univ.
-  Dong-ah Institute of Media and Arts(DIMA) Kukje Art Univ. Seoul
-  Seoul Theological Univ. 
-  School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
-  Kyungbok High School of Arts
-
+   KyungHee Univ. Suwon
+   Kwangshin Univ.
+   Dong-ah Institute of Media and Arts(DIMA) Kukje Art Univ. Seoul
+   Seoul Theological Univ. 
+   School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
+   Kyungbok High School of Arts
 
 
 - Professional Concert Pianist in Germany
+
 - Private Lessons/Online Lessons (Hermsdorf Weidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
 
 - Maternity Leave(in Germany) 2019.09-2020.12
 
 - Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano Teacher)
 
-- Teaching Artist in Seoul Foundation for Arts and Culture (Seoul, Korea) 2017.03 – 2017.09 (Intergrated Arts Education Research and Teaching Artist in Middlschools)
+- Teaching Artist in Seoul Foundation for Arts and Culture (Seoul, Korea) 2017.03 – 2017.09 (Intergrated Arts Education Research and Teaching Artist in the Middle schools)
 
 - Lecturer in High School of Performing Arts Seoul (Seoul, Korea) 2017.03 – 2017.08 Applied Music Dep. Class Piano Lab . I
 
@@ -78,6 +78,7 @@ permalink: /about/about-eng
 - CD: Kang Hyosun 'Attraction'(2006)Korea 
 - CD: Son Jiyeon 3rd Recording (2009)Korea
 - CD: Seoul Sololist Jazz Orchestra.1 (2010)Korea
+
 - Sumida Jazz Festival Performance (2010) Japan
 - Queens College,Lefrak Concert Hall'Graduation and Award Ceremony'Performance(2011) NewYork 
 - WBGO Jazz 88.3 FM Live Performance (2010 )NewYork
