@@ -24,7 +24,7 @@ permalink: /about/about-eng
 
 - Professional Concert Pianist in Germany
 
-- Private Lessons/Online Lessons (Hermsdorf Weidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
+- Private Lessons/Online Lessons (Hermsdorf Waidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
 
 - Maternity Leave(in Germany) 2019.09-2020.12
 
