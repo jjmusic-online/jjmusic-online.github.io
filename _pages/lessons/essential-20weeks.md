@@ -1,7 +1,7 @@
 ---
 layout: "pages"
 title: " 20주 단기 특강/입시특강 "
-permalink: /lessons/essential-funk
+permalink: /lessons/essential-20weeks
 ---
 <a href="/lessons">< Back to Lessons</a>
 
