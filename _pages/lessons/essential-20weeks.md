@@ -23,8 +23,8 @@ permalink: /lessons/essential-20weeks
 - 총20회 레슨 125만원입니다. 
 - 카드결제를 원하실 경우 결제창을 만들어드리며 125만원에 해당하는 달러화가 당일환율로 결제됩니다. 
 
-자세한 사항은
-jazzydusmusic@gmail.com
+- 자세한 사항은
+- jazzydusmusic@gmail.com
 
 
 
