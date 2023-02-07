@@ -7,11 +7,6 @@ permalink: /lessons/onlinelesson-korean
 
 ### Lessons in Korean(한국어)
  
-- 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. Zoom 유료 문제로 Skype를 선호합니다.
-- 수강하는 학생은 특별한 장비를 요하지 않습니다.
-- 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
-- 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
-
   - 실용음악 재즈피아노 및 작곡 입시
   - 취미 (초급,중급,고급)
   - <a href="/lessons/onlinelesson-basic">반주법</a>
@@ -21,6 +16,12 @@ permalink: /lessons/onlinelesson-korean
   - <a href="/lessons/essential-20weeks"> 1:1 온라인 단기 입시특강 (20주)</a>
   - 리하모니제이션 핵심기법 단기완성 (12주)
   - 이론정복! 재즈화성법 완성(32주)
+
+- 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. Zoom 유료 문제로 Skype를 선호합니다.
+- 수강하는 학생은 특별한 장비를 요하지 않습니다.
+- 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
+- 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
+
   
 #### 레슨 구경하러 가기 
 - (Funk Piano 레슨:워크샵 하이라이트) No.1 
