@@ -20,7 +20,7 @@ permalink: /lessons/onlinelesson-basic
 - 빠른곡 반주, 리듬감 있는 반주를 할 수 있도록 합니다.
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
-<img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 - 자세한 사항은
 - jazzydusmusic@gmail.com
