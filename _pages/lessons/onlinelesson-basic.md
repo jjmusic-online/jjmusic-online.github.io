@@ -16,7 +16,10 @@ permalink: /lessons/onlinelesson-basic
 - 반주시 필요한 보이싱 패턴을 익히고 이를 완벽하게 암기하여 반주에 활용할 수 있도록 도와드립니다.
 - 멜로디를 치면서, 혹은 만들면서 하는 반주 및 기도 반주를 할 수 있도록 도와드립니다.
 - 찬송가를 간단하지만 깔끔하고 예쁜 보이싱으로 바꾸어 반주하는 방법을 알려드립니다.
-  
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
 - 자세한 사항은
 - jazzydusmusic@gmail.com
 
