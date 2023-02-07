@@ -13,9 +13,11 @@ permalink: /lessons/onlinelesson-basic
 - 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
 
 - 코드외우기 기초부터 제대로 차근차근 지도합니다.
+- 좋은 울림과 좋은 음역대를 고민합니다.
 - 반주시 필요한 보이싱 패턴을 익히고 이를 완벽하게 암기하여 반주에 활용할 수 있도록 도와드립니다.
 - 멜로디를 치면서, 혹은 만들면서 하는 반주 및 기도 반주를 할 수 있도록 도와드립니다.
 - 찬송가를 간단하지만 깔끔하고 예쁜 보이싱으로 바꾸어 반주하는 방법을 알려드립니다.
+- 빠른곡 반주, 리듬감 있는 반주를 할 수 있도록 합니다.
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic1.jpeg" alt="JJ Photo of JJ"
