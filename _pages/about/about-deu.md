@@ -17,7 +17,7 @@ Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahr
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 
 ## Schulbildung
-- Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
+
 - Städtischen Universität in New York im Fach Jazzklavier(M.A) /U.S.A/ 2010-2012
 - Sookmyung Frauen Universität in Seoul im Fach Musikalische Pädagogik(M.Edu)/ Südkorea/ 2006-2009 
 - Befähigung zum Lehramtsstudium Südkorea 2009
