@@ -6,6 +6,14 @@ permalink: /about/about-deu
 
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
+Jiyeon Jeon, geboren in Seoul, Südkorea, ist Musikerin und Pädagogin. Sie fing mit 6 Jahren mit dem Klavierspielen an.
+
+Sie hat ihren Bachelor in Jazzklavier (KyungHee Universität) und ihren Master in Musikpädagogik der Klassik (Sookmyung Frauen Universität) in Seoul, Korea abgeschlossen. 
+
+Danach hat sie noch einen Master in Jazzklavier (Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
+
+Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China und Deutschland gehalten und über 10 Alben als Komponistin und Arrangeurin als Pianistin-Session veröffentlicht.
+
 
 ## Schulbildung
 - Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
@@ -19,6 +27,7 @@ permalink: /about/about-deu
 	title="Photo of JJ" style="min-width: 150px" />
     
 ## Die Unterrichten als Dozentin und Professorin
+  
 - Private Lessons/Online Kurs (Berlin, Deutschland)
 2021.01-Heute
 - Elternzeit(Deutschland)
@@ -33,15 +42,15 @@ permalink: /about/about-deu
 2013.03 – 2017. 02 Full time Professor (Applied Music Department)
 :Undergraduate : Jazz Harmony I, II/ Jazz Analysis I, II/ Private lesson / Music Pedagogy/Arranging I, II :Graduate: Jazz Analysis I, II, III, IV / Private Lesson
 - Dozentin in Dong-ah Institute of Media and Arts (Ansung, Korea)
-2012. 03 – 2013. 02 : Sight Singing & Ear Training I, II :Philosophical Foundation of Education I :Teaching Method of Music I
+1.    03 – 2013. 02 : Sight Singing & Ear Training I, II :Philosophical Foundation of Education I :Teaching Method of Music I
 - Dozentin in KyungHee Universität (Suwon, Korea)
-2012. 03 – 2012.12 Lecturer in Post Modern Music Studies : Jazz Piano Private lesson Basic I, II, III, IV : Jazz Piano Private Lesson Advanced I, II, III, IV
+1.    03 – 2012.12 Lecturer in Post Modern Music Studies : Jazz Piano Private lesson Basic I, II, III, IV : Jazz Piano Private Lesson Advanced I, II, III, IV
 - Dozentin in Kukje Universität (Seoul, Korea)
-2012. 03 – 2012.12 Applied Music Dep.:Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I :Piano Lab III, IV
+1.    03 – 2012.12 Applied Music Dep.:Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I :Piano Lab III, IV
 - Dozentin in Kyungbok High School of Arts (Daegu, Korea)
 2012.03 – 2012. 08 Applied Music Dep.:Private Jazz Piano Lesson
 - Dozentin in Kukje Universität (Seoul, Korea)
-2009. 03 – 2010. 08 Applied Music Dep.
+1.    03 – 2010. 08 Applied Music Dep.
 :Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I,II
 -School Of Continuing Education Seoul Christian Universität (Seoul, Korea) 2010.03-2010.08 :Jazzklavier 
 
