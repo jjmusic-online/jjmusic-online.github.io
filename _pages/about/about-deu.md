@@ -14,6 +14,7 @@ Danach hat sie noch einen Master in Jazzklavier (Städtischen Universität in Ne
 
 Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China und Deutschland gehalten und über 10 Alben als Komponistin und Arrangeurin als Pianistin-Session veröffentlicht.
 
+Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 
 ## Schulbildung
 - Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
