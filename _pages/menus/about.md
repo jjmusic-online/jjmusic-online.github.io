@@ -23,6 +23,7 @@ permalink: /about/
 - 1.2018 - 9.2019 Thomas Mann Platz Musikschule, Chemnitz, Germany 독일뮤직슐레근무
 - 10.2019-12.2020 Elternzeit in Germany 육아휴직 
 - 1.2021-현재 독일 베를린 전문 연주자 활동 및 교육자
+- 2.2022-현재 독일 베를린 뮤직슐레 근무 piano e forte Private Musikschule GmbH
 
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
