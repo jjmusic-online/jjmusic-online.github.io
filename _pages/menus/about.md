@@ -10,7 +10,9 @@ permalink: /about/
 - <a href="/about/about-eng">JJ's Profile in English</a>
 - <a href="/about/about-deu">JJ's Profile in German</a>
 - 2017년부터 현 독일 거주🇩🇪
+  
 ## 강의경력(독일)
+
 - 1.2021-현재 독일 베를린 전문 연주자 활동 및 교육자
 - 4.2023-현재 독일 베를린 시립음악학교 근무 Musikschule Reinickendorf
 - 2.2023-현재 독일 베를린 뮤직슐레 근무 piano e forte Private Musikschule GmbH
