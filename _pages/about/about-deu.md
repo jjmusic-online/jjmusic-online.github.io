@@ -28,7 +28,9 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 	title="Photo of JJ" style="min-width: 150px" />
     
 ## Die Unterrichten als Dozentin und Professorin
-  
+
+- 04.23-Heute Städtischen Musikschule Berlin (Musikschule Reinickendorf) tätig
+- 02.23-Heute piano e forte Private Musikschule tätig   
 - Private Lessons/Online Kurs (Berlin, Deutschland)
 2021.01-Heute
 - Elternzeit(Deutschland)
