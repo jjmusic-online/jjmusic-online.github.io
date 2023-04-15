@@ -38,8 +38,7 @@ permalink: /lessons/onlinelesson-korean
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
-<img src="https://jjmusic-online.github.io/assets/images/Kakaoshot.png" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 150px" />    
+ 
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
 
