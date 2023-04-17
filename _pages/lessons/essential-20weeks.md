@@ -15,9 +15,10 @@ permalink: /lessons/essential-20weeks
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
-    <br>메인연결
+    <br>메인연결:메인사운드 및 공유화면확인 (데스크탑 노트북 패드 이용)
 <img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
+    <br>추가연결:자세 손모양 보이싱 운지 확인 (휴대폰 카카오톡, 페이스타임 혹은 와츠앱)
 <img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
