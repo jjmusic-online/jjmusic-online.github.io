@@ -15,9 +15,9 @@ permalink: /lessons/essential-20weeks
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
-<img src="https://jjmusic-online.github.io/assets/images/kakao_1.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
-<img src="https://jjmusic-online.github.io/assets/images/kakao_2.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
