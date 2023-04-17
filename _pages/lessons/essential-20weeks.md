@@ -15,6 +15,7 @@ permalink: /lessons/essential-20weeks
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
+    <br>메인연결
 <img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
