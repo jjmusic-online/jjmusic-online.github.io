@@ -13,6 +13,16 @@ permalink: /lessons/essential-20weeks
 - <a href="/lessons/essential-scale">말이되는 Soloing 6주</a>
 - 추가: 밀착 맞춤별 레슨 2주 
 
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao2.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
+
+
 - 대략 5-6개월에 걸쳐 20회의 1:1 온라인 레슨이 이루어 집니다.(레슨연기는 최소24시간 전 6회까지 가능합니다.)
 - 모든 자료는 PDF로 제공됩니다. 
 - 밀착 맞춤별 레슨 2주의 경우는 학생이 원하고 부족한 부분을 보완하는 레슨입니다. 입시곡도 당연히 가능합니다.
