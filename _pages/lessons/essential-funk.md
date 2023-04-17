@@ -43,6 +43,7 @@ permalink: /lessons/essential-funk
 - 대표적인 Funk 곡들의 테마 만들기 
 
 
+
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
