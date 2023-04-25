@@ -117,7 +117,6 @@ permalink: /lessons/essential-voicings
 #### More Infos 강의 정보 
 - jazzydusmusic@gmail.com
 
-- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank"> 레슨비 알아보기 및 레슨결제 (알짜배기 코드초견 보이싱 특강 6주)</a>
 
 
 
