@@ -33,11 +33,6 @@ permalink: /lessons/essential-scale-deutsch
 - Bildschirmfreigabe (Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App können aufgezeichnet und aufgezeichnete Dateien gespeichert werden. All Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
 
-#### Bezahlen für Lessons
- 
-- <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank"> (Euro) Bezaheln für lessons (Scale & Improv Workshop)</a>
-
-
 #### Lesson Videos 
 - (Funk Piano mit Noten) 
     <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
