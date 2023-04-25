@@ -37,10 +37,7 @@ permalink: /lessons/essential-funkdeutsch
 - Geisternoten und Ihre Funk-Artikulation, die die Qualität Ihrer Darbietung bestimmt
 - Wesentliches Funk-Melodien-Thema
 
-#### Bezahlen für Lessons
 
-
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
 
 #### Lesson Samples 
 - (Funk Piano mit Noten) 
