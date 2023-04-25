@@ -55,11 +55,7 @@ permalink: /lessons/essential-funkeng
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">Feedback</a>
 
 
-#### Pay for Lessons
 
-- <a href="http://jazzydusmusic.gumroad.com/l/nnxst" target="_blank"> (U.S $)Pay for lessons (Funk Piano Workshop)</a>
-- <a href="http://jazzydusmusic.gumroad.com/l/egqokm" target="_blank"> (Europe €)Unterricht bezahlen (Funk Piano Workshop)</a>
-  
 #### More Info
 - jazzydusmusic@gmail.com 
 
