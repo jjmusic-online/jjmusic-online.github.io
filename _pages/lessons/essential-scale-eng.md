@@ -33,9 +33,6 @@ permalink: /lessons/essential-scale-eng
 - Screen sharing method (Keyboard/Writing App/Chordie Keyboard App) Recorded class contents can be saved (excellent for review) All class materials and sheet music are provided as PDF files.
 
 
-#### Pay for Lessons
- 
-- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
 
 
 #### Lesson Samples 
