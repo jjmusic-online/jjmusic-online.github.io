@@ -39,12 +39,6 @@ permalink: /lessons/essential-scale
 - 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
 - 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
 
-
-#### 레슨 결제하기 (Pay for Lessons)
-- <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank"> 레슨비 알아보기 및 결제 (알짜배기 즉흥연주 특강 6주)</a> 
-- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank"> ($)Pay for lessons (Scale & Improv Workshop)</a>
-
-
 #### 레슨 구경하러 가기 
 - (Funk Piano 레슨:워크샵 하이라이트) No.1 
     <a href="https://youtu.be/93QkhEATEMc" target="_blank"> (Video Korean.1)</a>  
