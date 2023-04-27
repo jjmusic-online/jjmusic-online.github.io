@@ -11,8 +11,8 @@ permalink: /about/about-eng
 ## Work Experience in Germany
 - Professional Concert Pianist in Germany 2017.10-Present
 - Private Lessons/Online Lessons (Hermsdorf Waidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
-- City Music School (Musikschule Reinickendorf) 2023.04-Present
-- Private Music School (piano e forte Private Musikschule GmbH) 2023.02-Present
+- City Music School Berlin Reinickendorf (Musikschule Reinickendorf Berlin) 2023.04-Present
+- Private Music School (piano e forte Private Musikschule GmbH in Berlin) 2023.02-Present
 - Maternity Leave(in Germany) 2019.09-2020.12
 - Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano Teacher)
 
