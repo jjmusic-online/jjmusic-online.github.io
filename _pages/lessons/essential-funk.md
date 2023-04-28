@@ -42,7 +42,7 @@ permalink: /lessons/essential-funk
 - 입시초견훈련 (Funk/Straight), 대표적이고 까다로운 초견 진행. 
 - 대표적인 Funk 곡들의 테마 만들기 
 
-<img src="https://jjmusic-online.github.io/assets/funkfoto1.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/funkfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
