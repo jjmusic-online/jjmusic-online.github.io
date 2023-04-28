@@ -43,7 +43,8 @@ permalink: /lessons/essential-funk
 - 대표적인 Funk 곡들의 테마 만들기 
 
 
-
+<img src="https://jjmusic-online.github.io/assets/funkfoto1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
@@ -56,9 +57,9 @@ permalink: /lessons/essential-funk
 
 
 #### 레슨 구경하러 가기 
-- (Funk Piano 레슨:악보로 배우는 펑크) No.1
+- (펑크 피아노 워크샵 하이라이트) No.1
     <a href="https://youtu.be/SaeBq5GyAEw" target="_blank"> (Video Korean.2)</a> 
-- (Funk Piano 레슨:워크샵 하이라이트) No.2
+- (펑크 피아노 워크샵 하이라이트) No.2
     <a href="https://youtu.be/93QkhEATEMc" target="_blank"> (Video Korean.1)</a>  
 - (코드편곡) No.3
     <a href="https://youtu.be/peX0o5pAD2Q" target="_blank"> (Video Korean.3)</a>
