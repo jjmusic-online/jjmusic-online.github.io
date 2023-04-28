@@ -69,7 +69,7 @@ title="Photo of JJ" style="min-width: 150px" />
 - (환경세팅 및 레슨) No.5
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
-#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기</a>
+
 
 #### More Info
 - jazzydusmusic@gmail.com 
