@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "JJ Plays! Konzert! 독일현지 연주소식 2023"
+title: "JJ Plays! JJ Konzert 2023!(독일현지 연주소식 2023)"
 date: 2021-05-01
 published: on
 ---
