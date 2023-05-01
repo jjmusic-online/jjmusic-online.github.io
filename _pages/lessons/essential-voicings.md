@@ -110,6 +110,11 @@ permalink: /lessons/essential-voicings
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
+    
+#### <a href="https://jjmusic-online.github.io/assets/images/voicing3.jpeg">교재사진 보러가기 no.1</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/voicing4.jpeg">교재사진 보러가기 no.2</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/voicing2.jpeg">교재사진 보러가기 no.3</a> 
+#### <a href="https://jjmusic-online.github.io/assets/images/voicing1.jpeg">교재사진 보러가기 no.4</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
 
