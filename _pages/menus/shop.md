@@ -34,30 +34,30 @@ permalink: /shop/
 
 ## Lessons - Gumroad
 
-- <a href="jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
     보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
 </a>
-- <a href="jazzydusmusic.gumroad.com/l/dxvyy" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank">
     Voicing Workshop 6 Weeks (U.S or $)
 </a>  
-- <a href="jazzydusmusic.gumroad.com/l/qmczn" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/qmczn" target="_blank">
     Voicing Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
 </a>    
-- <a href="jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
     펑크피아노 특강 6주 Funk Workshop 6 Weeks (South Korea)
 </a> 
-- <a href="jazzydusmusic.gumroad.com/l/nnxst" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/nnxst" target="_blank">
     Funk Workshop 6 Weeks (U.S or $)
 </a>  
-- <a href="jazzydusmusic.gumroad.com/l/egqokm" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/egqokm" target="_blank">
     Funk Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
 </a>   
-- <a href="jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
     즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
 </a>  
-- <a href="jazzydusmusic.gumroad.com/l/wehwc" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank">
     Improv Workshop 6 Weeks (U.S or $)
 </a>
-- <a href="jazzydusmusic.gumroad.com/l/iazso" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
     Improv Workshop 6 Weeks (E.U)
      
