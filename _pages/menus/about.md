@@ -13,7 +13,7 @@ permalink: /about/
   
 ## 강의경력(독일)
 
-- 1.2021-현재 독일 베를린 전문 연주자 활동 및 교육자
+- 1.2019-현재 독일 베를린 전문 연주자 활동 및 교육자
 - 4.2023-현재 독일 베를린 시립음악학교 근무 Musikschule Reinickendorf
 - 2.2023-현재 독일 베를린 뮤직슐레 근무 piano e forte Private Musikschule GmbH
 - 1.2018 - 9.2019 독일 켐니츠 뮤직슐레 근무 Thomas Mann Platz Musikschule
