@@ -14,8 +14,8 @@ permalink: /lessons/onlinelesson-korean
   - <a href="/lessons/essential-scale">알짜배기 스케일 활용 즉흥연주 기초 특강 (6주)
   - <a href="/lessons/essential-funk">알짜배기 Funk Piano 및 스트레이트 특강 (6주)</a>
   - <a href="/lessons/essential-20weeks"> 1:1 온라인 단기 입시특강 (20주)</a>
-  - 리하모니제이션 핵심기법 단기완성 (12주)
-  - 이론정복! 재즈화성법 완성(32주)
+  - 리하모니제이션 핵심기법 단기완성 (12주) -자세한 커리큘럼은 문의 바랍니다.
+  - 이론정복! 재즈화성법 완성(32주) -자세한 커리큘럼은 문의 바랍니다.
 
 
 - 개인 맞춤별 수업. 화면공유방식 (건반영상, 필기APP,Chordie App 건반앱) 녹화 및  녹화파일 저장가능, 모든 수업자료 및 악보는 PDF 파일로 제공합니다. Zoom 유료 문제로 Skype를 선호합니다.
