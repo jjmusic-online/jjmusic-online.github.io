@@ -18,5 +18,12 @@ permalink: /lessons/onlinelesson-eng
 - <a href="/lessons/essential-voicings-eng">Voicing Workshop for 6 weeks</a>
 - <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks</a>
 
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+
 #### More Infos & Curriculum
 - jazzydusmusic@gmail.com
