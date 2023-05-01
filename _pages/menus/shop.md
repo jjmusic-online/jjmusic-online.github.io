@@ -31,3 +31,33 @@ permalink: /shop/
 
 - <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
     Artist's Page
+
+## Lessons - Gumroad
+
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
+</a>
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Voicing Workshop 6 Weeks (U.S or $)
+</a>  
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Voicing Workshop 6 Weeks (E.U)
+</a>    
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    펑크피아노 특강 6주 Funk Workshop 6 Weeks (South Korea)
+</a> 
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Funk Workshop 6 Weeks (U.S or $)
+</a>  
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Funk Workshop 6 Weeks (E.U)
+</a>   
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
+</a>  
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Improv Workshop 6 Weeks (U.S or $)
+</a>
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Improv Workshop 6 Weeks (E.U)
+     
