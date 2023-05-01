@@ -26,6 +26,13 @@ permalink: /lessons/onlinelesson-deutsch
 - <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
 - <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
 
+<img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+<img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 150px" />
+
 - zum Unterricht gehen (Lesson Sample. 1 Pop Piano)
     <a href="https://youtu.be/jDeisctXh1c" target="_blank"> (Video Deutsch.1)</a>
 
