@@ -59,5 +59,5 @@ permalink: /shop/
     Improv Workshop 6 Weeks (U.S or $)
 </a>
 - <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
-    Improv Workshop 6 Weeks (E.U)
+    Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
      
