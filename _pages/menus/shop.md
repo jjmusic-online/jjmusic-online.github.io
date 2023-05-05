@@ -60,4 +60,9 @@ permalink: /shop/
 </a>
 - <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
     Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
+ </a> 
+- <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
+    20주 단기특강/20주 입시 단기특강
+ </a>   
+       
      
