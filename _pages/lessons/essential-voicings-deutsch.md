@@ -6,6 +6,16 @@ permalink: /lessons/essential-voicings-deutsch
 <a href="/lessons">< Back to Lessons</a>
 
 #### Online Piano Lessons in Berlin 
+
+#### Möchten Sie neben bekannten Akkorden auch versteckten Vocings lernen?
+
+- Es ist keine Übertreibung zu sagen, dass mehr als 90 % der Musik aus verminderten Akkorden besteht. Wenn Sie das Prinzip verstehen, können Sie jetzt versteckte „Voiceleading“und „Bassline“ finden, die über das bloße Ansehen der Akkorde hinausgeht.
+- Wir bringen Ihnen Schritt für Schritt die Grundlagen von Akkorden bei.
+- Wir denken an einen schönen Klang der zu den Akkorden passt. 
+- Wir denken an eine Melodie, die mit dem Akkord resoniert.
+- Wir lernen Regeln von Voicing auswendig.
+
+
 #### Pop 
 
 - Voicing Basic Pattern Check
