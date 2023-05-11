@@ -8,9 +8,11 @@ permalink: /lessons/onlinelesson-deutsch
 ### Online Klavierunterricht (Jazzklavier, Jazzpiano) in Berlin 
 ### Unterrichten auf Deutsch
 
+### Hauptgerät: PC, Laptop odr PAD
 - Der Bildschirm(Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden,damit Sie das Video nach dem Unterricht wieder ansehen kann.Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 
-- Sie benötigen keine spezielle Ausrüstung. Verbinden Sie Ihr Mobiltelefon mit What's App für Videoanrufe. Befestigen Sie Ihr Telefon einfach so, dass Sie Ihre Hände auf der Tastatur sehen können. Ich überwache jeden Moment Ihre Körperhaltung und Fingersatz.
+### Zusätzliches Gerät: Handy
+- Sie benötigen keine spezielle Ausrüstung. Verbinden Sie Ihr Mobiltelefon mit What's App oder Facetime für Videoanrufe. Befestigen Sie Ihr Telefon einfach so, dass Sie Ihre Hände auf der Tastatur sehen können. Ich überwache jeden Moment Ihre Körperhaltung und Fingersatz.
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
