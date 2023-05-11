@@ -8,6 +8,12 @@ permalink: /lessons/essential-scale-deutsch
 #### Scale & Improv Workshop
 ### 6 Lessons * 50min (Online Live 1:1 Lesson)
 
+- Wir verstehen die Intervalle, die jede Skala am besten charakterisiert. 
+- Wir versuchen zu verstehen, wie eine Phase klingt, die die Charakternoten gut einfängt.  
+
+- Es bringt Ihnen bei, wie man selbständig eine melodische Geschichte erzählt
+
+
 - 	Chord Tone Soloing
 -   Understanding Approach System 
 - 	Blues Scale Soloing
