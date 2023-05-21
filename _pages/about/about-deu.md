@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Jiyeon Jeon (Kavier, Jazzkalvier)"
+title: "Jiyeon Jeon (Klavier, Jazzklavier)"
 permalink: /about/about-deu
 ---
 
