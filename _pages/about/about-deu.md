@@ -17,10 +17,10 @@ Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahr
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 
 
+- Städtische Musikschule Reinickendor Berlin tätig 2023.04-heute (Jazz/Klassik/Studienvorbereitende Ausbildung)
+- piano e forte Private Musikschule GmbH in Berlin tätig 2023.02-heute (Klassik/Jazz)
 - Konzert Pianistin in Deutschland 2017.10-Present
 - Private Lessons/Online Lessons (Hermsdorf Waidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
-- Städtische Musikschule Reinickendor Berlin tätig 2023.04-heute (Jazz/Klassik/Studienvorbereitende Ausbildung)
-- piano e forte Private Musikschule GmbH in Berlin tätig 2023.02-heute (Klazzik/Jazz)
 - Thomas Mann-Platz Musikschule (Chemnitz, Deutschland) 2018.01 – 2019.08 (Jazzklavier)
 
 ## 🎹 Konzerte und Aufnehmen (2006-heute)
