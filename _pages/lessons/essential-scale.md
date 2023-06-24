@@ -32,6 +32,16 @@ permalink: /lessons/essential-scale
 
 각 스케일의 특징을 잘 나타내는 구간을 이해합니다. 캐릭터 노트들을 잘 살리는 솔로가 어떤 사운드를 내는지 이해해 봅니다. 언어적으로 솔로하는 법을 지도합니다. Standard 곡, Functional 한 곡 중심으로 수업합니다. 정보전달 위주의 레슨이 아닌, 학습자를 매순간 모니터링합니다. 항상 시범연주를 보입니다. 실력을 향상되는 레슨이 됩니다. 같이 열심히 해보실 분들 연락바랍니다. 기초부터 단단하게 시작하시고 싶은 분들. 솔로를 처음 시작하기 두려우신 분들. 혹은 이론적으로 정리가 안되어 늘 연습방법이 막막하신 분들. 초보자 입시생 전공자 혹은 선생님들을 위한 레슨입니다. 
 
+<img src="https://jjmusic-online.github.io/assets/images/improvshot3.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 90px" />
+<img src="https://jjmusic-online.github.io/assets/images/improvshot4.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 90px" />
+<img src="https://jjmusic-online.github.io/assets/images/improvshot2.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 90px" />
+<img src="https://jjmusic-online.github.io/assets/images/improvshot1.jpeg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 90px" />            
+
+
 - 개인 맞춤별 수업 
 - 화면공유방식 (건반/필기 App/Chordie 건반App) 수업내용 녹화파일 저장가능(복습에 탁월합니다) 모든 수업자료 및 악보는  PDF파일로 제공합니다.
 - Zoom 유료 문제로 Skype를 선호합니다.
