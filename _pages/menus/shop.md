@@ -34,7 +34,7 @@ permalink: /shop/
 
 ## Lessons - Gumroad
 
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
     보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
 </a>
 - <a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank">
