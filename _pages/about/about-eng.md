@@ -10,7 +10,7 @@ permalink: /about/about-eng
 - JJ currently lives in Germany(Berlin) since 2017 🇩🇪
 ## Work Experience in Germany
 - Professional Concert Pianist in Germany 2017.10-Present
-- City Music School Berlin Reinickendorf (Musikschule Reinickendorf Berlin)<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz</a> <a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
+- City Music School Berlin Reinickendorf (Musikschule Reinickendorf Berlin)<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz/</a> <a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
     Klassik/Studienvorbereitende Ausbildung</a> 2023.04-Present
 - Private Lessons/Online Lessons (Hermsdorf Waidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
 - Private Music School (piano e forte Private Musikschule GmbH in Berlin) 2023.02-2023.08

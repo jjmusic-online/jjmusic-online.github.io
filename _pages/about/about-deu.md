@@ -17,7 +17,7 @@ Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahr
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 
 
-- Städtische Musikschule Reinickendorf Berlin tätig 04.2023-heute (<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz</a><a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
+- Städtische Musikschule Reinickendorf Berlin tätig 04.2023-heute (<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz/</a><a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
     Klassik/Studienvorbereitende Ausbildung)
 </a> 
 - piano e forte Private Musikschule GmbH in Berlin tätig 02.2023-08.2023 (Klassik/Jazz)
