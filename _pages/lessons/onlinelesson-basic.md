@@ -24,6 +24,17 @@ permalink: /lessons/onlinelesson-basic
 	title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshotbasic2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
+#### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback3.JPG">수강생 후기 보러가기 no.3</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback4.JPG">수강생 후기 보러가기 no.2</a>
+
+
+- 오산 산길중앙침례교회	반주자 2009.04~2010.08/2012.01~2013.11
+- 뉴욕 퀸즈중앙장로교회(Korean Central Pres.Church Of Queens) 찬양팀 및 반주자 2010.11~2012.01
+- 독일 켐니츠 인터네셔널교회(Evangelische International Gemeinde Chemnitz)찬양팀 및 반주자 2017.9~2022.04
+- 독일 베를린 백림반석교회(Evangelische koreanische Presbyterianische Berlin-Banseok Gemeinde e. V.) 반주자 2022.7~현재 
+
 - 자세한 사항은
 - jazzydusmusic@gmail.com
 
