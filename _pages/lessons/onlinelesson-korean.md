@@ -46,6 +46,8 @@ permalink: /lessons/onlinelesson-korean
 	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback3.JPG">수강생 후기 보러가기 no.3</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback4.JPG">수강생 후기 보러가기 no.2</a>
 
 #### More Infos 강의 정보 
 - jazzydusmusic@gmail.com
