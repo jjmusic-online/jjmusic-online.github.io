@@ -23,6 +23,9 @@ permalink: /lessons/essential-20weeks
 	title="Photo of JJ" style="min-width: 150px" />
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback3.JPG">수강생 후기 보러가기 no.3</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback4.JPG">수강생 후기 보러가기 no.2</a>
+
 
 
 - 대략 5-6개월에 걸쳐 20회의 1:1 온라인 레슨이 이루어 집니다.(레슨연기는 최소24시간 전 6회까지 가능합니다.)
