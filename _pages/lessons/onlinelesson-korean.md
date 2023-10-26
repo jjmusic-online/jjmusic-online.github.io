@@ -37,6 +37,7 @@ permalink: /lessons/onlinelesson-korean
     <a href="https://youtu.be/AVtyd8GAnoM" target="_blank"> (Video Korean.5)</a>
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 150px"/>
+<img src="https://jjmusic-online.github.io/assets/images/onlinefoto3.JPG" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 150px"/>
 
 <img src="https://jjmusic-online.github.io/assets/images/onlineshot2.jpeg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 150px" />
 <img src="https://jjmusic-online.github.io/assets/images/kakao-1.jpeg" alt="JJ Photo of JJ"
