@@ -5,7 +5,7 @@ permalink: /lessons/onlinelesson-korean
 ---
 <a href="/lessons">< Back to Lessons</a>
 
-### Lessons in Korean(한국어)
+### Lessons in Korean(한국어) 수강자는 녹화된 비디오를 다운로드 무제한 무료로 반복적으로 확인체크하며 연습할 수 있는 장점이 있습니다.(JJ Music 레슨생만의 특권입니다:) 시공간에 제약을 받지 않는 편리하지만 지속가능한 평생의 여러분들의 피아노 공부를 도와 주는 온라인레슨입니다.
  
   - 실용음악 재즈피아노 및 작곡 입시
   - 취미 (초급,중급,고급)
