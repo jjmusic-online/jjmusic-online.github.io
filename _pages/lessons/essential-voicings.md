@@ -117,6 +117,9 @@ permalink: /lessons/essential-voicings
 #### <a href="https://jjmusic-online.github.io/assets/images/voicing1.jpeg">교재사진 보러가기 no.4</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/photo13.jpg">수강생 후기 보러가기 no.1</a>
 #### <a href="https://jjmusic-online.github.io/assets/images/Onlinefeedback2.jpg">수강생 후기 보러가기 no.2</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback3.JPG">수강생 후기 보러가기 no.3</a>
+#### <a href="https://jjmusic-online.github.io/assets/images/feedback4.JPG">수강생 후기 보러가기 no.2</a>
+
 
 
 #### More Infos 강의 정보 
