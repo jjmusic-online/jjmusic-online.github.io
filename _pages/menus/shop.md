@@ -36,7 +36,7 @@ permalink: /shop/
 
 
 <img src="https://jjmusic-online.github.io/assets/images/voicingfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 50px" />
+	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
     보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
 </a>
@@ -48,7 +48,7 @@ permalink: /shop/
 </a>  
 
  <img src="https://jjmusic-online.github.io/assets/images/funkfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 50px" />
+	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
     펑크피아노 특강 6주 Funk Workshop 6 Weeks (South Korea)
 </a> 
@@ -60,7 +60,7 @@ permalink: /shop/
 </a>   
 
 <img src="https://jjmusic-online.github.io/assets/images/improfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 50px" />
+	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
     즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
 </a>  
