@@ -35,7 +35,7 @@ permalink: /shop/
 ## Lessons - Gumroad
 
 
-<img src="https://jjmusic-online.github.io/assets/voicingfoto.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/voicingfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 50px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
     보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
@@ -59,7 +59,7 @@ permalink: /shop/
     Funk Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
 </a>   
 
-<img src="https://jjmusic-online.github.io/assets/images/improfot.jpeg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/improfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 50px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
     즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
