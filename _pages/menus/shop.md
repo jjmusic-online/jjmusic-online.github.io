@@ -68,6 +68,9 @@ permalink: /shop/
 - <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
     Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
  </a> 
+
+ ## Essential Lessons for 20 Weeks
+ 
 <img src="https://jjmusic-online.github.io/assets/images/piano20weeks.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
