@@ -28,6 +28,7 @@ permalink: /shop/
     Artist's Page
 
 ## Lessons - Gumroad
+## Voicing Workshop
 <img src="https://jjmusic-online.github.io/assets/images/voicingfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
@@ -38,7 +39,10 @@ permalink: /shop/
 </a>  
 - <a href="https://jazzydusmusic.gumroad.com/l/qmczn" target="_blank">
     Voicing Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a>  
+</a> 
+
+## Funk Piano Workshop
+
 <img src="https://jjmusic-online.github.io/assets/images/funkfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
@@ -49,7 +53,10 @@ permalink: /shop/
 </a>  
 - <a href="https://jazzydusmusic.gumroad.com/l/egqokm" target="_blank">
     Funk Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a>   
+</a>  
+
+## Improvisation Workshop
+
 <img src="https://jjmusic-online.github.io/assets/images/improfoto.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
