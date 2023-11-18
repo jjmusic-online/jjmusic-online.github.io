@@ -22,6 +22,7 @@ permalink: /shop/
     6 Beautiful Major 7th Chords for Piano
 - <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
     Pop Ballad (Key of Eb,F, G)  
+
 ## Sheet Music - mapianist.com
 
 - <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
@@ -70,7 +71,7 @@ permalink: /shop/
  </a> 
 
  ## Essential Lessons for 20 Weeks
- 
+
 <img src="https://jjmusic-online.github.io/assets/images/piano20weeks.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
