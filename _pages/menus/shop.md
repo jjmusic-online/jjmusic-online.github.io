@@ -70,7 +70,7 @@ permalink: /shop/
     Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
  </a> 
 
- ## Essential Lessons for 20 Weeks
+## Essential Lessons for 20 Weeks
 
 <img src="https://jjmusic-online.github.io/assets/images/piano20weeks.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
