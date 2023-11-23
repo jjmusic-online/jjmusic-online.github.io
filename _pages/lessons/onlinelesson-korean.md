@@ -12,6 +12,7 @@ permalink: /lessons/onlinelesson-korean
   - 실용음악 재즈피아노 및 작곡 입시
   - 취미 (초급,중급,고급)
   - 정기레슨 
+  - 20분 비디오 피드백 레슨
   - <a href="/lessons/onlinelesson-basic">반주법</a>
   - <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
   - <a href="/lessons/essential-scale">알짜배기 스케일 활용 즉흥연주 기초 특강 (6주)
