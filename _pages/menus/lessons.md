@@ -10,7 +10,7 @@ permalink: /lessons/
  - <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 50 Minutes (English)</a>
  - <a href="/lessons/onlinelesson-deutsch">Online Einzelunterricht (1:1) 50 Minuten (Deutsch)</a>
  - <a href="https://www.piareno.com/product/jj_1kor
-">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어/<a/> 
+">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어<a/> 
    
  - <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
   
