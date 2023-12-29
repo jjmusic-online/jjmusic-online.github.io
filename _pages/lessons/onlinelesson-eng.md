@@ -10,6 +10,7 @@ permalink: /lessons/onlinelesson-eng
 
 - Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
 
+- One Point Lesson
 - University Audition
 - Beginner Intermediate Advanced
 - Reharmoniztion Technique for 12 Weeks
@@ -17,6 +18,7 @@ permalink: /lessons/onlinelesson-eng
 - Jazz Harmony (32 Weeks)
 - <a href="/lessons/essential-voicings-eng">Voicing Workshop for 6 weeks</a>
 - <a href="/lessons/essential-funkeng">Funk Piano Workshop for 6 weeks</a>
+- <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
