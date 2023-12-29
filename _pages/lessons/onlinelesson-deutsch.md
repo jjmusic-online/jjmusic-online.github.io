@@ -18,15 +18,17 @@ permalink: /lessons/onlinelesson-deutsch
 	title="Photo of JJ" style="min-width: 150px" />
 - Studienvorbereitung im Fach Jazz(Musikgymnasium oder nach der Schulausbildung ein Musikstudium aufzunehmen oder nach einem Bachelorabschluss einen Master anzustreben.)
 
+
+- One Point Lesson
 - Anfänger Wiederreinsteiger Fortgeschrittene
-
 - Reharmonization für 12 Wochen
-
 - Jazzharmonie(32 Wochen)
 
 - <a href="/lessons/essential-voicings-deutsch">Voicing Workshop (6 Wochen)
 - <a href="/lessons/essential-funkdeutsch">Funk Piano Workshop (6 Wochen)
 - <a href="/lessons/essential-scale-deutsch"> Scale & Improvisation (6 Wochen)
+- - <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
+  
 
 <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
