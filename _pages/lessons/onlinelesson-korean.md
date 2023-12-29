@@ -12,12 +12,15 @@ permalink: /lessons/onlinelesson-korean
   - 실용음악 재즈피아노 및 작곡 입시
   - 취미 (초급,중급,고급)
   - 정기레슨 
+  - 원 포인트 레슨
   - 20분 비디오 맞춤 피드백 레슨
   - <a href="/lessons/onlinelesson-basic">반주법</a>
   - <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
   - <a href="/lessons/essential-scale">알짜배기 스케일 활용 즉흥연주 기초 특강 (6주)
   - <a href="/lessons/essential-funk">알짜배기 Funk Piano 및 스트레이트 특강 (6주)</a>
   - <a href="/lessons/essential-20weeks"> 1:1 온라인 단기 입시특강 (20주)</a>
+  - - <a href="https://www.piareno.com/product/jj_1kor
+">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어<a/> 
   - 리하모니제이션 핵심기법 단기완성 (12주) -자세한 커리큘럼은 문의 바랍니다.
   - 이론정복! 재즈화성법 완성(32주) -자세한 커리큘럼은 문의 바랍니다.
 
