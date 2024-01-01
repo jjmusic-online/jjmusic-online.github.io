@@ -62,7 +62,7 @@ permalink: /shop/
  - 1:1 Live 입시정기레슨 (학부/대학원/독일대학/미국대학 입시)  4회*60분 30만원/220유로/220달러/
  - 1:1 Live 6회완성 단기 특강 시리즈 6회*50분 45만원 /350유로 /350달러/
 
-- - <a href="https://www.piareno.com/product/jj_1kor
+- <a href="https://www.piareno.com/product/jj_1kor
 ">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어<a/> 
 - <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
 
