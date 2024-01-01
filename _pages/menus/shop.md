@@ -4,29 +4,6 @@ title: "Shop"
 permalink: /shop/
 ---
 
-## Sheet Music - Gumroad
-
-- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
-    Minor 2-5-1 Voicings using Lociran#2 Diatonic Chords
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#rQKhu" target="_blank">
-    You are in me Project #1. m7(b5)voicing 연구 12Keys PDF(악보) + Lecture(비공개강의)
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#gFFEsD" target="_blank">
-    Funk Piano (Key of F) 3 Tips for Funk Piano
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#JCupaZ" target="_blank">
-    Polka dots and Moonbeams (Jazzpiano Arrangement)
-</a>
-- <a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
-    6 Beautiful Major 7th Chords for Piano
-- <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
-    Pop Ballad (Key of Eb,F, G)  
-
-## Sheet Music - mapianist.com
-
-- <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
-    Artist's Page
 
 ## Lessons - Gumroad
 ## Voicing Workshop
@@ -84,5 +61,34 @@ permalink: /shop/
  - 1:1 Live 정기레슨 (기초/반주법/초급/중급/전공자/선생님) 4회*50분 27만원 /200유로 / 200달러/
  - 1:1 Live 입시정기레슨 (학부/대학원/독일대학/미국대학 입시)  4회*60분 30만원/220유로/220달러/
  - 1:1 Live 6회완성 단기 특강 시리즈 6회*50분 45만원 /350유로 /350달러/
+
+- - <a href="https://www.piareno.com/product/jj_1kor
+">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어<a/> 
+- <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
+
+
+## Sheet Music - Gumroad
+
+- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
+    Minor 2-5-1 Voicings using Lociran#2 Diatonic Chords
+</a>
+- <a href="https://gumroad.com/jazzydusmusic#rQKhu" target="_blank">
+    You are in me Project #1. m7(b5)voicing 연구 12Keys PDF(악보) + Lecture(비공개강의)
+</a>
+- <a href="https://gumroad.com/jazzydusmusic#gFFEsD" target="_blank">
+    Funk Piano (Key of F) 3 Tips for Funk Piano
+</a>
+- <a href="https://gumroad.com/jazzydusmusic#JCupaZ" target="_blank">
+    Polka dots and Moonbeams (Jazzpiano Arrangement)
+</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
+    6 Beautiful Major 7th Chords for Piano
+- <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
+    Pop Ballad (Key of Eb,F, G)  
+
+## Sheet Music - mapianist.com
+
+- <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
+    Artist's Page
 
 ## More Infos : jazzydusmusic@gmail.com
