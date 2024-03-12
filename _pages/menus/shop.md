@@ -53,7 +53,12 @@ permalink: /shop/
 	title="Photo of JJ" style="min-width: 10px" />
 - <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
     20주 단기특강
- </a>   
+ </a> 
+- <a href="jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
+    20 Weeks Essential Workshop in English
+ </a>    
+ 
+    
 
 ###### * 한국계좌 이체시 제이제이뮤직(전지연) 이름으로 현금영수증 가능합니다.  
 ###### * 연말정산시 필요한 독일에서 일하시는 피아노 선생님을 위한 Fortbildung 영수증 가능합니다. 
