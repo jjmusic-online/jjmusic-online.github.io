@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Jiyeon Jeon (Klavier, Jazzklavier)"
+title: "Jiyeon Jeon "JJ" 전지연 "
 permalink: /about/about-deu
 ---
 
