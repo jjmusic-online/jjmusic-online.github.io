@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Jiyeon Jeon(JJ) 전지연 "
+title: "Jiyeon Jeon(JJ) 전지연 Klavier, Jazzklavier"
 permalink: /about/
 ---
 
@@ -80,8 +80,7 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 
 
 
-- <a href="/about/about-eng">JJ's Profile in English</a>
-- <a href="/about/about-deu">JJ's Profile in German</a>
+
 - 2017년부터 현 독일 거주🇩🇪
   
 ## 강의경력(독일)
