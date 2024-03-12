@@ -8,7 +8,7 @@ permalink: /about/
 	title="Photo of JJ" style="min-width: 150px" />
 
 - <a href="/about/about-eng">JJ's Profile in English</a>
-- <a href="/about/about-deu">JJ 프로필 한국어로 보기</a>
+- <a href="/about/about-kor">JJ 프로필 한국어로 보기</a>
 
 Jiyeon Jeon, geboren in Seoul, Südkorea, ist Musikerin und Pädagogin. Sie fing mit 6 Jahren mit dem Klavierspielen an.
 
