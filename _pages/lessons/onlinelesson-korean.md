@@ -30,7 +30,7 @@ permalink: /lessons/onlinelesson-korean
 - 메인 연결 Skype: PC나 노트북 혹은 패드를 준비합니다. 공유된 화면을 보며 수업합니다.
 - 추가 연결 Kakaotalk, Whats App 혹은 Facetime: 휴대폰을 자신의 손과 피아노가 잘 보이도록 거치합니다. 강의자가 자세 및 운지 등을 매순간 모니터 합니다. 
 
-#### 확실한 방향성, 목표와 그리고 반드시 성취가 있는 레슨, 멘토가 되는 레슨, 즐거운레슨! 
+#### 확실한 방향성과 목표와 그리고 반드시 성취가 있는 레슨, 멘토가 되는 레슨, 즐거운레슨! 
 <img src="https://jjmusic-online.github.io/assets/images/happylesson.jpg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 300px" />
   
 #### 레슨 구경하러 가기 
