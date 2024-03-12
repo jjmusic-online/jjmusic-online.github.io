@@ -1,11 +1,12 @@
 ---
 layout: "pages"
-title: "Jiyeon Jeon "JJ" 전지연 "
+title: "Jiyeon Jeon 'JJ' 전지연"
 permalink: /about/about-kor
 ---
 
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
+
 - 2017년부터 현 독일 거주🇩🇪
   
 ## 강의경력(독일)
@@ -72,9 +73,3 @@ permalink: /about/about-kor
 
 <img src="https://jjmusic-online.github.io/assets/images/photo3.jpeg" alt="JJ Photo3"
 	title="Photo of JJ" style="min-width: 150px" />
-
-
-
-
-
-
