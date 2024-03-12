@@ -1,7 +1,7 @@
 ---
 layout: "pages"
 title: "Jiyeon Jeon "JJ" 전지연 "
-permalink: /about/about-deu
+permalink: /about/about-kor
 ---
 
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
