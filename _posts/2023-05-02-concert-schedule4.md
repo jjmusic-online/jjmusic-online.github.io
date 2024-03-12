@@ -8,5 +8,6 @@ published: on
 - Jazz Konzert 
 - SAX: Julian Kaleschke 
 - Klavier: Jiyeon Jeon 
-- Wo: Domicil Seniorenresidenz, Techowpromenade 9, 13437 Berlin.
+- Wo: Domicil Seniorenpflegeheim Residenzstraße GmbH
+- Thaterstraße 18 13407 Berlin.
 - Wann: 20.4.24 Samstag 16:00Uhr
