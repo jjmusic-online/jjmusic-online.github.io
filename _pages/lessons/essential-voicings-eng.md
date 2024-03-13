@@ -39,7 +39,7 @@ Training using single tension and good combinations of tensions
 
 Non functional Chord Change training and Melodies
 
-How to make a minor progressions
+How to make minor progressions
 
 Essential Chord Progressions that you must memorize 
 
@@ -47,17 +47,17 @@ Essential Chord Progressions that you must memorize
 
 - example 1
 
-1) Dominant Aperture
+1) Dominant Apperstructure
 
-2) Minor Aperture
+2) Minor Apperstructure
 
-3) Major Aperture
+3) Major Apperstructure
 
-4) Demined Aperture
+4) Diminished Apperstructure
 
-5) Demined Drop2
+5) Diminished Drop2
 
-6) Half-demined Drop2
+6) Half-diminishied Drop2
 
 7) Tips to easily apply Block Chord to voicing
 
@@ -81,11 +81,11 @@ Essential Chord Progressions that you must memorize
 
 3) Major Chord Drop2
 
-4) How to practice half-demined chords using Lokrian #2 mode
+4) How to practice half-diminished chords using Lokrian #2 mode
 
 5) How to easily practice (fill in Scale when you play ballads)
 
-
+cs
 #### More Info 
 jazzydusmusic@gmail.com 
 
