@@ -64,16 +64,18 @@ permalink: /shop/
 ###### * 연말정산시 필요한 독일에서 일하시는 피아노 선생님을 위한 Fortbildung 영수증 가능합니다. 
 
  - 1:1 Live 장기 정기레슨 (기초/반주법/초급/중급/전공자/선생님) 4회*50분 27만원 
- - 1:1 Live regular Lessons(minimum 1year) 4*50min 200 Euro, 200 Dollar
- - 1:1 Live 장기 입시정기레슨 (학부/대학원/독일대학/미국대학 입시) 4회*60분 30만원
- - 1:1 Live regular(minimum 1year) Lessons for University Enterance Examination 4*60m 
-  220 Euro, 220 Dollar
- - 1:1 Live 6회완성 단기 특강 시리즈 6회*50분 45만원 *8주안으로 종료
- - 1:1 Live 6 Lessons Workshop Series 350 Euro , 350 Dollar
  - 1:1 Live 4회 단기 레슨 4회*50분 30만원 *5주안으로 종료
  - 1:1 Live One Point 50분 8만원 
- - 1:1 Live One Point 50min 60 Euro , 60 Dollar 
+ - 1:1 Live 장기 입시정기레슨 (학부/대학원/독일대학/미국대학 입시) 4회*60분 30만원
+ - 1:1 Live 6회완성 단기 특강 시리즈 (펑크,보이상,즉흥)6회*50분 45만원 *8주안으로 종료
  - 1:1 Live 20회 특강 135만원 (20회*50분) *26주안으로 종료
+
+ - 1:1 Live regular Lessons(minimum 1year) 4*50min 200 Euro, 200 Dollar
+ - 1:1 Live Short Term Lessons 4*50min 220 Euro. 220 Dollar
+ - 1:1 Live regular(minimum 1year) Lessons for University Enterance Examination 4*60m 
+  220 Euro, 220 Dollar
+ - 1:1 Live One Point 50min 60 Euro , 60 Dollar
+ - 1:1 Live 6 Lessons Workshop Series 350 Euro , 350 Dollar
  - 1:1 Live 3 Workshop Packages+2Free Lessons 20*50min 1050 Euro,1050 Dollar
 
 - <a href="https://www.piareno.com/product/jj_1kor
