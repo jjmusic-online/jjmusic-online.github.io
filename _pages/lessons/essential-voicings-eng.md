@@ -47,13 +47,13 @@ Essential Chord Progressions that you must memorize
 
 - example 1
 
-1) Dominant Apperstructure
+1) Dominant Upperstructure
 
-2) Minor Apperstructure
+2) Minor Upperstructure
 
-3) Major Apperstructure
+3) Major Upperstructure
 
-4) Diminished Apperstructure
+4) Diminished Upperstructure
 
 5) Diminished Drop2
 
@@ -69,7 +69,7 @@ Essential Chord Progressions that you must memorize
 
 - example 2
 
-1) Minor Two-Five Reharmonization and Left Hand Deformation Line from Bill Evans (Study on the Flowing Left Hand)
+1) Minor Two-Five Reharmonization and Left Hand Deformation Line from Bill Evans 
 
 2) Major Two-Five Reharmonization and Tritone Sub + Training of Tritone sub Dom with Tentions
 
