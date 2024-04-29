@@ -7,9 +7,7 @@ permalink: /lessons/onlinelesson-vorort
 
 #### Klavierunterricht in Hermsdorf Berlin bei mir zu Hause.
 
-
-
-- Kinder, Jugendliche, Erwachsene
+- Kinder ab 5, Jugendliche, Erwachsene
 
 - Klassik, Jazz, Pop, K Pop, Theorie
 
