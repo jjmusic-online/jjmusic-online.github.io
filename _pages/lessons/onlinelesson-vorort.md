@@ -13,6 +13,8 @@ permalink: /lessons/onlinelesson-vorort
 
 - 30min (30 Euro)
 
+- Unterrichtet auf Deutsch, Englisch und Koreanisch
+
 - Mehr Infos : jazzydusmusic@gmail.com
 <img src="https://jjmusic-online.github.io/assets/images/kinder.JPG" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
