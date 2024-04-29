@@ -54,7 +54,7 @@ permalink: /shop/
 - <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
     20주 단기특강
  </a> 
-- <a href="jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
+- <a href="https://jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
     20 Weeks Essential Workshop in English
  </a>    
  
