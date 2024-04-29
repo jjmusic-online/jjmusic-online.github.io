@@ -11,7 +11,7 @@ permalink: /lessons/onlinelesson-vorort
 
 - Klassik, Jazz, Pop, K Pop, Theorie
 
-- 30min (30 Euro) 45min (40Euro)
+- 30min (30 Euro)
 
 - Mehr Infos : jazzydusmusic@gmail.com
 <img src="https://jjmusic-online.github.io/assets/images/kinder.JPG" alt="JJ Photo of JJ"
