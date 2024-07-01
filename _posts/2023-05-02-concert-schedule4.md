@@ -5,6 +5,19 @@ date: 2023-05-01
 published: on
 ---
 
+- Jazz Duo Konzert
+- SAX: Gianni Gagliard 
+- Klavier: Jiyeon Jeon 
+- Wo: Hermsdorf S Bahnhof, Max-Beckmann-Platz
+- Wann: 17.Aug.24 Samstaga ca.14.00-15.00
+
+
+
+
+
+
+
+
 - Jazz Konzert 
 - SAX: Julian Kaleschke 
 - Klavier: Jiyeon Jeon 
