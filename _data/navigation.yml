@@ -3,18 +3,18 @@ main:
   - title: "About JJ"
     url: /about
     descrition: About myself
+  - title: "Music"
+    url: /music
+    descrition: Musics from JJ
+  - title: "Gallery"
+    url: /gallery
+    descrition: photos from JJ  
   - title: "Free PDF"
     url: /freepdf
     descrition: Free PDF
   - title: "Lessons"
     url: /lessons
     descrition: Jazz Piano lessons
-  - title: "Music"
-    url: /music
-    descrition: Musics from JJ
-  - title: "Gallery"
-    url: /gallery
-    descrition: photos from JJ
   - title: "Shop"
     url: /shop
     descrition: shop for sheet music and lectures
