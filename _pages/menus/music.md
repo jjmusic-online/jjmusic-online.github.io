@@ -4,7 +4,7 @@ title: "Music"
 permalink: /music/
 ---
 
-## Piano , Keyboard, Arranged, Composed , conducted in 
+## piano, keyboard, arranged, composed, conducted in 
 
 <img src="https://jjmusic-online.github.io/assets/images/albumsjackets.jpg" alt="JJ Photo4"
 	title="Photo of JJ" style="min-width: 150px" />
