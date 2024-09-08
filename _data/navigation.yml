@@ -9,6 +9,9 @@ main:
   - title: "Lessons"
     url: /lessons
     descrition: Jazz Piano lessons
+  - title: "Music"
+    url: /music
+    descrition: Musics from JJ
   - title: "Gallery"
     url: /gallery
     descrition: photos from JJ
