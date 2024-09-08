@@ -1,7 +1,7 @@
 ---
 layout: "pages"
-title: "Gallery"
-permalink: /gallery/
+title: "Music"
+permalink: /music/
 ---
 
 <img src="https://jjmusic-online.github.io/assets/images/photo4.jpg" alt="JJ Photo4"
