@@ -13,7 +13,7 @@ permalink: /lessons/onlinelesson-korean
   - 취미 (초급,중급,고급)
   - 정기레슨 
   - 원 포인트 레슨
-  - 20분 비디오 맞춤 피드백 레슨
+  - 비디오 맞춤 피드백 레슨(4주) 주제별 개별 비디오피드백 (1대1 온라인 라이브 레슨 불가시) *비디오 소장가능 *매 회별 학생의 연습에 따라 약 15-20분 영상피드백 
   - <a href="/lessons/onlinelesson-basic">반주법</a>
   - <a href="/lessons/essential-voicings">알짜배기 코드초견 보이싱 특강 (6주)</a>
   - <a href="/lessons/essential-scale">알짜배기 스케일 활용 즉흥연주 기초 특강 (6주)
