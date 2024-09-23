@@ -27,5 +27,9 @@ permalink: /lessons/onlinelesson-eng
 <img src="https://jjmusic-online.github.io/assets/images/kakao-2.jpeg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 150px" />
 
+#### Lesson Video Sample
+- (Lesson Video Sample in Eng) No.1 
+    <a href="https://youtu.be/-CE-C5jJXDI" target="_blank"> (Video English)</a> 	
+
 #### More Infos & Curriculum
 - jazzydusmusic@gmail.com
