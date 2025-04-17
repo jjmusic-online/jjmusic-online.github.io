@@ -4,8 +4,10 @@ title: "Shop"
 permalink: /shop/
 ---
 ## Price
-<img src="https://jjmusic-online.github.io/assets/images/JJ preis.png" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/jjprice2.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
+<img src="https://jjmusic-online.github.io/assets/images/jjprice1.jpg" alt="JJ Photo of JJ"
+	title="Photo of JJ" style="min-width: 10px" />    
 
 
 ## Lessons - Gumroad
