@@ -11,7 +11,7 @@ permalink: /lessons/onlinelesson-vorort
 
 - Klassik, Jazz, Pop, K Pop, Theorie
 
-- 30min (30 Euro)
+- 30min (35 Euro)
 
 - Unterrichtet auf Deutsch, Englisch und Koreanisch
 
