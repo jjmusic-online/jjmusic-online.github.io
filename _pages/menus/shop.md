@@ -4,7 +4,7 @@ title: "Shop"
 permalink: /shop/
 ---
 ## Price
-<img src="https://jjmusic-online.github.io/assets/images/jjprice5.jpg" alt="JJ Photo of JJ"
+<img src="https://jjmusic-online.github.io/assets/images/jjprice7.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 <img src="https://jjmusic-online.github.io/assets/images/jjprice6.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />    
