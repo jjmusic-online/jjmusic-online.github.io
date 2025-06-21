@@ -16,7 +16,7 @@ permalink: /about/about-kor
    Studienvorbereitende Ausbildung 입시담당 <a/>
 - 2.2023-8.2023 독일 베를린 뮤직슐레 근무 piano e forte Private Musikschule GmbH
 - 1.2018 - 9.2019 독일 켐니츠 뮤직슐레 근무 Thomas Mann Platz Musikschule
-- 10.2019-12.2020 Elternzeit in Germany 육아휴직 
+ 
 
 ## 학력
 
@@ -37,16 +37,7 @@ permalink: /about/about-kor
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
 
-- 독일 제10회 통일희망 라이프치히음악회 연주  11.2022
-- 독일 베를린 주독 한국대사관 청소년 통일캠프 연주 7.2022
-- 독일 라이프치히 청소년 통일캠프 연주 7.2019
-- 독일 켐니츠 City Jazz Chemnitz 페스티벌 Solo Piano 솔로 피아노 연주 참여 
-- 독일 켐니츠 제6회 새해 연주 시행사 연주 참여 6.Chemnitzer Neujahrs Konzert 2019.01 
-- 독일 라이프치히 한인통일음악회 2018.11
-- 독일 켐니츠 문화 교류 주간 켐니츠시 주최 전지연 단독공연 2018.10
-- 독일 기독교 여성 모임 전속 피아니스트 Frauen Treffen in Deutschland 
-- 독일 Studentwerk 켐니츠 츠비카우 대학행사 담당 피아니스트 
-  
+- 디지털 싱글: Jesus loves me 예수 사랑하심은. 전지연 조범진 발매 (2024)  
 - 디지털 싱글: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
 - CD: Son Jiyeon 5th 손지연 5집 Recording 피아노 전곡 (2017)Korea 
 - CD: Veritas 찬양팀 베리타스'Beautiful Secret Series 작 편곡 및 디렉 (2016)Korea 
@@ -57,6 +48,18 @@ permalink: /about/about-kor
 - CD: Kang Hyosun 피리연주자 강효선 'Attraction' 피아노 (2006)Korea 
 - CD: Son Jiyeon 손지연 3집 3rd Recording 피아노 전곡 (2009)Korea 
 - CD: Seoul Sololist Jazz Orchestra.1 서울솔리스트오케스트라 1집 피아노 전곡 (2010)Korea
+- 독일 베를리시 주관 거리 콘서트 재즈 듀오 콘서트 8.24
+- 독일 베를린시 주관 거리 콘서트 재즈피아노 솔로  콘서트  6.2023
+- 독일 제10회 통일희망 라이프치히음악회 연주  11.2022
+- 독일 베를린 주독 한국대사관 청소년 통일캠프 연주 7.2022
+- 독일 라이프치히 청소년 통일캠프 연주 7.2019
+- 독일 켐니츠 City Jazz Chemnitz 페스티벌 Solo Piano 솔로 피아노 연주 참여 
+- 독일 켐니츠 제6회 새해 연주 시행사 연주 참여 6.Chemnitzer Neujahrs Konzert 2019.01 
+- 독일 라이프치히 한인통일음악회 2018.11
+- 독일 켐니츠 문화 교류 주간 켐니츠시 주최 전지연 단독공연 2018.10
+- 독일 기독교 여성 모임 전속 피아니스트 Frauen Treffen in Deutschland 
+- 독일 Studentwerk 켐니츠 츠비카우 대학행사 담당 피아니스트 
+
 - 일본 스미다재즈페스티벌 연주 (2012) Tokyo Japan
 - Lefrak Concert Hall'Graduation and Award Ceremony'Performance(2011)NewYork 뉴욕 퀸즈컬리지 졸업생 대표 연주 
 - WBGO Jazz 88.3 FM 뉴욕 라디오 생방송 연주(2010)NewYork
