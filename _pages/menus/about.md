@@ -36,7 +36,6 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 - Album: Kang Hyosun ' Attraction' (2006)Korea
 - Album: Son Jiyeon 3rd Recording (2009)Korea
 - Album: Seoul Sololist Jazz Orchestra I (2010)Korea
-
 ### Konzerte, Festival, TV und Raido
 - (Deutschland) 2024 Draußen Konzerte Berlin - Offizielles städtisches Kulturprogramm (Jazz Duo Konzert mit Saxophone)
 
@@ -73,13 +72,6 @@ Südkorea Stil) 10. 2018
 - EBS 'Toron Cafe' (Korean Broadcasting) BGM Performer (2006~2007) Seoul, Korea
 - EBS Space 'Gong gam' (Korean Broadcasting) Performance (2006~2010) Seoul, Korea
 - TV, Radio Commercial Music on ' ING' Insurance (2006) Korea
- 
-### Schulbildung
-
-Städtischen Universität in New York im Fach Jazzklavier (M.A) /U.S.A/ 2010-2012
-Sookmyung Frauen Universität in Seoul im Fach Musikalische Pädagogik (M.Edu)/ Südkorea/ 2006-2009
-KyungHee Universität in Suwon im Fach Jazzklavier (B.A) /Südkorea/2001-2005
-
 ### Die Unterrichten als Dozentin und Professorin in Deutschland und Korea
 
 - Städtische Musikschule Reinickendorf Berlin tätig 04.2023-heute (<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz/</a><a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
@@ -114,20 +106,17 @@ I: Piano Lab III, IV
 : Jazzklavier Einzelstunde I, II: Blattgesang & Gehörbildung I,II
 - School Of Continuing Education Seoul Christian Universität (Seoul, Korea)2010.03-2010.08
 : Jazz Piano 15 Wochen 3 Stunden pro Woche.
-
 ### Sprachkenntnisse
 Deutsch, Englisch, Koreanisch
 
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
-
 ### Schulbildung
 - Städtischen Universität in New York im Fach Jazzklavier(M.A) /U.S.A/ 2010-2012
 - Sookmyung Frauen Universität in Seoul im Fach Musikalische Pädagogik(M.Edu)/ Südkorea/ 2006-2009 
 - Befähigung zum Lehramtsstudium Südkorea 2009
 - KyungHee Universität in Suwon im Fach Jazzklavier(B.A) /Südkorea/2001-2005  
 - 4 Jahre Stipendium 2001-2005
-
 <img src="https://jjmusic-online.github.io/assets/images/photo3.jpeg" alt="JJ Photo3"
 	title="Photo of JJ" style="min-width: 150px" />
 
