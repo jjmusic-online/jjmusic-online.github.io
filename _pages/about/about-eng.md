@@ -12,12 +12,25 @@ permalink: /about/about-eng
 - Professional Concert Pianist in Germany 2017.10-Present
 - City Music School Berlin Reinickendorf (Musikschule Reinickendorf Berlin)<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz/</a> <a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
     Klassik/Studienvorbereitende Ausbildung</a> 2023.04-Present
-- Private Lessons/Online Lessons (Hermsdorf Waidmannslust/Reinickendorf Berlin, Deutschland) 2021.01-Present
 - Private Music School (piano e forte Private Musikschule GmbH in Berlin) 2023.02-2023.08
-- Maternity Leave(in Germany) 2019.09-2020.12
-- Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano Teacher)
+- Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano)
 
 ## 🎹Performing and Recording Experience(2006-Present)
+
+- EP: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
+- EP: Co Project_C2J Trio 2013 International Jazz Day (2013)
+- EP: Kim Daehan/Only One (2022)
+- CD: Son Jiyeon 5th Recording (2017)Korea 
+- CD: Veritas 'Beautiful Secret Series (2016)Korea
+- CD: Veritas'You Never Fail'(2013)Korea 
+- CD: Seoul Soloist Jazz Orchestra.2 (2012)Korea
+- CD: SBS Superstar Survival OST(2006)Korea
+- CD: Kang Hyosun 'Attraction'(2006)Korea 
+- CD: Son Jiyeon 3rd Recording (2009)Korea
+- CD: Seoul Sololist Jazz Orchestra.1 (2010)Korea
+
+- (Germany) 2024 Outdoor Concerts Berlin - Official Municipal Cultural Program (Jazz Duo Concert with Saxophone)
+- (Germany) 2023 Outdoor Concerts Berlin - Official Municipal Cultural Program(Jazz Piano, Solo Piano)
 - (Germany) 10.Concert for the "Wiedervereinigung koreas" in Alte Börse, Leipzig 11.2022
 - (Germany)Peace Together for Teenagers at Embassy of the Republic of Korea, Berlin Germany 07.2022
 - (Germany)Peace Together for Teenagers at Leipziger Kurbus, Leipzig 07.2019
@@ -27,18 +40,6 @@ permalink: /about/about-eng
 - (Germany)Inter Kulturelle Wochen in Chemnitz-Studentenwerk (PIANOKONZERT im Südkorea Stil) 2018.10
 - (Germany)Frauen Treffen in Deutschland Pianist Chemnitz
 - (Germany)Anstaltungen(Klavier) in Studentenwerk Chemnitz 
-
-
-- CD: Son Jiyeon 5th  Recording(2017)Korea 
-- CD: Veritas 'Beautiful Secret Series(2016)Korea
-- CD: C2J Trio 2013 International Jazz Day (2013)Korea 
-- CD: Veritas'You Never Fail'(2013)Korea 
-- CD: Seoul Soloist Jazz Orchestra.2 (2012)Korea
-- CD: SBS Superstar Survival OST(2006)Korea
-- CD: Kang Hyosun 'Attraction'(2006)Korea 
-- CD: Son Jiyeon 3rd Recording (2009)Korea
-- CD: Seoul Sololist Jazz Orchestra.1 (2010)Korea
-
 - Sumida Jazz Festival Performance (2010) Japan
 - Queens College,Lefrak Concert Hall'Graduation and Award Ceremony'Performance(2011) NewYork 
 - WBGO Jazz 88.3 FM Live Performance (2010 )NewYork
@@ -62,12 +63,12 @@ permalink: /about/about-eng
 ## Work Experience in Korea
 
 - Worked as an Full time Assistant Professor and an Instructor in South Korea
-   -KyungHee Univ. Suwon
-   -Kwangshin Univ.
-   -Dong-ah Institute of Media and Arts(DIMA) Kukje Art Univ. Seoul
-   -Seoul Theological Univ. 
-   -School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
-   -Kyungbok High School of Arts
+   - KyungHee Univ. Suwon
+   - Kwangshin Univ.
+   - Dong-ah Institute of Media and Arts(DIMA) Kukje Art Univ. Seoul
+   - Seoul Theological Univ. 
+   - School of Performing Arts Seoul. Seoul Foundation for Arts and Culture.
+   - Kyungbok High School of Arts
 
 
 - Teaching Artist in Seoul Foundation for Arts and Culture (Seoul, Korea) 2017.03 – 2017.09 (Intergrated Arts Education Research and Teaching Artist in the Middle schools)
