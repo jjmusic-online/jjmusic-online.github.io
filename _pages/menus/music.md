@@ -22,12 +22,21 @@ permalink: /music/
 </div>
 
 ---
+
 ## As Coleader
+
+<img src="https://jjmusic-online.github.io/assets/images/jjcoleader2.png" alt="JJ Coleader Album" 
+	title="JJ Coleader Album" style="max-width: 300px; margin: 20px 0;" />
+
+<img src="https://jjmusic-online.github.io/assets/images/jjcoleader1.jpg" alt="JJ Coleader Album" 
+	title="JJ Coleader Album" style="max-width: 300px; margin: 20px 0;" />
+
 - Listen to JJ' Music 
     <a href="https://youtube.com/playlist?list=PLHLU9NVhDC6OSTIwqyvpUIVaYR1A4n9s_&si=z0V2gcKS_OisPBt7" target="_blank"> (Playlist)</a>
 
-## piano, keyboard, arranged, composed, conducted in 
+---
 
+## As Sideman, Composer, and Director
 <img src="https://jjmusic-online.github.io/assets/images/albumsjackets.jpg" alt="JJ Photo4"
 	title="Photo of JJ" style="min-width: 150px" />
 
