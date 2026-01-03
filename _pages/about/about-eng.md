@@ -13,20 +13,20 @@ She has always loved Motown-style Black music and is strongly influenced by it, 
 
 She works intensively on finding harmonic progressions that may sound lonely and melancholic, yet still hopeful at the same time. She views all of these musical processes as her way of creating something “Jiyeonish” (지연스러움) – something that is uniquely Jiyeon.  
 
-She completed her Bachelor’s degree in Jazz Piano at KyungHee University and her Master’s degree in Classical Music Education at Sookmyung Women’s University in Seoul, Korea.  And She obtained a secondary school music teacher’s certificate.
+She completed her Bachelor’s degree in Jazz Piano at KyungHee University and her Master’s degree in Classical Music Education at Sookmyung Women’s University in Seoul, Korea. And she obtained a secondary school music teacher’s certificate.
 
 After that, she completed another Master’s degree in Jazz Piano at the City University of New York, Queens College, in New York, USA.  
 
 Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
 
-(Her own project album: Jiyeon Jeon / Journey Together (2025.12))  
-(Her own co-projects: so far, two EPs released in Korea 2013 and 2024)  
+*Her own project album: Jiyeon Jeon / Journey Together (2025.12)  
+*Her own co-projects: so far, two EPs released in Korea 2013 and 2024  
 
 In 2017, Jiyeon Jeon emigrated to Germany. Since then, she has been musically active and moves freely between Korea and Germany.  
 
 She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪    
 
-- JJ currently lives in Germany(2017.9 Chemniz->2022.4 Berlin) since 2017 🇩🇪
+- JJ currently lives in Germany(2017.9 Chemnitz->2022.4 Berlin) since 2017 🇩🇪
 ## Work Experience in Germany
 - Professional Concert Pianist in Germany 2017.10-Present
 - City Music School Berlin Reinickendorf (Musikschule Reinickendorf Berlin)<a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/jazz-piano/">Jazz/</a> <a href="https://www.berlin.de/musikschule-reinickendorf/lehrangebote/tasteninstrumente/klavier/" target="_blank">
