@@ -15,10 +15,10 @@ permalink: /music/
 **Listen Now:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox?si=Q55B49qrQ1G1pZMzmE0xxQ" target="_blank" style="background-color: #1DB954; color: white; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold;">🎵 Spotify</a>
-  <a href="https://music.youtube.com/playlist?list=OLAK5uy_npc9lW305o3i3-2LxqEgn1ALvpxb_lUZg&si=-2SCwDi1VbaqQYCE" target="_blank" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold;">▶️ YouTube Music</a>
-  <a href="https://music.apple.com/us/album/journey-together/1859004949" target="_blank" style="background-color: #FA243C; color: white; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold;">🍎 Apple Music</a>
-  <a href="https://music.amazon.de/albums/B0G5BCPY17" target="_blank" style="background-color: #FF9900; color: white; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold;">🎧 Amazon Music</a>
+  <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox?si=Q55B49qrQ1G1pZMzmE0xxQ" target="_blank" style="background-color: white; color: #1DB954; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #1DB954;">🎵 Spotify</a>
+  <a href="https://music.youtube.com/playlist?list=OLAK5uy_npc9lW305o3i3-2LxqEgn1ALvpxb_lUZg&si=-2SCwDi1VbaqQYCE" target="_blank" style="background-color: white; color: #FF0000; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #FF0000;">▶️ YouTube Music</a>
+  <a href="https://music.apple.com/us/album/journey-together/1859004949" target="_blank" style="background-color: white; color: #FA243C; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #FA243C;">🍎 Apple Music</a>
+  <a href="https://music.amazon.de/albums/B0G5BCPY17" target="_blank" style="background-color: white; color: #FF9900; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #FF9900;">🎧 Amazon Music</a>
 </div>
 
 ---
