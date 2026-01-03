@@ -2,4 +2,19 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- Custom navigation styles for mobile -->
+<style>
+  /* Hide all menu items except "About JJ" on mobile/tablet */
+  @media screen and (max-width: 1023px) {
+    .greedy-nav .visible-links .masthead__menu-item:not(.masthead__menu-item--mobile-visible) {
+      display: none !important;
+    }
+    
+    /* Ensure the hamburger menu button is always visible on mobile */
+    .greedy-nav__toggle {
+      display: block !important;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
