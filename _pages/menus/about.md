@@ -12,18 +12,25 @@ permalink: /about/
 
 Jiyeon Jeon, geboren in Seoul, Südkorea, ist Musikerin und Pädagogin. Sie fing mit 6 Jahren mit dem Klavierspielen an.
 
+Sie mochte die schwarzen Motown-Sounds und ist davon stark geprägt. Grundsätzlich strebt sie nach grooviger Musik. Sie erforscht ständig die Verbindung aus einem reinen Groove, der das Herz trifft und unseren Körper unmittelbar reagieren lässt, sowie einer gefühlvollen und zugleich raffinierten Melodie.
+
+Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam und melancholisch, zugleich aber hoffnungsvoll klingen. All diese musikalischen Arbeitsprozesse versteht sie als den Weg, etwas „Jiyeonish“ (지연스러움), also typisch Jiyeon, zu erschaffen.
+
 Sie hat ihren Bachelor in Jazzklavier (KyungHee Universität) und ihren Master in Musikpädagogik der Klassik (Sookmyung Frauen Universität) in Seoul, Korea abgeschlossen. 
 
 Danach hat sie noch einen Master in Jazzklavier (Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
 
-Seit ihrem Master in Jazzklavier konnte Jiyeon Jeon über 10 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 10 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
+Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
 
+* (Eigene Projekt Album : Jiyeon Jeon/Journey Together (2025.12))
 * (Eigene Co-Projekte: Bisher 2 EP in Korea veröffentlicht)
 
 Jiyeon Jeon emigrierte 2017 nach Deutschland. Seitdem ist sie musikalisch aktiv und pendelt frei zwischen Korea und Deutschland.
 
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
-### Eigene Projekte
+### Eigene Prjekt 
+- *Album: Jiyeon Jeon/Journey Together (2025.12)
+### Eigene Co-Projekte
 - *EP: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
 - *EP: C2J Trio 2013 International Jazz Day (2013)Korea
 ### Komponistin, Arrangeurin und als Pianistin-Session
