@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "JJ New Album Digital Single 'Jesus Loves me' 예수 사랑하심은"
+title: "JJ New Album Release and Concerts"
 date: 2023-05-01
 published: true
 ---
