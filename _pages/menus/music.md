@@ -25,14 +25,16 @@ permalink: /music/
 
 ## As Coleader
 
-<img src="https://jjmusic-online.github.io/assets/images/jjcoleader2.png" alt="JJ Coleader Album" 
-	title="JJ Coleader Album" style="max-width: 300px; margin: 20px 0;" />
-
-<img src="https://jjmusic-online.github.io/assets/images/jjcoleader1.jpg" alt="JJ Coleader Album" 
-	title="JJ Coleader Album" style="max-width: 300px; margin: 20px 0;" />
-
 - Listen to JJ' Music 
     <a href="https://youtube.com/playlist?list=PLHLU9NVhDC6OSTIwqyvpUIVaYR1A4n9s_&si=z0V2gcKS_OisPBt7" target="_blank"> (Playlist)</a>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://jjmusic-online.github.io/assets/images/jjcoleader2.png" alt="JJ Coleader Album" 
+    title="JJ Coleader Album" style="max-width: 300px;" />
+  <img src="https://jjmusic-online.github.io/assets/images/jjcoleader1.jpg" alt="JJ Coleader Album" 
+    title="JJ Coleader Album" style="max-width: 300px;" />
+</div>
+
 
 ---
 
