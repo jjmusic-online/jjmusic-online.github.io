@@ -5,7 +5,7 @@ date: 2023-05-01
 published: true
 ---
 
-- Album: Jiyeon Jeon, Journey Together has been released. 27.12.2025
+### Album: Jiyeon Jeon, Journey Together has been released. 27.12.2025
 <img src="https://jjmusic-online.github.io/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" 
 	title="Journey Together" style="max-width: 300px; margin: 20px 0;" />
 
