@@ -36,17 +36,17 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 
 ## 🎹Performing and Recording Experience(2006-Present)
 - Album: as Leader_ Jiyeon Jeon / Journey Together (2025.12)
-- EP: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
+- Single: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
 - EP: Co Project_C2J Trio 2013 International Jazz Day (2013)
-- EP: Kim Daehan/Only One (2022)
-- CD: Son Jiyeon 5th Recording (2017)Korea 
-- CD: Veritas 'Beautiful Secret Series (2016)Korea
-- CD: Veritas'You Never Fail'(2013)Korea 
-- CD: Seoul Soloist Jazz Orchestra.2 (2012)Korea
-- CD: SBS Superstar Survival OST(2006)Korea
-- CD: Kang Hyosun 'Attraction'(2006)Korea 
-- CD: Son Jiyeon 3rd Recording (2009)Korea
-- CD: Seoul Sololist Jazz Orchestra.1 (2010)Korea
+- Single: Kim Daehan/Only One (2022)
+- Album: Son Jiyeon 5th Recording (2017)Korea 
+- Album: Veritas 'Beautiful Secret Series (2016)Korea
+- Album: Veritas'You Never Fail'(2013)Korea 
+- Album: Seoul Soloist Jazz Orchestra.2 (2012)Korea
+- Album: SBS Superstar Survival OST(2006)Korea
+- Album: Kang Hyosun 'Attraction'(2006)Korea 
+- Album: Son Jiyeon 3rd Recording (2009)Korea
+- Album: Seoul Sololist Jazz Orchestra.1 (2010)Korea
 
 - (Germany) 2024 Outdoor Concerts Berlin - Official Municipal Cultural Program (Jazz Duo Concert with Saxophone)
 - (Germany) 2023 Outdoor Concerts Berlin - Official Municipal Cultural Program(Jazz Piano, Solo Piano)
