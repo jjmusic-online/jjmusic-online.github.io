@@ -31,10 +31,10 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 ### Eigene Prjekt 
 - *Album: Jiyeon Jeon/Journey Together (2025.12)
 ### Eigene Co-Projekte
-- *EP: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
+- *Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
 - *EP: C2J Trio 2013 International Jazz Day (2013)Korea
 ### Komponistin, Arrangeurin und als Pianistin-Session
-- EP (Kim Daehan/Only One (2022)Korea
+- Single (Kim Daehan/Only One (2022)Korea
 - Album: Son Jiyeon 5th Recording (2017)Korea
 - Album: Veritas 'Beautiful Secret Series'(2016)Korea
 - Album: Veritas 'You Never Fail' (2013)Korea
