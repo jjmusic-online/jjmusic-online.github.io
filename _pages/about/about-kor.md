@@ -55,18 +55,18 @@ permalink: /about/about-kor
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
-- 정규앨범: Jiyeon Jeon/Journey Together (2025.12)발매 
-- 디지털 싱글: Jesus loves me 예수 사랑하심은. 전지연 조범진 발매 (2024)  
-- 디지털 싱글: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
-- 정규앨범 CD: Son Jiyeon 5th 손지연 5집 Recording 피아노 전곡 (2017)Korea 
-- 정규앨범 CD: Veritas 찬양팀 베리타스'Beautiful Secret Series 작 편곡 및 디렉 (2016)Korea 
+- 정규앨범 리더작 Album: Jiyeon Jeon/Journey Together (2025.12)발매 
+- 디지털 싱글 Single: Jesus loves me 예수 사랑하심은. 전지연 조범진 발매 (2024)  
+- 디지털 싱글 Single: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
+- 정규앨범 Album: Son Jiyeon 5th 손지연 5집 Recording 피아노 전곡 (2017)Korea 
+- 정규앨범 Album: Veritas 찬양팀 베리타스'Beautiful Secret Series 작 편곡 및 디렉 (2016)Korea 
 - EP: C2J Trio 2013 International Jazz Day 편곡 및 피아노 (2013)Korea 
-- 정규앨범: Veritas'You Never Fail' 작 편곡 및 디렉 (2013)Korea 
-- 정규앨범CD: Seoul Soloist Jazz Orchestra.2 서울솔리스트오케스트라 2집 피아노 (2012)Korea 피아노 전곡 
-- 정규앨범 CD: SBS Superstar Survival 슈퍼스타 서바이벌 OST 건반 (2006)Korea  
-- 정규앨범 CD: Kang Hyosun 피리연주자 강효선 'Attraction' 피아노 (2006)Korea 
-- 정규앨범 CD: Son Jiyeon 손지연 3집 3rd Recording 피아노 전곡 (2009)Korea 
-- 정규앨범 CD: Seoul Sololist Jazz Orchestra.1 서울솔리스트오케스트라 1집 피아노 전곡 (2010)Korea
+- 정규앨범 Album: Veritas'You Never Fail' 작 편곡 및 디렉 (2013)Korea 
+- 정규앨범 Album: Seoul Soloist Jazz Orchestra.2 서울솔리스트오케스트라 2집 피아노 (2012)Korea 피아노 전곡 
+- 정규앨범 Album: SBS Superstar Survival 슈퍼스타 서바이벌 OST 건반 (2006)Korea  
+- 정규앨범 Album: Kang Hyosun 피리연주자 강효선 'Attraction' 피아노 (2006)Korea 
+- 정규앨범 Album: Son Jiyeon 손지연 3집 3rd Recording 피아노 전곡 (2009)Korea 
+- 정규앨범 Album: Seoul Sololist Jazz Orchestra.1 서울솔리스트오케스트라 1집 피아노 전곡 (2010)Korea
 - 독일 베를리시 주관 거리 콘서트 재즈 듀오 콘서트 8.24
 - 독일 베를린시 주관 거리 콘서트 재즈피아노 솔로  콘서트  6.2023
 - 독일 제10회 통일희망 라이프치히음악회 연주  11.2022
