@@ -45,6 +45,3 @@ published: true
     <i class="fab fa-amazon" aria-hidden="true"></i>
     bandcamp
 </div>
-
----  
-- Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me(2024) Korea has been released.
