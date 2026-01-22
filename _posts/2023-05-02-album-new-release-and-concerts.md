@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "JJ New Album Release and Concerts"
-date: 2023-05-01
+date: 2025-12-27
 published: true
 ---
 
@@ -41,7 +41,9 @@ published: true
     <i class="fab fa-amazon" aria-hidden="true"></i>
     Amazon Music
   </a>
+   <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" style="background-color: white; color: #FF9900; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #FF9900; display: flex; align-items: center; gap: 8px;">
+    <i class="fab fa-amazon" aria-hidden="true"></i>
 </div>
 
 ---  
-- EP: Jiyeon Jeon und Beom Jin Jo/Jesus loves me(2024) Korea has been released.
+- Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me(2024) Korea has been released.
