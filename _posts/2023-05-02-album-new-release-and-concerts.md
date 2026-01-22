@@ -43,6 +43,7 @@ published: true
   </a>
    <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" style="background-color: white; color: #FF9900; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-weight: bold; border: 2px solid #FF9900; display: flex; align-items: center; gap: 8px;">
     <i class="fab fa-amazon" aria-hidden="true"></i>
+    bandcamp
 </div>
 
 ---  
