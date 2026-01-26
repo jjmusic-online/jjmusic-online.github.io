@@ -15,7 +15,7 @@ She works intensively on finding harmonic progressions that may sound lonely and
 
 She completed her Bachelor’s degree in Jazz Piano at KyungHee University and her Master’s degree in Classical Music Education at Sookmyung Women’s University in Seoul, Korea. And she obtained a secondary school music teacher’s certificate.
 
-After that, she completed another Master’s degree in Jazz Piano at the City University of New York, Queens College, in New York, USA.  
+After that, she completed another Master’s degree  at the City University of New York, Queens College, in New York, USA.  
 
 Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
 
@@ -77,7 +77,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 - 4years scholarship 
 - Sookmyung Women's Univ. Music Education (M.Edu.) 2009. SouthKorea 🇰🇷 
 - Qualification for a Teacher's Certificate, 2009. South Korea 
-- City University of New York, Queens College, Jazz Performane 2012. U.S.A.🇺🇸 (M.M.) 
+- City University of New York, Queens College, 2012. U.S.A.🇺🇸 (M.M.) 
 
 ## Work Experience in Korea
 

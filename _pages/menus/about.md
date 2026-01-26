@@ -16,7 +16,7 @@ Sie mochte die schwarzen Motown-Sounds und ist davon stark geprägt. Grundsätzl
 
 Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam und melancholisch, zugleich aber hoffnungsvoll klingen. All diese musikalischen Arbeitsprozesse versteht sie als den Weg, etwas „Jiyeonish“ (지연스러움), also typisch Jiyeon, zu erschaffen.
 
-Sie hat ihren Bachelor in Jazzklavier (KyungHee Universität) und ihren Master in Musikpädagogik der Klassik (Sookmyung Frauen Universität) in Seoul, Korea abgeschlossen. 
+Sie hat ihren Bachelor in Jazzklavier(KyungHee Universität) Korea abgeschlossen. 
 
 Danach hat sie noch einen Master(Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
 
