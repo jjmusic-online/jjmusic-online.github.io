@@ -75,7 +75,6 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 ## Education
 - Kyunghee Univ. Jazzpiano(B.A.) 2005. South Korea🇰🇷 
 - 4years scholarship 
-- Sookmyung Women's Univ. Music Education (M.Edu.) 2009. SouthKorea 🇰🇷 
 - Qualification for a Teacher's Certificate, 2009. South Korea 
 - City University of New York, Queens College, 2012. U.S.A.🇺🇸 (M.M.) 
 
