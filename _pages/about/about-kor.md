@@ -21,7 +21,7 @@ permalink: /about/about-kor
 재즈 피아노 전공 학사와 석사 과정을 마친 이후, 그녀는 20년이 넘는 무대 및 스튜디오 세션 경력을 쌓아 왔습니다. 한국, 일본, 중국, 미국, 독일 등지에서 공연을 해왔으며, 작곡가, 편곡가, 세션 피아니스트로서 12장 이상의 앨범 작업에 참여했습니다.
 
 *리더로서의 프로젝트 앨범: Jiyeon Jeon / Journey Together (2025.12) 영어검색, 많이 들어주세요 :)
-*공동 프로젝트: 현재까지 2013년과 2024년에 2장의 EP를 발매
+*공동 프로젝트: 현재까지 2013년과 2024년에 2장의 각각 Single 를 발매
 *세션 프로젝트: 피아노, 작곡, 편곡, 디렉으로 10장 이상 발매
 
 2017년 그녀는 가족과 독일로 이주하였고, 그 이후로 한국과 독일을 자유롭게 오가며 활발한 음악 활동을 이어가고 있습니다.
@@ -49,7 +49,7 @@ permalink: /about/about-kor
 - 광주 광신대학교 실용음악학과 풀타임 조교수 역임 (4년) 2013-2017
 - 경희대학교 국제예술대학교 동아방송예술대학교 서울기독대학교 실용음악학과 (외래강의경력 2년6개월) 2009,2010,2012
 - 경북예술고등학교 실용음악과, 서울공연예술고등학교 실용음악과 출강 2012. 2017
-- 국내외 대학 입시경력 18년 총 100명이상,상위권50명이상 배출 2003-현재
+- 국내 외 대학 입시경력 18년 총 100명이상,상위권50명이상 배출 2003-현재
   
 <img src="https://jjmusic-online.github.io/assets/images/jiyeonjeon.jpeg" alt="JJ Photo13"
 	title="Photo of JJ" style="min-width: 150px" />
@@ -60,7 +60,7 @@ permalink: /about/about-kor
 - 디지털 싱글 Single: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
 - 정규앨범 Album: Son Jiyeon 5th 손지연 5집 Recording 피아노 전곡 (2017)Korea 
 - 정규앨범 Album: Veritas 찬양팀 베리타스'Beautiful Secret Series 작 편곡 및 디렉 (2016)Korea 
-- EP: C2J Trio 2013 International Jazz Day 편곡 및 피아노 (2013)Korea 
+- Single: C2J Trio 2013 International Jazz Day 편곡 및 피아노 (2013)Korea 
 - 정규앨범 Album: Veritas'You Never Fail' 작 편곡 및 디렉 (2013)Korea 
 - 정규앨범 Album: Seoul Soloist Jazz Orchestra.2 서울솔리스트오케스트라 2집 피아노 (2012)Korea 피아노 전곡 
 - 정규앨범 Album: SBS Superstar Survival 슈퍼스타 서바이벌 OST 건반 (2006)Korea  
