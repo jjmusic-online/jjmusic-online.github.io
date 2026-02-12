@@ -88,7 +88,7 @@ Südkorea Stil) 10. 2018
 - Thomas Mann-Platz Musikschule (Chemnitz, Deutschland) 2018.01 – 2019.08 (Jazzklavier)
 - Dozentin in Seoul Foundation for Arts and Culture (Seoul, Korea)
 2017.03 – 2017.09
-Integrierte Kulturelle Bildung in Forschung und Lehre
+Integrierte Kulturelle Bildung in Forschung
 - Dozentin in High School of Performing Arts Seoul (Seoul, Korea)
 2017.03 – 2017.08
 Abt. Angewandte Musik Klasse Klavierlabor. I
@@ -98,18 +98,18 @@ Vollzeitprofessor (Fachbereich Angewandte Musik)
 : Grundstudium: Jazzharmonie I, II/ Jazzanalyse I, II/ Privatunterricht / Musikpädagogik/Arrangieren I,
 II: Absolvent: Jazzanalyse I, II, III, IV / Privatunterricht
 - Dozentin in Dong-ah Institute of Media and Arts (Ansung, Korea)
-2012. 03 – 2013. 02: Blattgesang & Gehörbildung I, II: Philosophische Grundlagen der Pädagogik
+      2012.03 – 2013. 02: Blattgesang & Gehörbildung I, II: Philosophische Grundlagen der Pädagogik
 I: Musikunterricht I
 - Dozentin in KyungHee Universität (Suwon, Korea)
-2012. 03 – 2012.12 Dozentin für Postmodern Music Studies: Jazz Piano Privatstunde Basic I, II, III, IV: Jazz
+1.    2012.03 – 2012.12 Dozentin für Postmodern Music Studies: Jazz Piano Privatstunde Basic I, II, III, IV: Jazz
 Piano Privatstunde Advanced I, II, III, IV
 - Dozentin in Kukje Universität (Seoul, Korea)
-2012. 03 – 2012.12 Angewandte Musik Abt.:Jazz Piano Einzelunterricht I, II :Blattgesang & Gehörbildung
+1.    2012.03 – 2012.12 Angewandte Musik Abt.:Jazz Piano Einzelunterricht I, II :Blattgesang & Gehörbildung
 I: Piano Lab III, IV
 - Dozentin in Kyungbok High School of Arts (Daegu, Korea)
 2012.03 – 2012. 08 Angewandte Musik Abt.:Privater Jazz-Klavierunterricht
 - Dozentin in Kukje Universität (Seoul, Korea)
-2009. 03. – 2010. 08 Angewandte Musik Abt.
+1.    2010.03–2010. 08 Angewandte Musik Abt.
 : Jazzklavier Einzelstunde I, II: Blattgesang & Gehörbildung I,II
 - School Of Continuing Education Seoul Christian Universität (Seoul, Korea)2010.03-2010.08
 : Jazz Piano 15 Wochen 3 Stunden pro Woche.
@@ -120,7 +120,7 @@ Deutsch, Englisch, Koreanisch
 	title="Photo of JJ" style="min-width: 150px" />
 ### Schulbildung
 - Städtischen Universität in New York, Queens College (M.A) /U.S.A/ 2010-2012
-- Befähigung zum Lehramtsstudium Südkorea 2009
+- Befähigung zum Lehramtsstudium Südkorea 2009 (M.edu) 2006-2009
 - KyungHee Universität in Suwon im Fach Jazzklavier(B.A) /Südkorea/2001-2005  
 - 4 Jahre Stipendium 2001-2005
 <img src="https://jjmusic-online.github.io/assets/images/photo3.jpeg" alt="JJ Photo3"
