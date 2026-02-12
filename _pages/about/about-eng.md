@@ -20,7 +20,7 @@ After that, she completed another Master’s degree  at the City University of N
 Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
 
 *Her own project album: Jiyeon Jeon / Journey Together (2025.12)  
-*Her own co-projects: so far, two EPs released in Korea 2013 and 2024  
+*Her own co-projects: so far, two singles released in Korea 2013 and 2024  
 
 In 2017, Jiyeon Jeon emigrated to Germany. Since then, she has been musically active and moves freely between Korea and Germany.  
 
@@ -37,7 +37,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 ## 🎹Performing and Recording Experience(2006-Present)
 - Album: as Leader_ Jiyeon Jeon / Journey Together (2025.12)
 - Single: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
-- EP: Co Project_C2J Trio 2013 International Jazz Day (2013)
+- Single: Co Project_C2J Trio 2013 International Jazz Day (2013)
 - Single: Kim Daehan/Only One (2022)
 - Album: Son Jiyeon 5th Recording (2017)Korea 
 - Album: Veritas 'Beautiful Secret Series (2016)Korea
