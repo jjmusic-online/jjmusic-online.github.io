@@ -75,7 +75,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 ## Education
 - Kyunghee Univ. Jazzpiano(B.A.) 2005. South Korea🇰🇷 
 - 4years scholarship 
-- Qualification for a Teacher's Certificate, 2009. South Korea 
+- Qualification for a Teacher's Certificate, Music Education 2009. South Korea (M.edu)South Korea🇰🇷 
 - City University of New York, Queens College, 2012. U.S.A.🇺🇸 (M.M.) 
 
 ## Work Experience in Korea
@@ -94,19 +94,20 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 - Lecturer in High School of Performing Arts Seoul (Seoul, Korea) 2017.03 – 2017.08 Applied Music Dep. Class Piano Lab . I
 
 - Full time Professor in KwangShin University (Gwangju, Korea) 2013.03 – 2017. 02 (Applied Music Department) :Undergraduate : Jazz Harmony I, II/ Jazz Analysis I, II/ Private lesson / Music Pedagogy/Arranging I, II :Graduate: Jazz Analysis I, II, III, IV / Private Lesson
+
 - Lecturer in Dong-ah Institute of Media and Arts (Ansung, Korea)
-03 – 2013. 02 : Sight Singing & Ear Training I, II :Philosophical Foundation of Education I :Teaching Method of Music I
+2012.03 – 2013. 02 : Sight Singing & Ear Training I, II :Philosophical Foundation of Education I :Teaching Method of Music I
 
 - Lecturer in KyungHee University (Suwon, Korea)
-03 – 2012.12 in Post Modern Music Studies : Jazz Piano Private lesson Basic I, II, III, IV : Jazz Piano Private Lesson Advanced I, II, III, IV
+2012.03 – 2012.12 in Post Modern Music Studies : Jazz Piano Private lesson Basic I, II, III, IV : Jazz Piano Private Lesson Advanced I, II, III, IV
 
 - Lecturer in Kukje University (Seoul, Korea)
-03 – 2012.12 Applied Music Dep.:Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I :Piano Lab III, IV
+2012.03 – 2012.12 Applied Music Dep.:Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I :Piano Lab III, IV
 
 - Lecturer in Kyungbok High School of Arts (Daegu, Korea) 2012.03 – 2012. 08 Applied Music Dep.:Private Jazz Piano Lesson
 
 - Lecturer in Kukje University (Seoul, Korea)
-03 – 2010. 08 Applied Music Dep. :Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I,II 
+2009.03 – 2010. 08 Applied Music Dep. :Jazz Piano Private Lesson I, II :Sight Singing & Ear Training I,II 
 
 - School Of Continuing Education Seoul Christian University (Seoul, Korea) 2010.03-2010.08 :Jazzklavier
 
