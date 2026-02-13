@@ -23,7 +23,7 @@ Danach hat sie noch einen Master(Städtischen Universität in New York, Queens C
 Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
 
 * (Eigene Projekt Album : Jiyeon Jeon/Journey Together (2025.12))
-* (Eigene Co-Projekte: Bisher 2 EP in Korea veröffentlicht)
+* (Eigene Co-Projekte: Bisher 2 Singles in Korea veröffentlicht)
 
 Jiyeon Jeon emigrierte 2017 nach Deutschland. Seitdem ist sie musikalisch aktiv und pendelt frei zwischen Korea und Deutschland.
 
@@ -32,7 +32,7 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 - *Album: Jiyeon Jeon/Journey Together (2025.12)
 ### Eigene Co-Projekte
 - *Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
-- *EP: C2J Trio 2013 International Jazz Day (2013)Korea
+- *Single: C2J Trio 2013 International Jazz Day (2013)Korea
 ### Komponistin, Arrangeurin und als Pianistin-Session
 - Single (Kim Daehan/Only One (2022)Korea
 - Album: Son Jiyeon 5th Recording (2017)Korea
