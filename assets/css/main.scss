@@ -6,3 +6,177 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Hero video section */
+.homepage-hero {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  min-height: 300px;
+  overflow: hidden;
+  margin-bottom: 2em;
+
+  &__video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+  }
+
+  &__overlay {
+    position: absolute;
+    bottom: 1.5em;
+    right: 2em;
+    color: #fff;
+    text-align: right;
+  }
+
+  &__title {
+    font-size: 1.8em;
+    font-weight: 600;
+    margin: 0;
+    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  &__subtitle {
+    font-size: 1em;
+    margin-top: 0.3em;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  }
+}
+
+/* Homepage sections */
+.homepage-profile {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  margin-bottom: 2em;
+
+  &__photo {
+    width: 200px;
+    min-width: 200px;
+    border-radius: 50%;
+  }
+
+  &__bio {
+    font-size: 0.825em;
+    line-height: 1.7;
+  }
+}
+
+.homepage-videos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5em;
+  margin-bottom: 2em;
+}
+
+.homepage-concerts {
+  margin-bottom: 2em;
+
+  &__list {
+    list-style: none;
+    padding: 0;
+  }
+
+  &__item {
+    display: flex;
+    align-items: baseline;
+    gap: 1em;
+    padding: 0.8em 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  &__date {
+    font-weight: bold;
+    white-space: nowrap;
+    min-width: 110px;
+    color: #3d9970;
+  }
+
+  &__details {
+    flex: 1;
+  }
+
+  &__venue {
+    font-weight: 600;
+  }
+
+  &__city {
+    color: #666;
+    margin-left: 0.5em;
+  }
+
+  &__empty {
+    color: #999;
+    font-style: italic;
+  }
+}
+
+.homepage-albums {
+  margin-bottom: 2em;
+
+  &__grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    align-items: flex-start;
+  }
+
+  &__item {
+    max-width: 300px;
+  }
+
+  &__cover {
+    max-width: 300px;
+    border-radius: 4px;
+    margin-bottom: 1em;
+  }
+
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 0.5em;
+  }
+
+  &__link {
+    background-color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 2px solid;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85em;
+    transition: opacity 0.2s;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 600px) {
+  .homepage-profile {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .homepage-videos {
+    grid-template-columns: 1fr;
+  }
+
+  .homepage-concerts__item {
+    flex-direction: column;
+    gap: 0.3em;
+  }
+}

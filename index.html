@@ -1,4 +1,130 @@
 ---
-layout: home
-author_profile: true
+layout: pages
+author_profile: false
+title: "Welcome to JJ Music"
 ---
+
+<!-- Hero Video -->
+<section class="homepage-hero">
+  <video autoplay muted loop playsinline class="homepage-hero__video">
+    <source src="/assets/videos/hero-bg.mp4" type="video/mp4">
+  </video>
+  <div class="homepage-hero__overlay">
+    <h1 class="homepage-hero__title">Jiyeon Jeon</h1>
+    <p class="homepage-hero__subtitle">Pianist, Composer, Arranger &amp; Educator</p>
+  </div>
+</section>
+
+<!-- Profile -->
+<section class="homepage-profile">
+  <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
+  <div class="homepage-profile__bio">
+    <p>Jiyeon Jeon (JJ) is a pianist, composer, arranger, and educator based in Berlin, Germany.
+    Originally from Seoul, South Korea, she has over 20 years of experience on stage and in the studio — performing in Korea, Japan, China, the USA, and Germany.</p>
+    <p>She holds degrees in Jazz Piano and Music Education, and has released more than 12 albums as a composer, arranger, and session pianist.
+    Her debut leader album <em>Journey Together</em> was released in December 2025.</p>
+  </div>
+</section>
+
+<!-- Videos -->
+<h2>Videos</h2>
+
+<div class="homepage-videos">
+  <div>
+    {% include video id="Y4aycjElJHE" provider="youtube" %}
+  </div>
+  <div>
+    {% include video id="gMlJ6go_2GA" provider="youtube" %}
+  </div>
+</div>
+
+<!-- Upcoming Concerts -->
+<h2>Upcoming Concerts</h2>
+
+{% assign today = site.time | date: "%Y%m%d" %}
+{% assign upcoming = "" | split: "" %}
+{% for concert in site.data.concerts %}
+  {% assign concert_date = concert.date | date: "%Y%m%d" %}
+  {% if concert_date >= today %}
+    {% assign upcoming = upcoming | push: concert %}
+  {% endif %}
+{% endfor %}
+{% assign upcoming = upcoming | sort: "date" %}
+
+<div class="homepage-concerts">
+  {% if upcoming.size > 0 %}
+    <ul class="homepage-concerts__list">
+      {% for concert in upcoming %}
+        <li class="homepage-concerts__item">
+          <span class="homepage-concerts__date">{{ concert.date | date: "%b %d, %Y" }}</span>
+          <span class="homepage-concerts__details">
+            <span class="homepage-concerts__venue">{{ concert.title }}</span> —
+            {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
+            {% if concert.url and concert.url != "" %}
+              <a href="{{ concert.url }}" target="_blank">Tickets</a>
+            {% endif %}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="homepage-concerts__empty">New concert dates coming soon — stay tuned!</p>
+  {% endif %}
+</div>
+
+<!-- Albums -->
+<h2>Recordings</h2>
+
+<div class="homepage-albums">
+  <div class="homepage-albums__grid">
+
+    <div class="homepage-albums__item">
+      <h3>Journey Together (2025)</h3>
+      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="homepage-albums__cover" />
+      <div class="homepage-albums__links">
+        <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox?si=Q55B49qrQ1G1pZMzmE0xxQ" target="_blank" class="homepage-albums__link" style="color: #1DB954; border-color: #1DB954;">
+          <i class="fab fa-spotify" aria-hidden="true"></i> Spotify
+        </a>
+        <a href="https://music.youtube.com/playlist?list=OLAK5uy_npc9lW305o3i3-2LxqEgn1ALvpxb_lUZg&si=-2SCwDi1VbaqQYCE" target="_blank" class="homepage-albums__link" style="color: #FF0000; border-color: #FF0000;">
+          <i class="fab fa-youtube" aria-hidden="true"></i> YouTube Music
+        </a>
+        <a href="https://music.apple.com/us/album/journey-together/1859004949" target="_blank" class="homepage-albums__link" style="color: #FA243C; border-color: #FA243C;">
+          <i class="fab fa-apple" aria-hidden="true"></i> Apple Music
+        </a>
+        <a href="https://music.amazon.de/albums/B0G5BCPY17" target="_blank" class="homepage-albums__link" style="color: #FF9900; border-color: #FF9900;">
+          <i class="fab fa-amazon" aria-hidden="true"></i> Amazon Music
+        </a>
+      </div>
+      <p style="margin-top: 0.8em; font-weight: 600;">Buy Now:</p>
+      <div class="homepage-albums__links">
+        <a href="https://music.apple.com/us/album/journey-together/1859004949" target="_blank" class="homepage-albums__link" style="color: #FA243C; border-color: #FA243C;">
+          <i class="fab fa-itunes-note" aria-hidden="true"></i> iTunes
+        </a>
+        <a href="https://www.amazon.com/dp/B0G5BCQG7W/" target="_blank" class="homepage-albums__link" style="color: #FF9900; border-color: #FF9900;">
+          <i class="fab fa-amazon" aria-hidden="true"></i> Amazon
+        </a>
+        <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="homepage-albums__link" style="color: #1DA0C3; border-color: #1DA0C3;">
+          <i class="fas fa-music" aria-hidden="true"></i> Bandcamp
+        </a>
+      </div>
+    </div>
+
+    <div class="homepage-albums__item">
+      <h3>As Co-Leader</h3>
+      <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <img src="/assets/images/jjcoleader2.png" alt="JJ Co-Leader Album" class="homepage-albums__cover" style="max-width: 140px;" />
+        <img src="/assets/images/jjcoleader1.jpg" alt="JJ Co-Leader Album" class="homepage-albums__cover" style="max-width: 140px;" />
+      </div>
+      <div class="homepage-albums__links">
+        <a href="https://youtube.com/playlist?list=PLHLU9NVhDC6OSTIwqyvpUIVaYR1A4n9s_&si=z0V2gcKS_OisPBt7" target="_blank" class="homepage-albums__link" style="color: #FF0000; border-color: #FF0000;">
+          <i class="fab fa-youtube" aria-hidden="true"></i> Playlist
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  <p style="margin-top: 1.5em;">
+    <a href="/music/" class="btn btn--primary">View All Recordings</a>
+  </p>
+</div>

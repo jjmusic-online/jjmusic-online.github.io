@@ -1,0 +1,16 @@
+# Concert schedule - edit this file to update the homepage concert list.
+# Concerts are sorted by date (soonest first) on the homepage.
+# Past concerts are automatically hidden.
+#
+# Fields:
+#   date:  YYYY-MM-DD (required)
+#   title: Event name (required)
+#   venue: Venue name (required)
+#   city:  City name (required)
+#   url:   Link to event page or tickets (optional, leave "" if none)
+
+- date: 2026-05-10
+  title: Vocals and Piano Concert
+  venue: "Centre Bagatelle"
+  city: "Frohnau Berlin"
+  url: 
