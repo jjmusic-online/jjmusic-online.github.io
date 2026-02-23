@@ -43,18 +43,18 @@ body {
 
 /* Semi-transparent white overlay on content so text is readable */
 #main {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.75);
   padding: 2em;
 }
 
 .masthead {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.85);
   padding-top: 0.5em;
   padding-bottom: 0.5em;
 }
 
 .page__footer {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.85);
   position: relative;
   z-index: 1;
 }
