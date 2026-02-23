@@ -36,6 +36,29 @@
   }
 }
 
+/* Page background image - full opacity */
+body {
+  background: url("/assets/images/bg-texture.png") center / cover no-repeat fixed;
+}
+
+/* Semi-transparent white overlay on content so text is readable */
+#main {
+  background: #fff;
+  padding: 2em;
+}
+
+.masthead {
+  background: #fff;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.page__footer {
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+
 /* Hero video section */
 .homepage-hero {
   position: relative;
