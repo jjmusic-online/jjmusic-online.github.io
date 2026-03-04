@@ -142,6 +142,34 @@
     margin-left: 0.5em;
   }
 
+  &__info-toggle {
+    margin-left: 0.8em;
+    font-size: 0.85em;
+    color: #3d9970;
+    cursor: pointer;
+    text-decoration: none;
+    border: 1px solid #3d9970;
+    border-radius: 3px;
+    padding: 0.1em 0.5em;
+
+    &:hover {
+      background: #3d9970;
+      color: #fff;
+    }
+  }
+
+  &__info {
+    display: none;
+    margin-top: 0.4em;
+    font-size: 0.9em;
+    color: #555;
+    line-height: 1.5;
+
+    &.is-visible {
+      display: block;
+    }
+  }
+
   &__empty {
     color: #999;
     font-style: italic;

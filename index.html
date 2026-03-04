@@ -79,6 +79,10 @@ title: "Welcome to JJ Music"
             {% if concert.url and concert.url != "" %}
               <a href="{{ concert.url }}" target="_blank">Tickets</a>
             {% endif %}
+            {% if concert.info and concert.info != "" %}
+              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">Info</a>
+              <span class="homepage-concerts__info">{{ concert.info }}</span>
+            {% endif %}
           </span>
         </li>
       {% endfor %}
