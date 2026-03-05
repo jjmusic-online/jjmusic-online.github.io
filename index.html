@@ -81,7 +81,7 @@ title: "Welcome to JJ Music"
             {% endif %}
             {% if concert.info and concert.info != "" %}
               <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
-              <span class="homepage-concerts__info">{{ concert.info }}</span>
+              <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
             {% endif %}
           </span>
         </li>
