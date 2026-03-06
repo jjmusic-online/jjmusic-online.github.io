@@ -10,6 +10,13 @@
 #   url:   Link to event page or tickets (optional, leave "" if none)
 #   info:  Additional info shown on click (optional, e.g. lineup)
 
+
+- date: 2026-04-09
+  title: JJ Group 
+  venue: "Alter Schwede Wedding"
+  city: "Berlin.Germany"
+  url: https://alterschwedewedding.de/
+  info: "p. Jiyeon Jeon / t.sax. Gianni Gagliardi / b. Christopher Williams"
 - date: 2026-05-10
   title: Vocals and Piano Concert
   venue: "Centre Bagatelle"
