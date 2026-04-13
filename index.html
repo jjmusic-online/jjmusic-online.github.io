@@ -59,13 +59,17 @@ title: "Welcome to JJ Music"
 
 {% assign today = site.time | date: "%Y%m%d" %}
 {% assign upcoming = "" | split: "" %}
+{% assign past = "" | split: "" %}
 {% for concert in site.data.concerts %}
   {% assign concert_date = concert.date | date: "%Y%m%d" %}
   {% if concert_date >= today %}
     {% assign upcoming = upcoming | push: concert %}
+  {% else %}
+    {% assign past = past | push: concert %}
   {% endif %}
 {% endfor %}
 {% assign upcoming = upcoming | sort: "date" %}
+{% assign past = past | sort: "date" | reverse %}
 
 <div class="homepage-concerts">
   {% if upcoming.size > 0 %}
@@ -91,6 +95,29 @@ title: "Welcome to JJ Music"
     <p class="homepage-concerts__empty">New concert dates coming soon — stay tuned!</p>
   {% endif %}
 </div>
+
+<!-- Past Concerts -->
+{% if past.size > 0 %}
+<h2>Past Concerts</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    {% for concert in past %}
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">{{ concert.date | date: "%b %d, %Y" }}</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
+          {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
+          {% if concert.info and concert.info != "" %}
+            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+            <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
+          {% endif %}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 
 <!-- Albums -->
 <h2>Recordings</h2>
