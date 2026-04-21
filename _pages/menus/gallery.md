@@ -55,6 +55,10 @@ permalink: /gallery/
     <img src="/assets/images/JJ_Group_2.JPG" alt="JJ Group Studio" />
   </a>
 
+  <a href="/assets/images/JJGroup_3.jpg">
+    <img src="/assets/images/JJGroup_3.jpg" alt="JJ Group" />
+  </a>
+
   <a href="/assets/images/photo4.jpg">
     <img src="/assets/images/photo4.jpg" alt="JJ Photo" />
   </a>
@@ -89,6 +93,22 @@ permalink: /gallery/
 
   <a href="/assets/images/thumb-28.jpeg">
     <img src="/assets/images/thumb-28.jpeg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/JJ_녹음실.jpg">
+    <img src="/assets/images/JJ_녹음실.jpg" alt="JJ 녹음실" />
+  </a>
+
+  <a href="/assets/images/JJ_Praha.jpg">
+    <img src="/assets/images/JJ_Praha.jpg" alt="JJ Praha" />
+  </a>
+
+  <a href="/assets/images/JJ_Chemniz_konzert.jpg">
+    <img src="/assets/images/JJ_Chemniz_konzert.jpg" alt="JJ Chemnitz Konzert" />
+  </a>
+
+  <a href="/assets/images/JJ_profile.jpg">
+    <img src="/assets/images/JJ_profile.jpg" alt="JJ Profile" />
   </a>
 
 </div>
