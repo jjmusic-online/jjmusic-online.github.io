@@ -4,33 +4,91 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-<img src="https://jjmusic-online.github.io/assets/images/photo4.jpg" alt="JJ Photo4"
-	title="Photo of JJ" style="min-width: 150px" />
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 20px 0;
+}
 
+.gallery-grid a {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+}
 
-<img src="https://jjmusic-online.github.io/assets/images/photo5.jpg" alt="JJ Photo5"
-	title="Photo of JJ" style="min-width: 150px" />
+.gallery-grid a img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  cursor: pointer;
+}
 
-<img src="https://jjmusic-online.github.io/assets/images/photo6.jpg" alt="JJ Photo6"
-	title="Photo of JJ" style="min-width: 150px" />
+.gallery-grid a:hover img {
+  transform: scale(1.04);
+  opacity: 0.88;
+}
 
-<img src="https://jjmusic-online.github.io/assets/images/photo7.jpg" alt="JJ Photo7"
-	title="Photo of JJ" style="min-width: 150px" />
+@media (max-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
-<img src="https://jjmusic-online.github.io/assets/images/photo10.png" alt="JJ Photo10"
-	title="Photo of JJ" style="min-width: 150px" />
+@media (max-width: 480px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
-<img src="https://jjmusic-online.github.io/assets/images/photo9.jpg" alt="JJ Photo9"
-	title="Photo of JJ" style="min-width: 150px" />
+<div class="gallery-grid">
 
-<img src="https://jjmusic-online.github.io/assets/images/risingstar2010.jpeg" alt="JJ Photo9"
-	title="Photo of JJ" style="min-width: 150px" />
+  <a href="/assets/images/JJ_Group_1.JPG">
+    <img src="/assets/images/JJ_Group_1.JPG" alt="JJ Group Recording" />
+  </a>
 
-<img src="https://jjmusic-online.github.io/assets/images/thumb-13.jpeg" alt="JJ Photo9"
-	title="Photo of JJ" style="min-width: 150px" />
+  <a href="/assets/images/JJ_Group_2.JPG">
+    <img src="/assets/images/JJ_Group_2.JPG" alt="JJ Group Studio" />
+  </a>
 
-<img src="https://jjmusic-online.github.io/assets/images/thumb-28.jpeg" alt="JJ Photo9"
-	title="Photo of JJ" style="min-width: 150px" />
+  <a href="/assets/images/photo4.jpg">
+    <img src="/assets/images/photo4.jpg" alt="JJ Photo" />
+  </a>
 
+  <a href="/assets/images/photo5.jpg">
+    <img src="/assets/images/photo5.jpg" alt="JJ Photo" />
+  </a>
 
+  <a href="/assets/images/photo6.jpg">
+    <img src="/assets/images/photo6.jpg" alt="JJ Photo" />
+  </a>
 
+  <a href="/assets/images/photo7.jpg">
+    <img src="/assets/images/photo7.jpg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/photo9.jpg">
+    <img src="/assets/images/photo9.jpg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/photo10.png">
+    <img src="/assets/images/photo10.png" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/risingstar2010.jpeg">
+    <img src="/assets/images/risingstar2010.jpeg" alt="JJ Rising Star 2010" />
+  </a>
+
+  <a href="/assets/images/thumb-13.jpeg">
+    <img src="/assets/images/thumb-13.jpeg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/thumb-28.jpeg">
+    <img src="/assets/images/thumb-28.jpeg" alt="JJ Photo" />
+  </a>
+
+</div>
