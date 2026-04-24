@@ -62,9 +62,14 @@ permalink: /shop/
 - <a href="https://jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
     20 Weeks Essential Workshop in English
  </a>
-- <a href="https://www.piareno.com/product/jj_1kor
-">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어<a/> 
-- <a href="https://www.sixshop.com/piareno_en/product/JJ_1">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English<a/>
+- <a href="https://www.piareno.com/product/jj_1kor" target="_blank">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어</a>
+<a href="https://www.piareno.com/product/jj_1kor" target="_blank">
+  <img src="/assets/images/Screenshot 2026-04-24 at 23.25.56.png" alt="피아리노 온라인 레슨 한국어" style="max-width: 300px; display: block; margin: 8px 0;" />
+</a>
+- <a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English</a>
+<a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">
+  <img src="/assets/images/Screenshot 2026-04-24 at 23.26.34.png" alt="Piareno Online Lesson English" style="max-width: 300px; display: block; margin: 8px 0;" />
+</a>
 
 
 ## Sheet Music - Gumroad
