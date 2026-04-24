@@ -54,6 +54,18 @@ permalink: /jjgroup/
   <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 480px; width: 100%; border-radius: 6px; margin-bottom: 2em;" />
 </a>
 
+<ul class="homepage-concerts__list">
+  <li class="homepage-concerts__item">
+    <span class="homepage-concerts__date">Apr 2026</span>
+    <span class="homepage-concerts__details">
+      <span class="homepage-concerts__venue"><a href="https://jazzpeople.co.kr/" target="_blank">Jazz People (재즈피플)</a></span> — Korean Jazz Magazine
+    </span>
+  </li>
+</ul>
+<a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png">
+  <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People 재즈피플" style="max-width: 480px; width: 100%; border-radius: 6px; margin-bottom: 2em; cursor: zoom-in;" />
+</a>
+
 <!-- Videos -->
 <h2>Videos</h2>
 
