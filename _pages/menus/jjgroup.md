@@ -37,6 +37,23 @@ permalink: /jjgroup/
   </div>
 </section>
 
+<!-- Media -->
+<h2>Media</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">Mar 4, 2026</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue"><a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">SWR Kultur im Radio</a></span>
+      </span>
+    </li>
+  </ul>
+</div>
+<a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">
+  <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 480px; width: 100%; border-radius: 6px; margin-bottom: 2em;" />
+</a>
+
 <!-- Videos -->
 <h2>Videos</h2>
 
