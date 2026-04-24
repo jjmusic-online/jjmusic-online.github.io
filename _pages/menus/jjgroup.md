@@ -42,39 +42,40 @@ permalink: /jjgroup/
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
-    <li class="homepage-concerts__item">
-      <span class="homepage-concerts__date">Mar 4, 2026</span>
-      <span class="homepage-concerts__details">
-        <span class="homepage-concerts__venue"><a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">SWR Kultur im Radio</a></span>
+
+    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
+      <span>
+        <span class="homepage-concerts__date">Mar 4, 2026</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">SWR Kultur im Radio</a></span>
       </span>
+      <a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">
+        <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0;" />
+      </a>
+      <a href="https://open.spotify.com/playlist/7yUaSDqPvYly4WOZDYcBya?si=jnj8VyurRIiKojoyrKY9WA" target="_blank" style="font-size: 0.85em;">SWR Kultur Radio Jazz vor Sechs Playlist</a>
     </li>
+
+    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
+      <span>
+        <span class="homepage-concerts__date">Apr 2026</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://jazzpeople.co.kr/" target="_blank">Jazz People (재즈피플)</a></span>
+        <span> — Korean Jazz Magazine</span>
+      </span>
+      <a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png">
+        <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People 재즈피플" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
+      </a>
+    </li>
+
+    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
+      <span>
+        <span class="homepage-concerts__date">Apr 30, 2026</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS Korean Public Radio (재즈수첩)</a></span>
+        <span> — Upcoming Broadcast</span>
+      </span>
+      <span style="font-size: 0.85em; padding-left: 0.2em;">Host: Hwang Deokho (황덕호)</span>
+    </li>
+
   </ul>
 </div>
-<a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">
-  <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 480px; width: 100%; border-radius: 6px; margin-bottom: 2em;" />
-</a>
-
-<ul class="homepage-concerts__list">
-  <li class="homepage-concerts__item">
-    <span class="homepage-concerts__date">Apr 2026</span>
-    <span class="homepage-concerts__details">
-      <span class="homepage-concerts__venue"><a href="https://jazzpeople.co.kr/" target="_blank">Jazz People (재즈피플)</a></span> — Korean Jazz Magazine
-    </span>
-  </li>
-</ul>
-<a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png">
-  <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People 재즈피플" style="max-width: 480px; width: 100%; border-radius: 6px; margin-bottom: 2em; cursor: zoom-in;" />
-</a>
-
-<ul class="homepage-concerts__list">
-  <li class="homepage-concerts__item">
-    <span class="homepage-concerts__date">Apr 30, 2026</span>
-    <span class="homepage-concerts__details">
-      <span class="homepage-concerts__venue"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS Korean Public Radio (재즈수첩)</a></span> — Upcoming Broadcast<br/>
-      Host: Hwang Deokho (황덕호)
-    </span>
-  </li>
-</ul>
 
 <!-- Videos -->
 <h2>Videos</h2>
