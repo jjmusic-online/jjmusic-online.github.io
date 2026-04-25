@@ -18,7 +18,18 @@
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
   <br>
-  <div style="margin-top: 10px;">
-    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjjmusic-online.github.io%2F&label=&icon=graph-up&color=%23fff&message=&style=flat&tz=UTC" alt="visitor counter">
-  </div>
+  <div style="margin-top: 10px;" id="visitor-counter-wrapper"></div>
 </div>
+<script>
+(function() {
+  var today = new Date().toISOString().slice(0, 10);
+  var lastVisit = localStorage.getItem('jj_visit_date');
+  if (lastVisit !== today) {
+    localStorage.setItem('jj_visit_date', today);
+    var img = document.createElement('img');
+    img.src = 'https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjjmusic-online.github.io%2F&label=&icon=graph-up&color=%23fff&message=&style=flat&tz=UTC';
+    img.alt = 'visitor counter';
+    document.getElementById('visitor-counter-wrapper').appendChild(img);
+  }
+})();
+</script>
