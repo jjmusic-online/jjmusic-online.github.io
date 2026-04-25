@@ -76,6 +76,9 @@ permalink: /about/about-kor
 - 정규앨범 Album: Kang Hyosun 피리연주자 강효선 'Attraction' 피아노 (2006)Korea 
 - 정규앨범 Album: Son Jiyeon 손지연 3집 3rd Recording 피아노 전곡 (2009)Korea 
 - 정규앨범 Album: Seoul Sololist Jazz Orchestra.1 서울솔리스트오케스트라 1집 피아노 전곡 (2010)Korea
+
+<img src="/assets/images/albumsjackets.jpg" alt="Session Albums" style="max-width:300px; margin:0.5rem 0; border-radius:6px;">
+
 - 독일 베를리시 주관 거리 콘서트 재즈 듀오 콘서트 8.24
 - 독일 베를린시 주관 거리 콘서트 재즈피아노 솔로  콘서트  6.2023
 - 독일 제10회 통일희망 라이프치히음악회 연주  11.2022

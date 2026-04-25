@@ -56,6 +56,8 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 - Album: Son Jiyeon 3rd Recording (2009)Korea
 - Album: Seoul Sololist Jazz Orchestra.1 (2010)Korea
 
+<img src="/assets/images/albumsjackets.jpg" alt="Session Albums" style="max-width:300px; margin:0.5rem 0; border-radius:6px;">
+
 - (Germany) 2024 Outdoor Concerts Berlin - Official Municipal Cultural Program (Jazz Duo Concert with Saxophone)
 - (Germany) 2023 Outdoor Concerts Berlin - Official Municipal Cultural Program(Jazz Piano, Solo Piano)
 - (Germany) 10.Concert for the "Wiedervereinigung koreas" in Alte Börse, Leipzig 11.2022

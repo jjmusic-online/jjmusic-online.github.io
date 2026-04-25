@@ -54,6 +54,9 @@ Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 - Album: Kang Hyosun ' Attraction' (2006)Korea
 - Album: Son Jiyeon 3rd Recording (2009)Korea
 - Album: Seoul Sololist Jazz Orchestra I (2010)Korea
+
+<img src="/assets/images/albumsjackets.jpg" alt="Session Albums" style="max-width:300px; margin:0.5rem 0; border-radius:6px;">
+
 ### Konzerte, Festival, TV und Raido
 - (Deutschland) 2024 Draußen Konzerte Berlin - Offizielles städtisches Kulturprogramm (Jazz Duo Konzert mit Saxophone)
 
