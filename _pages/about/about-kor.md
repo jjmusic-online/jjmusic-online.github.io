@@ -8,6 +8,9 @@ permalink: /about/about-kor
 	title="Photo of JJ" style="min-width: 150px" />
 
 - 2017년부터 현 독일 거주🇩🇪
+
+그녀는 베를린과 서울을 오가며 활동하는 **[JJ GROUP](/jjgroup/)**의 리더이다.
+
 그녀는 대한민국 서울에서 태어난 음악가이자 음악 교육가입니다. 여섯 살 때 피아노를 처음 접하며 음악을 시작했습니다.
 
 그녀는 어릴 때부터 모타운 계열의 흑인 음악을 특히 좋아했고, 이러한 영향으로 기본적으로 그루비한 음악을 지향하게 되었습니다.심장을 두드리고 몸이 즉각적으로 반응하는 순수한 그루브와 서정적이면서도 세련된 멜로디의 조화의 그녀만의 음악을 항상 탐구하고 있습니다.
@@ -20,7 +23,9 @@ permalink: /about/about-kor
 
 재즈 피아노 전공 학사와 석사 과정을 마친 이후, 그녀는 20년이 넘는 무대 및 스튜디오 세션 경력을 쌓아 왔습니다. 한국, 일본, 중국, 미국, 독일 등지에서 공연을 해왔으며, 작곡가, 편곡가, 세션 피아니스트로서 12장 이상의 앨범 작업에 참여했습니다.
 
-*리더로서의 프로젝트 앨범: Jiyeon Jeon / Journey Together (2025.12) 영어검색, 많이 들어주세요 :)
+*리더로서의 프로젝트 앨범: Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12) 영어검색, 많이 들어주세요 :)
+
+<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
 *공동 프로젝트: 현재까지 2013년과 2024년에 2장의 각각 Single 를 발매
 *세션 프로젝트: 피아노, 작곡, 편곡, 디렉으로 10장 이상 발매
 
@@ -55,7 +60,7 @@ permalink: /about/about-kor
 	title="Photo of JJ" style="min-width: 150px" />
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
-- 정규앨범 리더작 Album: Jiyeon Jeon/Journey Together (2025.12)발매 
+- 정규앨범 리더작 Album: Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)발매 
 - 디지털 싱글 Single: Jesus loves me 예수 사랑하심은. 전지연 조범진 발매 (2024)  
 - 디지털 싱글 Single: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
 - 정규앨범 Album: Son Jiyeon 5th 손지연 5집 Recording 피아노 전곡 (2017)Korea 

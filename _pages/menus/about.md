@@ -11,6 +11,8 @@ permalink: /about/
 - <a href="/about/about-kor">JJ 프로필 한국어로 보기</a>
 - <a href="/jjgroup">Visit JJ Group</a>
 
+Sie ist die Leiterin der **[JJ GROUP](/jjgroup/)**, die zwischen Berlin und Seoul aktiv ist.
+
 Jiyeon Jeon, geboren in Seoul, Südkorea, ist Musikerin und Pädagogin. Sie fing mit 6 Jahren mit dem Klavierspielen an.
 
 Sie mochte die schwarzen Motown-Sounds und ist davon stark geprägt. Grundsätzlich strebt sie nach grooviger Musik. Sie erforscht ständig die Verbindung aus einem reinen Groove, der das Herz trifft und unseren Körper unmittelbar reagieren lässt, sowie einer gefühlvollen und zugleich raffinierten Melodie.
@@ -25,14 +27,16 @@ Danach hat sie noch einen Master(Städtischen Universität in New York, Queens C
 
 Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
 
-* (Eigene Projekt Album : Jiyeon Jeon/Journey Together (2025.12))
+* (Eigene Projekt Album : Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12))
 * (Eigene Co-Projekte: Bisher 2 Singles in Korea veröffentlicht)
+
+<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
 
 Jiyeon Jeon emigrierte 2017 nach Deutschland. Seitdem ist sie musikalisch aktiv und pendelt frei zwischen Korea und Deutschland.
 
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 ### Eigene Prjekt 
-- *Album: Jiyeon Jeon/Journey Together (2025.12)
+- *Album: Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)
 ### Eigene Co-Projekte
 - *Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
 - *Single: C2J Trio 2013 International Jazz Day (2013)Korea

@@ -7,6 +7,8 @@ permalink: /about/about-eng
 <img src="https://jjmusic-online.github.io/assets/images/photo8.JPG" alt="JJ Photo8"
 	title="Photo of JJ" style="min-width: 150px" />
 
+She is the leader of **[JJ GROUP](/jjgroup/)**, active between Berlin and Seoul.
+
 Jiyeon Jeon, born in Seoul, South Korea, is a musician and educator. She began playing the piano at the age of 6.  
 
 She has always loved Motown-style Black music and is strongly influenced by it, which is why she fundamentally pursues groovy music. She constantly explores the connection between a pure groove – one that touches the heart and makes our bodies react immediately – and melodies that are both lyrical and sophisticated.  
@@ -19,8 +21,10 @@ After that, she completed another Master’s degree  at the City University of N
 
 Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
 
-*Her own project album: Jiyeon Jeon / Journey Together (2025.12)  
+*Her own project album: Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)  
 *Her own co-projects: so far, two singles released in Korea 2013 and 2024  
+
+<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
 
 In 2017, Jiyeon Jeon emigrated to Germany. Since then, she has been musically active and moves freely between Korea and Germany.  
 
@@ -35,7 +39,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 - Thomas Mann Platz Musikschule (Chemnitz, Germany) 2018.01 – 2019.08 (Jazzpiano)
 
 ## 🎹Performing and Recording Experience(2006-Present)
-- Album: as Leader_ Jiyeon Jeon / Journey Together (2025.12)
+- Album: as Leader_ Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)
 - Single: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
 - Single: Co Project_C2J Trio 2013 International Jazz Day (2013)
 - Single: Kim Daehan/Only One (2022)
