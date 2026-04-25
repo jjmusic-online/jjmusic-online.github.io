@@ -19,6 +19,8 @@ Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam un
 
 Sie hat ihren Bachelor in Jazzklavier(KyungHee Universität) Korea abgeschlossen. 
 
+Außerdem erwarb sie einen Master-Abschluss in Klassischer Musikpädagogik an der Sookmyung Women's University (숙명여자대학교) und erlangte anschließend das staatliche Lehramt für Musik an Mittelschulen (중등학교 음악 정교사 자격증).
+
 Danach hat sie noch einen Master(Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
 
 Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
