@@ -13,8 +13,8 @@
   right: 0;
   top: 50%;
   transform: translateY(-50%);
-  z-index: 100;
-  display: flex;
+  z-index: 9999;
+  display: flex !important;
   flex-direction: column;
   gap: 0;
 
@@ -22,17 +22,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 44px;
-    height: 44px;
-    background: rgba(0, 0, 0, 0.6);
+    width: 40px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.65);
     color: #fff !important;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     transition: background 0.2s;
 
     &:hover {
-      background: rgba(0, 0, 0, 0.9);
+      background: rgba(0, 0, 0, 0.92);
     }
+  }
+
+  @media (min-width: 1024px) {
+    right: 0;
+    display: flex !important;
   }
 }
 
