@@ -25,7 +25,11 @@ permalink: /about/about-kor
 
 *리더로서의 프로젝트 앨범: Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12) 영어검색, 많이 들어주세요 :)
 
-<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
+<div style="display:flex; gap:10px; flex-wrap:wrap; margin:0.5rem 0;">
+  <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px;"></a>
+  <img src="/assets/images/jjcoleader1.jpg" alt="Co-leader Album 1" style="width:110px; border-radius:6px;">
+  <img src="/assets/images/jjcoleader2.png" alt="Co-leader Album 2" style="width:110px; border-radius:6px;">
+</div>
 *공동 프로젝트: 현재까지 2013년과 2024년에 2장의 각각 Single 를 발매
 *세션 프로젝트: 피아노, 작곡, 편곡, 디렉으로 10장 이상 발매
 

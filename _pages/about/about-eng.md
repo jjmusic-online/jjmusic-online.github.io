@@ -24,7 +24,11 @@ Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Je
 *Her own project album: Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)  
 *Her own co-projects: so far, two singles released in Korea 2013 and 2024  
 
-<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
+<div style="display:flex; gap:10px; flex-wrap:wrap; margin:0.5rem 0;">
+  <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px;"></a>
+  <img src="/assets/images/jjcoleader1.jpg" alt="Co-leader Album 1" style="width:110px; border-radius:6px;">
+  <img src="/assets/images/jjcoleader2.png" alt="Co-leader Album 2" style="width:110px; border-radius:6px;">
+</div>
 
 In 2017, Jiyeon Jeon emigrated to Germany. Since then, she has been musically active and moves freely between Korea and Germany.  
 

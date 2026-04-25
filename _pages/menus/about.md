@@ -30,7 +30,11 @@ Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre 
 * (Eigene Projekt Album : Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12))
 * (Eigene Co-Projekte: Bisher 2 Singles in Korea veröffentlicht)
 
-<a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px; margin:0.5rem 0;"></a>
+<div style="display:flex; gap:10px; flex-wrap:wrap; margin:0.5rem 0;">
+  <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox" target="_blank"><img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" style="width:110px; border-radius:6px;"></a>
+  <img src="/assets/images/jjcoleader1.jpg" alt="Co-leader Album 1" style="width:110px; border-radius:6px;">
+  <img src="/assets/images/jjcoleader2.png" alt="Co-leader Album 2" style="width:110px; border-radius:6px;">
+</div>
 
 Jiyeon Jeon emigrierte 2017 nach Deutschland. Seitdem ist sie musikalisch aktiv und pendelt frei zwischen Korea und Deutschland.
 
