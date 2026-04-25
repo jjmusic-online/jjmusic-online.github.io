@@ -111,4 +111,28 @@ permalink: /gallery/
     <img src="/assets/images/JJ_profile.jpg" alt="JJ Profile" />
   </a>
 
+  <a href="/assets/images/DSC00982.JPG">
+    <img src="/assets/images/DSC00982.JPG" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/IMG_0655.JPG">
+    <img src="/assets/images/IMG_0655.JPG" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/jj big band.jpg">
+    <img src="/assets/images/jj big band.jpg" alt="JJ Big Band" />
+  </a>
+
+  <a href="/assets/images/4 010.jpg">
+    <img src="/assets/images/4 010.jpg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/세화4차시 .jpeg">
+    <img src="/assets/images/세화4차시 .jpeg" alt="JJ Photo" />
+  </a>
+
+  <a href="/assets/images/스크린샷 2018-09-22 오후 6.33.32.png">
+    <img src="/assets/images/스크린샷 2018-09-22 오후 6.33.32.png" alt="JJ Photo" />
+  </a>
+
 </div>
