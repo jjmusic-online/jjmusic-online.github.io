@@ -131,6 +131,8 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/about">About JJ</a>
             </li><li class="masthead__menu-item">
+              <a href="/jjgroup">JJ Group</a>
+            </li><li class="masthead__menu-item">
               <a href="/music">Music</a>
             </li><li class="masthead__menu-item">
               <a href="/gallery">Gallery</a>
@@ -319,7 +321,68 @@
       <footer>
         <!-- start custom footer snippets -->
 
+<div class="email-cta-section">
+  <div class="email-cta-inner">
+    <h2 class="email-cta-title">Send an Email to JJ</h2>
+    <p class="email-cta-text">Have a question about performances, collaborations, or lessons? I'd love to hear from you.</p>
+    <a href="mailto:jazzydusmusic@gmail.com" class="email-cta-button">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 512 512" aria-hidden="true" style="vertical-align: middle; margin-right: 8px;">
+        <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+      </svg>
+      Send Email to JJ
+    </a>
+  </div>
+</div>
+
+<style>
+.email-cta-section {
+  background: linear-gradient(135deg, #2c3e50 0%, #3d5a73 100%);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  margin: 0;
+}
+.email-cta-inner {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.email-cta-title {
+  color: #ffffff;
+  font-size: 1.25rem;
+  margin: 0 0 0.4rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  border: none;
+}
+.email-cta-text {
+  color: rgba(255,255,255,0.82);
+  font-size: 0.85rem;
+  margin: 0 0 1.1rem;
+  line-height: 1.5;
+}
+.email-cta-button {
+  display: inline-block;
+  background: #ffffff;
+  color: #2c3e50 !important;
+  padding: 0.55rem 1.6rem;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  letter-spacing: 0.03em;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.18);
+}
+.email-cta-button:hover {
+  background: #e8f4fd;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 18px rgba(0,0,0,0.25);
+  color: #2c3e50 !important;
+  text-decoration: none !important;
+}
+</style>
+
 <!-- end custom footer snippets -->
+
         <div class="page__footer-follow">
   <ul class="social-icons">
     
@@ -340,10 +403,21 @@
 
 <div class="page__footer-copyright">&copy; 2026 Jiyeon Jeon. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
   <br>
-  <div style="margin-top: 10px;">
-    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjjmusic-online.github.io%2F&label=&icon=graph-up&color=%23fff&message=&style=flat&tz=UTC" alt="visitor counter">
-  </div>
+  <div style="margin-top: 10px;" id="visitor-counter-wrapper"></div>
 </div>
+<script>
+(function() {
+  var today = new Date().toISOString().slice(0, 10);
+  var lastVisit = localStorage.getItem('jj_visit_date');
+  if (lastVisit !== today) {
+    localStorage.setItem('jj_visit_date', today);
+    var img = document.createElement('img');
+    img.src = 'https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjjmusic-online.github.io%2F&label=&icon=graph-up&color=%23fff&message=&style=flat&tz=UTC';
+    img.alt = 'visitor counter';
+    document.getElementById('visitor-counter-wrapper').appendChild(img);
+  }
+})();
+</script>
 
       </footer>
     </div>

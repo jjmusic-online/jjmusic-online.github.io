@@ -72,6 +72,9 @@ permalink: /jjgroup/
         <span> — Broadcast</span>
       </span>
       <span style="font-size: 0.85em; padding-left: 0.2em;">Host: Hwang Deokho (황덕호)</span>
+      <a href="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" target="_blank">
+        <img src="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" alt="KBS 재즈수첩" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
+      </a>
     </li>
 
   </ul>
