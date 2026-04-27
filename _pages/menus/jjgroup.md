@@ -98,6 +98,17 @@ permalink: /jjgroup/
   </div>
 </div>
 
+<h3>JJ Group Worship</h3>
+
+<div class="homepage-videos">
+  <div>
+    {% include video id="N1gTsEciZ5I" provider="youtube" %}
+  </div>
+  <div>
+    {% include video id="qfDW6Ca28WM" provider="youtube" %}
+  </div>
+</div>
+
 <!-- Upcoming Concerts -->
 <h2>Upcoming Concerts</h2>
 
