@@ -67,9 +67,9 @@ permalink: /jjgroup/
 
     <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
       <span>
-        <span class="homepage-concerts__date">Apr 30, 2026</span>
+        <span class="homepage-concerts__date">Apr 27, 2026</span>
         <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS Korean Public Radio (재즈수첩)</a></span>
-        <span> — Upcoming Broadcast</span>
+        <span> — Broadcast</span>
       </span>
       <span style="font-size: 0.85em; padding-left: 0.2em;">Host: Hwang Deokho (황덕호)</span>
     </li>
