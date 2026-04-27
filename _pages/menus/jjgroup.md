@@ -98,7 +98,7 @@ permalink: /jjgroup/
   </div>
 </div>
 
-<h3>JJ Group Worship</h3>
+<h3><span class="homepage-concerts__gold">JJ Group</span> Worship</h3>
 
 <div class="homepage-videos">
   <div>
