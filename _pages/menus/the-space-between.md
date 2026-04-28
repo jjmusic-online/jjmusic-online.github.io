@@ -33,5 +33,5 @@ author_profile: false
   </tbody>
 </table>
 {% else %}
-<p class="tsb-empty">아직 작성된 글이 없습니다.</p>
+<p class="tsb-empty"></p>
 {% endif %}
