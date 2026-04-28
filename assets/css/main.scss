@@ -232,6 +232,67 @@
   }
 }
 
+/* The Space Between — journal listing */
+.tsb-intro {
+  font-style: italic;
+  color: #666;
+  border-left: 3px solid #d4a017;
+  padding-left: 1em;
+  margin-bottom: 2.5em;
+  line-height: 1.7;
+}
+
+.tsb-entries {
+  max-width: 720px;
+}
+
+.tsb-entry {
+  margin-bottom: 2.5em;
+  padding-bottom: 2.5em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.tsb-entry__date {
+  display: block;
+  font-size: 0.82em;
+  color: #999;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 0.3em;
+}
+
+.tsb-entry__title {
+  margin: 0 0 0.5em;
+  font-size: 1.25em;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: #d4a017;
+    }
+  }
+}
+
+.tsb-entry__excerpt {
+  color: #555;
+  line-height: 1.75;
+  font-size: 0.95em;
+  margin: 0;
+}
+
+.tsb-empty {
+  color: #aaa;
+  font-style: italic;
+  text-align: center;
+  margin-top: 3em;
+}
+
 /* Responsive: stack on mobile */
 @media (max-width: 600px) {
   .homepage-profile {

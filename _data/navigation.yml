@@ -21,6 +21,9 @@ main:
   - title: "Shop"
     url: /shop
     descrition: shop for sheet music and lectures
+  - title: "The Space Between"
+    url: /the-space-between
+    descrition: Personal journal
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
