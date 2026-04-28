@@ -25,7 +25,7 @@ Außerdem erwarb sie einen Master-Abschluss in Klassischer Musikpädagogik an de
 
 Danach hat sie noch einen Master(Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
 
-Seit ihrem Bachelor und Master in Jazzklavier konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
+Ab dem vierten Jahr des Bachelorstudiums konnte Jiyeon Jeon über 20 Jahre Bühnenerfahrung und Studio Session sammeln. Sie hat Konzerte in Korea, Japan, China, U.S.A und Deutschland gehalten und über 12 Alben als Komponistin Arrangeurin und als Pianistin-Session veröffentlicht.
 
 * (Eigene Projekt Album : Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12))
 * (Eigene Co-Projekte: Bisher 2 Singles in Korea veröffentlicht)
@@ -134,7 +134,7 @@ Deutsch, Englisch, Koreanisch
 	title="Photo of JJ" style="min-width: 150px" />
 ### Schulbildung
 - Städtischen Universität in New York, Queens College (M.A) /U.S.A/ 2010-2012
-- Befähigung zum Lehramtsstudium Südkorea 2009 (M.edu) 2006-2009
+- Befähigung zum Lehramtsstudium Sookmyung Woman's Universität im Fach Musikpädagogik. Seoul Südkorea 2009(M.edu) 2006-2009
 - KyungHee Universität in Suwon im Fach Jazzklavier(B.A) /Südkorea/2001-2005  
 - 4 Jahre Stipendium 2001-2005
 <img src="https://jjmusic-online.github.io/assets/images/photo3.jpeg" alt="JJ Photo3"
