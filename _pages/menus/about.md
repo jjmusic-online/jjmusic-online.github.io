@@ -21,7 +21,7 @@ Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam un
 
 Sie hat ihren Bachelor in Jazzklavier(KyungHee Universität) Korea abgeschlossen. 
 
-Außerdem erwarb sie einen Master-Abschluss in Klassischer Musikpädagogik an der Sookmyung Women's University (숙명여자대학교) und erlangte anschließend das staatliche Lehramt für Musik an Mittelschulen (중등학교 음악 정교사 자격증).
+Außerdem erwarb sie einen Master-Abschluss in Klassischer Musikpädagogik an der Sookmyung Women's University und erlangte anschließend das staatliche Lehramt für Musik an Mittelschulen.
 
 Danach hat sie noch einen Master(Städtischen Universität in New York, Queens College), New York, USA abgeschlossen.
 
@@ -80,7 +80,7 @@ Südkorea Stil) 10. 2018
 
 - (Deutschland) Frauen Treffen in Deutschland Pianistin 2018/2019
 
-- (Deutschland) Anstaltungen(Pianistin) in Studentenwerk-Chemnitz 2018
+- (Deutschland) Anstaltungen(Pianistin) in Studentenwerk-Chemnitz 2018/2019
 
 - Sumida Jazz Festival Performance (2012) Japan
 - Queens College, Lefrak Concert Hall ' Graduation and Award Ceremony ' Performance (2011)
