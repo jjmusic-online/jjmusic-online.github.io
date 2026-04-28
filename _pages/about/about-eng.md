@@ -19,7 +19,7 @@ She completed her Bachelor’s degree in Jazz Piano at KyungHee University and h
 
 After that, she completed another Master’s degree  at the City University of New York, Queens College, in New York, USA.  
 
-Since finishing her Bachelor’s and Master’s degrees in Jazz Piano, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
+From the fourth year of undergraduate studies, Jiyeon Jeon has gained over 20 years of experience on stage and in the studio. She has performed concerts in Korea, Japan, China, the USA, and Germany, and has released more than 12 albums as a composer, arranger, and session pianist.  
 
 *Her own project album: Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)  
 *Her own co-projects: so far, two singles released in Korea 2013 and 2024  
@@ -85,7 +85,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 ## Education
 - Kyunghee Univ. Jazzpiano(B.A.) 2005. South Korea🇰🇷 
 - 4years scholarship 
-- Qualification for a Teacher's Certificate, Music Education 2009. South Korea (M.edu)South Korea🇰🇷 
+- Qualification for a Teacher's Certificate, Music Education 2009. Sookmyung Wooman's University.(M.edu)South Korea🇰🇷 
 - City University of New York, Queens College, 2012. U.S.A.🇺🇸 (M.M.) 
 
 ## Work Experience in Korea
