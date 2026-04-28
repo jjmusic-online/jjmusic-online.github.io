@@ -7,7 +7,9 @@ permalink: /shop/
 <img src="https://jjmusic-online.github.io/assets/images/jjprice8.jpg" alt="JJ Photo of JJ"
 	title="Photo of JJ" style="min-width: 10px" />
 <img src="https://jjmusic-online.github.io/assets/images/jjprice9.jpg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />    
+	title="Photo of JJ" style="min-width: 10px" />
+
+**In-person Piano Lesson: 30 min / 35€**
 
 
 ## Lessons - Gumroad
