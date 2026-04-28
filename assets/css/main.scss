@@ -232,46 +232,68 @@
   }
 }
 
-/* The Space Between — journal listing */
+/* The Space Between — bulletin board */
 .tsb-intro {
   font-style: italic;
   color: #666;
   border-left: 3px solid #d4a017;
   padding-left: 1em;
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
   line-height: 1.7;
+  font-size: 0.95em;
 }
 
-.tsb-entries {
-  max-width: 720px;
+.tsb-board {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+  font-size: 0.95em;
 }
 
-.tsb-entry {
-  margin-bottom: 2.5em;
-  padding-bottom: 2.5em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+.tsb-board thead tr {
+  background: #f5f5f5;
+  border-top: 2px solid #333;
+  border-bottom: 1px solid #ccc;
+}
 
-  &:last-child {
-    border-bottom: none;
+.tsb-board thead th {
+  padding: 0.7em 0.8em;
+  font-weight: 600;
+  font-size: 0.85em;
+  color: #444;
+  text-align: center;
+}
+
+.tsb-board thead th.tsb-col-title {
+  text-align: left;
+}
+
+.tsb-board tbody tr {
+  border-bottom: 1px solid #eee;
+  transition: background 0.15s;
+
+  &:hover {
+    background: #fafaf7;
   }
 }
 
-.tsb-entry__date {
-  display: block;
-  font-size: 0.82em;
-  color: #999;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  margin-bottom: 0.3em;
+.tsb-board tbody td {
+  padding: 0.75em 0.8em;
+  vertical-align: middle;
 }
 
-.tsb-entry__title {
-  margin: 0 0 0.5em;
-  font-size: 1.25em;
+.tsb-board .tsb-col-num {
+  width: 50px;
+  text-align: center;
+  color: #aaa;
+  font-size: 0.85em;
+}
 
+.tsb-board .tsb-col-title {
   a {
-    color: inherit;
+    color: #333;
     text-decoration: none;
+    font-weight: 500;
 
     &:hover {
       color: #d4a017;
@@ -279,18 +301,29 @@
   }
 }
 
-.tsb-entry__excerpt {
-  color: #555;
-  line-height: 1.75;
-  font-size: 0.95em;
-  margin: 0;
+.tsb-board .tsb-col-date {
+  width: 110px;
+  text-align: center;
+  color: #999;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+.tsb-board__foot {
+  border-top: 1px solid #ccc;
 }
 
 .tsb-empty {
   color: #aaa;
   font-style: italic;
   text-align: center;
-  margin-top: 3em;
+  padding: 3em 0;
+}
+
+@media (max-width: 480px) {
+  .tsb-board .tsb-col-num {
+    display: none;
+  }
 }
 
 /* Responsive: stack on mobile */

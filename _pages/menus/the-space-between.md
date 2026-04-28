@@ -6,24 +6,32 @@ author_profile: false
 ---
 
 <div class="tsb-intro">
-  <p>Between the notes, between the performances, between the cities — this is where thoughts live.
-  A quiet space for words that don't belong on a stage.</p>
+  Between the notes, between the performances, between the cities —<br>
+  this is where thoughts live.
 </div>
 
 {% assign thoughts = site.posts | where_exp: "post", "post.categories contains 'thoughts'" | sort: "date" | reverse %}
 
 {% if thoughts.size > 0 %}
-  <div class="tsb-entries">
+<table class="tsb-board">
+  <thead>
+    <tr>
+      <th class="tsb-col-num">No.</th>
+      <th class="tsb-col-title">제목</th>
+      <th class="tsb-col-date">날짜</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign total = thoughts.size %}
     {% for post in thoughts %}
-      <article class="tsb-entry">
-        <time class="tsb-entry__date">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h2 class="tsb-entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {% if post.excerpt %}
-          <p class="tsb-entry__excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
-        {% endif %}
-      </article>
+    <tr>
+      <td class="tsb-col-num">{{ total | minus: forloop.index0 }}</td>
+      <td class="tsb-col-title"><a href="{{ post.url }}">{{ post.title }}</a></td>
+      <td class="tsb-col-date">{{ post.date | date: "%Y.%m.%d" }}</td>
+    </tr>
     {% endfor %}
-  </div>
+  </tbody>
+</table>
 {% else %}
-  <p class="tsb-empty">The first entry is yet to be written...</p>
+<p class="tsb-empty">아직 작성된 글이 없습니다.</p>
 {% endif %}
