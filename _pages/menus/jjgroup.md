@@ -2,7 +2,7 @@
 layout: pages
 author_profile: false
 title: "JJ Group"
-title_html: '<span class="homepage-concerts__gold">JJ Group</span>'
+title_html: 'JJ Group'
 permalink: /jjgroup/
 ---
 

@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: 'About <span class="homepage-concerts__gold">JJ</span>'
+  - title: "About JJ"
     url: /about
     descrition: About myself
-  - title: '<span class="homepage-concerts__gold">JJ Group</span>'
+  - title: "JJ Group"
     url: /jjgroup
     descrition: JJ Group
   - title: "Music"
