@@ -159,12 +159,13 @@ permalink: /jjgroup/
 </div>
 
 <!-- Past Concerts -->
-{% if past.size > 0 %}
+{% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
+{% if jj_past.size > 0 %}
 <h2>Past Concerts</h2>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
-    {% for concert in past %}
+    {% for concert in jj_past %}
       <li class="homepage-concerts__item" style="opacity: 0.7;">
         <span class="homepage-concerts__date">{{ concert.date | date: "%b %d, %Y" }}</span>
         <span class="homepage-concerts__details">
