@@ -6,6 +6,41 @@ permalink: /shop/sheet-music/
 
 <a href="/shop/">← Back to Shop</a>
 
+## Lead Sheets
+
+<div style="display: flex; flex-direction: column; gap: 1.5em; margin-bottom: 1.5em;">
+
+  <div style="display: flex; align-items: flex-start; gap: 1.2em; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 180px;">
+      <strong><a href="https://jazzydusmusic.gumroad.com/l/oksbj" target="_blank">The Space Between (Lead Sheet)</a></strong>
+    </div>
+    <div style="flex: 2; min-width: 240px;">
+      {% include video id="AGzk_iDnA6c" provider="youtube" %}
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 1.2em; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 180px;">
+      <strong><a href="https://jazzydusmusic.gumroad.com/l/aoyecc" target="_blank">My Energy My Motive (Lead Sheet)</a></strong>
+    </div>
+    <div style="flex: 2; min-width: 240px;">
+      {% include video id="8KTYiMJaDHo" provider="youtube" %}
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 1.2em; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 180px;">
+      <strong><a href="https://jazzydusmusic.gumroad.com/l/pqpyet" target="_blank">I Wish I Could Hear You (Lead Sheet)</a></strong>
+    </div>
+    <div style="flex: 2; min-width: 240px;">
+      {% include video id="H0iCFHhryZo" provider="youtube" %}
+    </div>
+  </div>
+
+</div>
+
+---
+
 ## Sheet Music — Gumroad
 
 - <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">Minor 2-5-1 Voicings using Locrian#2 Diatonic Chords</a>
