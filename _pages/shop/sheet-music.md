@@ -49,6 +49,7 @@ permalink: /shop/sheet-music/
 - <a href="https://jazzydusmusic.gumroad.com/l/JCupaZ" target="_blank">Polka Dots and Moonbeams (Jazz Piano Arrangement)</a>
 - <a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">6 Beautiful Major 7th Chords for Piano</a>
 - <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">Pop Ballad (Key of Eb, F, G)</a>
+- <a href="https://jazzydusmusic.gumroad.com/l/icojmt" target="_blank">The Chicken Funk Piano Idea</a>
 
 ---
 
