@@ -3,99 +3,86 @@ layout: "pages"
 title: "Shop"
 permalink: /shop/
 ---
-## Price
-<img src="https://jjmusic-online.github.io/assets/images/jjprice8.jpg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
-<img src="https://jjmusic-online.github.io/assets/images/jjprice9.jpg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
 
-**In-person Piano Lesson: 30 min / 35€**
+<style>
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 1.5em;
+  margin-top: 1.5em;
+}
+.shop-card {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 8px;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+.shop-card h2 {
+  margin: 0 0 0.2em;
+  font-size: 1.15em;
+}
+.shop-card p {
+  margin: 0;
+  flex: 1;
+}
+.shop-card img {
+  border-radius: 4px;
+  max-width: 200px;
+  width: 100%;
+}
+.shop-card .coming-soon {
+  font-style: italic;
+  opacity: 0.6;
+}
+</style>
 
+<div class="shop-grid">
 
-## Lessons - Gumroad
-## Voicing Workshop
-<img src="https://jjmusic-online.github.io/assets/images/voicingfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
-- <a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
-    보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
-</a>
-- <a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank">
-    Voicing Workshop 6 Weeks (U.S or $)
-</a>  
-- <a href="https://jazzydusmusic.gumroad.com/l/qmczn" target="_blank">
-    Voicing Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a> 
+  <!-- 1. Journey Together Album -->
+  <div class="shop-card">
+    <h2>Journey Together</h2>
+    <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank">
+      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" />
+    </a>
+    <p>Debut album by Jiyeon Jeon — released December 2025.</p>
+    <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
+  </div>
 
-## Funk Piano Workshop
+  <!-- 2. Online Lesson -->
+  <div class="shop-card">
+    <h2>Online Lesson</h2>
+    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.</p>
+    <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
+  </div>
 
-<img src="https://jjmusic-online.github.io/assets/images/funkfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
-- <a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
-    펑크피아노 특강 6주 Funk Workshop 6 Weeks (South Korea)
-</a> 
-- <a href="https://jazzydusmusic.gumroad.com/l/nnxst" target="_blank">
-    Funk Workshop 6 Weeks (U.S or $)
-</a>  
-- <a href="https://jazzydusmusic.gumroad.com/l/egqokm" target="_blank">
-    Funk Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a>  
+  <!-- 3. Collaboration Lesson -->
+  <div class="shop-card">
+    <h2>Collaboration Lesson</h2>
+    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.</p>
+    <a href="/shop/collaboration-lesson/" class="btn btn--primary">View Details</a>
+  </div>
 
-## Improvisation Workshop
+  <!-- 4. Sheet Music -->
+  <div class="shop-card">
+    <h2>Sheet Music</h2>
+    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.</p>
+    <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
+  </div>
 
-<img src="https://jjmusic-online.github.io/assets/images/improfoto.jpeg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
-- <a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
-    즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
-</a>  
-- <a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank">
-    Improv Workshop 6 Weeks (U.S or $)
-</a>
-- <a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
-    Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
- </a> 
+  <!-- 5. MIDI Files -->
+  <div class="shop-card">
+    <h2>MIDI Files</h2>
+    <p class="coming-soon">Coming soon — stay tuned!</p>
+  </div>
 
-## Essential Lessons for 20 Weeks
+  <!-- 6. Offline Lesson -->
+  <div class="shop-card">
+    <h2>Offline Lesson</h2>
+    <p>In-person piano lesson in Berlin.</p>
+    <p><strong>30 min / 35€</strong></p>
+    <p>Contact: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a></p>
+  </div>
 
-<img src="https://jjmusic-online.github.io/assets/images/piano20weeks.jpg" alt="JJ Photo of JJ"
-	title="Photo of JJ" style="min-width: 10px" />
-- <a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
-    20주 단기특강
- </a> 
-- <a href="https://jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
-    20 Weeks Essential Workshop in English
- </a>
-- <a href="https://www.piareno.com/product/jj_1kor" target="_blank">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어</a>
-<a href="https://www.piareno.com/product/jj_1kor" target="_blank">
-  <img src="/assets/images/Screenshot 2026-04-24 at 23.25.56.png" alt="피아리노 온라인 레슨 한국어" style="max-width: 300px; display: block; margin: 8px 0;" />
-</a>
-- <a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English</a>
-<a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">
-  <img src="/assets/images/Screenshot 2026-04-24 at 23.26.34.png" alt="Piareno Online Lesson English" style="max-width: 300px; display: block; margin: 8px 0;" />
-</a>
-
-
-## Sheet Music - Gumroad
-
-- <a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
-    Minor 2-5-1 Voicings using Lociran#2 Diatonic Chords
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#rQKhu" target="_blank">
-    You are in me Project #1. m7(b5)voicing 연구 12Keys PDF(악보) + Lecture(비공개강의)
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#gFFEsD" target="_blank">
-    Funk Piano (Key of F) 3 Tips for Funk Piano
-</a>
-- <a href="https://gumroad.com/jazzydusmusic#JCupaZ" target="_blank">
-    Polka dots and Moonbeams (Jazzpiano Arrangement)
-</a>
-- <a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
-    6 Beautiful Major 7th Chords for Piano
-- <a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
-    Pop Ballad (Key of Eb,F, G)  
-
-## Sheet Music - mapianist.com
-
-- <a href="https://www.mapianist.com/profile/670590/main" target="_blank">
-    Artist's Page
-
-## More Infos : jazzydusmusic@gmail.com
+</div>
