@@ -69,14 +69,14 @@ permalink: /shop/
 
   <!-- 2. Sheet Music -->
   <div class="shop-card">
-    <h2>Sheet Music</h2>
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Sheet Music</h2>
     <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.</p>
     <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 3. MIDI Files -->
   <div class="shop-card">
-    <h2>MIDI Files</h2>
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
     <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
     <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
   </div>
@@ -104,7 +104,7 @@ permalink: /shop/
 
   <!-- 6. Offline Lesson -->
   <div class="shop-card">
-    <h2>Offline Lesson</h2>
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Offline Lesson</h2>
     <p>In-person piano lesson in Berlin.</p>
     <p><strong>30 min / 35€</strong></p>
     <p>Contact: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a></p>
