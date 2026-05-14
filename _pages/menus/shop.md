@@ -77,7 +77,8 @@ permalink: /shop/
   <!-- 3. MIDI Files -->
   <div class="shop-card">
     <h2>MIDI Files</h2>
-    <p class="coming-soon">Coming soon — stay tuned!</p>
+    <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
+    <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 4. Online Lesson -->
