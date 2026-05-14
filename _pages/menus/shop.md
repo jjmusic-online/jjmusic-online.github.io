@@ -22,12 +22,29 @@ permalink: /shop/
 .shop-card h2 {
   margin: 0 0 0.2em;
   font-size: 1.15em;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+.shop-card h2 img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  border-radius: 0;
+  max-width: none;
 }
 .shop-card p {
   margin: 0;
   flex: 1;
 }
-.shop-card img {
+.shop-card .card-photo {
+  border-radius: 4px;
+  max-width: 100%;
+  width: 100%;
+  object-fit: cover;
+  max-height: 160px;
+}
+.shop-card .album-cover {
   border-radius: 4px;
   max-width: 200px;
   width: 100%;
@@ -44,37 +61,44 @@ permalink: /shop/
   <div class="shop-card">
     <h2>Journey Together</h2>
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank">
-      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" />
+      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="album-cover" />
     </a>
     <p>Debut album by Jiyeon Jeon — released December 2025.</p>
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
   </div>
 
-  <!-- 2. Online Lesson -->
-  <div class="shop-card">
-    <h2>Online Lesson</h2>
-    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.</p>
-    <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
-  </div>
-
-  <!-- 3. Collaboration Lesson -->
-  <div class="shop-card">
-    <h2>Collaboration Lesson</h2>
-    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.</p>
-    <a href="/shop/collaboration-lesson/" class="btn btn--primary">View Details</a>
-  </div>
-
-  <!-- 4. Sheet Music -->
+  <!-- 2. Sheet Music -->
   <div class="shop-card">
     <h2>Sheet Music</h2>
     <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.</p>
     <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
   </div>
 
-  <!-- 5. MIDI Files -->
+  <!-- 3. MIDI Files -->
   <div class="shop-card">
     <h2>MIDI Files</h2>
     <p class="coming-soon">Coming soon — stay tuned!</p>
+  </div>
+
+  <!-- 4. Online Lesson -->
+  <div class="shop-card">
+    <h2>
+      <img src="/assets/images/88x88.png" alt="JJ Music Logo" />
+      Online Lesson
+    </h2>
+    <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lesson" class="card-photo" />
+    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.</p>
+    <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
+  </div>
+
+  <!-- 5. Collaboration Lesson -->
+  <div class="shop-card">
+    <h2>
+      <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" />
+      Collaboration Lesson
+    </h2>
+    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.</p>
+    <a href="/shop/collaboration-lesson/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 6. Offline Lesson -->
