@@ -63,14 +63,14 @@ permalink: /shop/
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank">
       <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="album-cover" />
     </a>
-    <p>Debut album by Jiyeon Jeon — released December 2025.</p>
+    <p>Debut album by Jiyeon Jeon — released December 2025.<br>고품질의 음원을 구매하시고 뮤지션을 응원해 주세요 :)</p>
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
   </div>
 
   <!-- 2. Sheet Music -->
   <div class="shop-card">
     <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Sheet Music</h2>
-    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.</p>
+    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.<br>JJ 자작곡 리드시트 및 발라드 펑크 보이싱을 완벽하게 채보한 악보 구매</p>
     <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
   </div>
 
@@ -88,7 +88,7 @@ permalink: /shop/
       Online Lesson
     </h2>
     <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lesson" class="card-photo" />
-    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.</p>
+    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.<br>전세계 어디서나 3개국어로 진행하는 맞춤 온라인 레슨</p>
     <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
   </div>
 
@@ -98,14 +98,14 @@ permalink: /shop/
       <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" />
       Collaboration Lesson
     </h2>
-    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.</p>
+    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 맛있는 솔로잉 레슨 (Tasty Soloing)</p>
     <a href="/shop/collaboration-lesson/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 6. Offline Lesson -->
   <div class="shop-card">
     <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Offline Lesson</h2>
-    <p>In-person piano lesson in Berlin.</p>
+    <p>In-person piano lesson in Berlin.<br>오프라인 레슨</p>
     <p><strong>30 min / 35€</strong></p>
     <p>Contact: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a></p>
   </div>
