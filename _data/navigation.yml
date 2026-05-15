@@ -15,9 +15,9 @@ main:
   - title: "Free PDF"
     url: /freepdf
     descrition: Free PDF
-  - title: "Lessons"
-    url: /lessons
-    descrition: Jazz Piano lessons
+  # - title: "Lessons"
+  #   url: /lessons
+  #   descrition: Jazz Piano lessons
   - title: "Shop"
     url: /shop
     descrition: shop for sheet music and lectures
