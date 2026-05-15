@@ -47,6 +47,10 @@ JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요
 
 </div>
 
+<div style="text-align: center; margin-top: 1em;">
+  <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" style="max-width: 320px; width: 100%; border-radius: 8px;">
+</div>
+
 ---
 
 More info: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a>
