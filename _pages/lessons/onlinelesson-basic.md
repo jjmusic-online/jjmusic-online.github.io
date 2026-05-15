@@ -2,6 +2,7 @@
 layout: "pages"
 title: " 반주법 레슨 "
 permalink: /lessons/onlinelesson-basic
+published: false
 ---
 <a href="/lessons">< Back to Lessons</a>
 
