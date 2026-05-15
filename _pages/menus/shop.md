@@ -96,21 +96,21 @@ permalink: /shop/
 
   <!-- 5. Collaboration Lesson -->
   <div class="shop-card">
-    <h2>
-      <span style="position: relative; display: inline-flex; align-items: center; width: 72px; height: 52px; flex-shrink: 0;">
-        <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 42px; height: 42px; position: absolute; left: 0; top: 50%; transform: translateY(-50%); z-index: 1;" />
-        <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" style="width: 48px; height: 48px; position: absolute; left: 24px; top: 50%; transform: translateY(-50%); z-index: 2;" />
-      </span>
-      Collaboration Lesson
+    <h2 style="display: flex; align-items: center; gap: 0.3em; flex-wrap: wrap;">
+      <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+      JJ Music
+      <span style="font-size: 0.9em; opacity: 0.6;">✕</span>
+      <img src="/assets/images/Screenshot%202026-05-14%20at%2021.59.01.png" alt="Piareno Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+      Piareno
     </h2>
     <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 <strong>맛있는 솔로잉</strong> 레슨 (<strong>Tasty Soloing</strong>)</p>
     <div style="display: flex; gap: 0.5em; align-items: center; margin-top: 0.3em;">
       <a href="https://www.piareno.com/product/jj_1kor" target="_blank">
-        <img src="/assets/images/Screenshot%202026-04-24%20at%2023.25.56.png" alt="맛있는솔로잉 한국어" style="width: 36px; height: 36px; object-fit: cover; border-radius: 4px;" />
+        <img src="/assets/images/Screenshot%202026-04-24%20at%2023.25.56.png" alt="맛있는솔로잉 한국어" style="width: 36px; height: 36px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;" />
       </a>
       <span style="font-size: 0.75em;">한국어</span>
       <a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">
-        <img src="/assets/images/Screenshot%202026-04-24%20at%2023.26.34.png" alt="Tasty Soloing English" style="width: 36px; height: 36px; object-fit: cover; border-radius: 4px;" />
+        <img src="/assets/images/Screenshot%202026-04-24%20at%2023.26.34.png" alt="Tasty Soloing English" style="width: 36px; height: 36px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;" />
       </a>
       <span style="font-size: 0.75em;">English</span>
     </div>
