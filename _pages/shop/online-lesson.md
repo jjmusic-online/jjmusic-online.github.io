@@ -15,9 +15,21 @@ permalink: /shop/online-lesson/
 
 #### 온라인레슨 Online Lessons
 
-- <a href="/lessons/onlinelesson-korean">온라인 개인레슨 강의 (1:1) 50분 (한국어)</a>
-- <a href="/lessons/onlinelesson-eng">Online Lesson (1:1) 50 Minutes (English)</a>
-- <a href="/lessons/onlinelesson-deutsch">Online Einzelunterricht (1:1) 50 Minuten (Deutsch)</a>
+<div style="display: flex; gap: 2em; flex-wrap: wrap; margin: 1em 0;">
+
+  <a href="/lessons/onlinelesson-korean" style="text-decoration: none;">
+    <span style="font-size: 2.2em; display: flex; align-items: center; justify-content: center; width: 2.2em; height: 2.2em; border-radius: 50%; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.18); background: #fff;">🇰🇷</span>
+  </a>
+
+  <a href="/lessons/onlinelesson-eng" style="text-decoration: none;">
+    <span style="font-size: 2.2em; display: flex; align-items: center; justify-content: center; width: 2.2em; height: 2.2em; border-radius: 50%; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.18); background: #fff;">🇬🇧</span>
+  </a>
+
+  <a href="/lessons/onlinelesson-deutsch" style="text-decoration: none;">
+    <span style="font-size: 2.2em; display: flex; align-items: center; justify-content: center; width: 2.2em; height: 2.2em; border-radius: 50%; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.18); background: #fff;">🇩🇪</span>
+  </a>
+
+</div>
 
 <img src="https://jjmusic-online.github.io/assets/images/Screenshotall.jpeg" alt="JJ Photo of JJ" style="min-width: 150px" />
 
