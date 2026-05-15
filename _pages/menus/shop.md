@@ -87,9 +87,9 @@ permalink: /shop/
   <div class="shop-card">
     <h2>
       <img src="/assets/images/88x88.png" alt="JJ Music Logo" />
-      Online Lesson
+      Online Lessons
     </h2>
-    <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lesson" class="card-photo" />
+    <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lessons" class="card-photo" />
     <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.<br>전세계 어디서나 3개국어로 진행하는 맞춤 온라인 레슨</p>
     <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
   </div>
@@ -137,11 +137,12 @@ permalink: /shop/
     <p><strong>Collaboration One-Day Seminar</strong></p>
     <p>📅 2026년 6월 20일 한국시간 저녁 8시 ~ 10시<br><strong>펑크피아노의 비밀</strong> 원데이 세미나 · 한국어로 진행</p>
     <p style="font-size: 0.85em; opacity: 0.8;">One-Day Seminar: Secrets of Funk Piano<br>June 20, 2026 · 8–10 PM (KST) · In Korean</p>
+    <a href="/shop/onemamdahye-seminar/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 7. Offline Lesson -->
   <div class="shop-card">
-    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Offline Lesson</h2>
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Offline Lessons</h2>
     <p>In-person piano lesson in Berlin.<br>오프라인 레슨</p>
     <p><strong>30 min / 35€</strong></p>
     <p>Contact: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a></p>
