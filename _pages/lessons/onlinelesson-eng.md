@@ -2,7 +2,6 @@
 layout: "pages"
 title: "Online Lesson(in English)"
 permalink: /lessons/onlinelesson-eng
-published: false
 ---
 <a href="/lessons">< Back to Lessons</a>
 

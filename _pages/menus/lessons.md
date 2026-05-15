@@ -2,7 +2,6 @@
 layout: "pages"
 title: "Piano Lessons"
 permalink: /lessons/
-published: false
 ---
 
 #### 온라인레슨 Online Lessons
