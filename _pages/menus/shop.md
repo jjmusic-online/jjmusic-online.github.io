@@ -63,7 +63,7 @@ permalink: /shop/
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank">
       <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="album-cover" />
     </a>
-    <p>Debut album by Jiyeon Jeon — released December 2025.<br>Support JJ by purchasing high-quality music :)<br>고품질의 음원을 구매하시고 JJ를 응원해 주세요 :)</p>
+    <p>Support JJ by purchasing high-quality music :)<br>고품질의 음원을 구매하시고 JJ를 응원해 주세요 :)</p>
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
   </div>
 
