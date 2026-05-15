@@ -96,11 +96,15 @@ permalink: /shop/
 
   <!-- 5. Collaboration Lesson -->
   <div class="shop-card">
-    <h2 style="display: flex; align-items: center; gap: 0.3em; flex-wrap: wrap;">
-      <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+    <h2 style="display: flex; align-items: center; gap: 0.4em; flex-wrap: wrap;">
+      <a href="https://www.youtube.com/@jjmusic-online" target="_blank">
+        <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+      </a>
       JJ Music
-      <span style="font-size: 0.9em; opacity: 0.6;">✕</span>
-      <img src="/assets/images/Screenshot%202026-05-14%20at%2021.59.01.png" alt="Piareno Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
+      <span style="font-size: 0.75em; font-weight: 900; opacity: 0.85;">✕</span>
+      <a href="https://www.piareno.com/product/jj_1kor" target="_blank">
+        <img src="/assets/images/Screenshot%202026-05-14%20at%2021.59.01.png" alt="Piareno Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: contain; background: #fff; padding: 2px;" />
+      </a>
       Piareno
     </h2>
     <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 <strong>맛있는 솔로잉</strong> 레슨 (<strong>Tasty Soloing</strong>)</p>
@@ -119,12 +123,12 @@ permalink: /shop/
 
   <!-- 6. Collaboration One-Day Seminar -->
   <div class="shop-card">
-    <h2 style="display: flex; align-items: center; gap: 0.3em; flex-wrap: wrap;">
+    <h2 style="display: flex; align-items: center; gap: 0.4em; flex-wrap: wrap;">
       <a href="https://www.youtube.com/@jjmusic-online" target="_blank">
         <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
       </a>
       JJ Music
-      <span style="font-size: 0.9em; opacity: 0.6;">✕</span>
+      <span style="font-size: 0.75em; font-weight: 900; opacity: 0.85;">✕</span>
       <a href="https://www.youtube.com/@onmamdahye" target="_blank">
         <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜 Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover;" />
       </a>
