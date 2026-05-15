@@ -1,6 +1,6 @@
 ---
 layout: "pages"
-title: "Free PDF"
+title: "Free PDFs"
 permalink: /freepdf/
 ---
 

@@ -12,9 +12,9 @@ main:
   - title: "Gallery"
     url: /gallery
     descrition: photos from JJ  
-  - title: "Free PDF"
+  - title: "Free PDFs"
     url: /freepdf
-    descrition: Free PDF
+    descrition: Free PDFs
   # - title: "Lessons"
   #   url: /lessons
   #   descrition: Jazz Piano lessons
