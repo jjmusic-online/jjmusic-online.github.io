@@ -95,7 +95,10 @@ permalink: /shop/
   <!-- 5. Collaboration Lesson -->
   <div class="shop-card">
     <h2>
-      <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" style="width: 52px; height: 52px;" />
+      <span style="position: relative; display: inline-flex; align-items: center; width: 72px; height: 52px; flex-shrink: 0;">
+        <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 42px; height: 42px; position: absolute; left: 0; top: 50%; transform: translateY(-50%); z-index: 1;" />
+        <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" style="width: 48px; height: 48px; position: absolute; left: 24px; top: 50%; transform: translateY(-50%); z-index: 2;" />
+      </span>
       Collaboration Lesson
     </h2>
     <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 맛있는 솔로잉 레슨 (Tasty Soloing)</p>
