@@ -130,7 +130,7 @@ permalink: /shop/
       </a>
       Onmamdahye
     </h2>
-    <p><strong>콜라보레이션 원데이 세미나</strong></p>
+    <p><strong>Collaboration One-Day Seminar</strong></p>
     <p>📅 2026년 6월 20일 한국시간 저녁 8시 ~ 10시<br><strong>펑크피아노의 비밀</strong> 원데이 세미나 · 한국어로 진행</p>
     <p style="font-size: 0.85em; opacity: 0.8;">One-Day Seminar: Secrets of Funk Piano<br>June 20, 2026 · 8–10 PM (KST) · In Korean</p>
   </div>
