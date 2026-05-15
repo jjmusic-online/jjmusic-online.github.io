@@ -103,7 +103,7 @@ permalink: /shop/
       </span>
       Collaboration Lesson
     </h2>
-    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 맛있는 솔로잉 레슨 (Tasty Soloing)</p>
+    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 <strong>맛있는 솔로잉</strong> 레슨 (<strong>Tasty Soloing</strong>)</p>
     <div style="display: flex; gap: 0.5em; align-items: center; margin-top: 0.3em;">
       <a href="https://www.piareno.com/product/jj_1kor" target="_blank">
         <img src="/assets/images/Screenshot%202026-04-24%20at%2023.25.56.png" alt="맛있는솔로잉 한국어" style="width: 36px; height: 36px; object-fit: cover; border-radius: 4px;" />
