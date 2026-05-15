@@ -78,6 +78,7 @@ permalink: /shop/
   <div class="shop-card">
     <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
     <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
+    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" class="card-photo" />
     <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
   </div>
 

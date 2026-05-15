@@ -137,11 +137,11 @@
             </li><li class="masthead__menu-item">
               <a href="/gallery">Gallery</a>
             </li><li class="masthead__menu-item">
-              <a href="/freepdf">Free PDF</a>
-            </li><li class="masthead__menu-item">
-              <a href="/lessons">Lessons</a>
+              <a href="/freepdf">Free PDFs</a>
             </li><li class="masthead__menu-item">
               <a href="/shop">Shop</a>
+            </li><li class="masthead__menu-item">
+              <a href="/the-space-between">The Space Between</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -187,104 +187,117 @@
     
       <h1 id="page-title" class="page__title">Shop</h1>
     
-    <h2 id="price">Price</h2>
-<p><img src="https://jjmusic-online.github.io/assets/images/jjprice8.jpg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" />
-<img src="https://jjmusic-online.github.io/assets/images/jjprice9.jpg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" /></p>
+    <style>
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 1.5em;
+  margin-top: 1.5em;
+}
+.shop-card {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 8px;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+.shop-card h2 {
+  margin: 0 0 0.2em;
+  font-size: 1.15em;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+.shop-card h2 img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  border-radius: 0;
+  max-width: none;
+}
+.shop-card p {
+  margin: 0;
+  flex: 1;
+}
+.shop-card .card-photo {
+  border-radius: 4px;
+  max-width: 100%;
+  width: 100%;
+  object-fit: cover;
+  max-height: 160px;
+}
+.shop-card .album-cover {
+  border-radius: 4px;
+  max-width: 200px;
+  width: 100%;
+}
+.shop-card .coming-soon {
+  font-style: italic;
+  opacity: 0.6;
+}
+</style>
 
-<h2 id="lessons---gumroad">Lessons - Gumroad</h2>
-<h2 id="voicing-workshop">Voicing Workshop</h2>
-<p><img src="https://jjmusic-online.github.io/assets/images/voicingfoto.jpeg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" /></p>
-<ul>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/tfiojd" target="_blank">
-  보이싱 특강 6주 Voicing Workshop 6 Weeks (South Korea)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/dxvyy" target="_blank">
-  Voicing Workshop 6 Weeks (U.S or $)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/qmczn" target="_blank">
-  Voicing Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a></li>
-</ul>
+<div class="shop-grid">
 
-<h2 id="funk-piano-workshop">Funk Piano Workshop</h2>
+  <!-- 1. Journey Together Album -->
+  <div class="shop-card">
+    <h2>Journey Together</h2>
+    <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank">
+      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="album-cover" />
+    </a>
+    <p>Debut album by Jiyeon Jeon — released December 2025.<br />고품질의 음원을 구매하시고 뮤지션을 응원해 주세요 :)</p>
+    <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
+  </div>
 
-<p><img src="https://jjmusic-online.github.io/assets/images/funkfoto.jpeg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" /></p>
-<ul>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/kyjzp" target="_blank">
-  펑크피아노 특강 6주 Funk Workshop 6 Weeks (South Korea)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/nnxst" target="_blank">
-  Funk Workshop 6 Weeks (U.S or $)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/egqokm" target="_blank">
-  Funk Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
-</a></li>
-</ul>
+  <!-- 2. Sheet Music -->
+  <div class="shop-card">
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Sheet Music</h2>
+    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.<br />JJ 자작곡 리드시트 및 발라드 펑크 보이싱을 완벽하게 채보한 악보 구매</p>
+    <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
+  </div>
 
-<h2 id="improvisation-workshop">Improvisation Workshop</h2>
+  <!-- 3. MIDI Files -->
+  <div class="shop-card">
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
+    <p>Want to know JJ's secret to playing? Check out the MIDI files!<br />JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
+    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" class="card-photo" />
+    <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
+  </div>
 
-<p><img src="https://jjmusic-online.github.io/assets/images/improfoto.jpeg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" /></p>
-<ul>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/rutuv" target="_blank">
-  즉흥연주 특강 6주 Improv Workshop 6 Weeks (South Korea)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/wehwc" target="_blank">
-  Improv Workshop 6 Weeks (U.S or $)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/iazso" target="_blank">
-  Improv Workshop 6 Weeks (E.U) *PayPal oder überweisungen auch möglich.
- </a></li>
-</ul>
+  <!-- 4. Online Lesson -->
+  <div class="shop-card">
+    <h2>
+      <img src="/assets/images/88x88.png" alt="JJ Music Logo" />
+      Online Lesson
+    </h2>
+    <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lesson" class="card-photo" />
+    <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.<br />전세계 어디서나 3개국어로 진행하는 맞춤 온라인 레슨</p>
+    <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
+  </div>
 
-<h2 id="essential-lessons-for-20-weeks">Essential Lessons for 20 Weeks</h2>
+  <!-- 5. Collaboration Lesson -->
+  <div class="shop-card">
+    <h2>
+      <span style="position: relative; display: inline-flex; align-items: center; width: 72px; height: 52px; flex-shrink: 0;">
+        <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width: 42px; height: 42px; position: absolute; left: 0; top: 50%; transform: translateY(-50%); z-index: 1;" />
+        <img src="/assets/images/Screenshot 2026-05-14 at 21.59.01.png" alt="Piareno Logo" style="width: 48px; height: 48px; position: absolute; left: 24px; top: 50%; transform: translateY(-50%); z-index: 2;" />
+      </span>
+      Collaboration Lesson
+    </h2>
+    <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br />피아리노와 JJ Music이 함께 만든 맛있는 솔로잉 레슨 (Tasty Soloing)</p>
+    <a href="/shop/collaboration-lesson/" class="btn btn--primary">View Details</a>
+  </div>
 
-<p><img src="https://jjmusic-online.github.io/assets/images/piano20weeks.jpg" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 10px" /></p>
-<ul>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/smbtql" target="_blank">
-  20주 단기특강
- </a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/tezvv" target="_blank">
-  20 Weeks Essential Workshop in English
- </a></li>
-  <li><a href="https://www.piareno.com/product/jj_1kor" target="_blank">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어</a>
-<a href="https://www.piareno.com/product/jj_1kor" target="_blank">
-<img src="/assets/images/Screenshot 2026-04-24 at 23.25.56.png" alt="피아리노 온라인 레슨 한국어" style="max-width: 300px; display: block; margin: 8px 0;" />
-</a></li>
-  <li><a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">1:1 Kakao Talk Online Lesson at the Piareno (Tasty Soloing) English</a>
-<a href="https://www.sixshop.com/piareno_en/product/JJ_1" target="_blank">
-<img src="/assets/images/Screenshot 2026-04-24 at 23.26.34.png" alt="Piareno Online Lesson English" style="max-width: 300px; display: block; margin: 8px 0;" />
-</a></li>
-</ul>
+  <!-- 6. Offline Lesson -->
+  <div class="shop-card">
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Offline Lesson</h2>
+    <p>In-person piano lesson in Berlin.<br />오프라인 레슨</p>
+    <p><strong>30 min / 35€</strong></p>
+    <p>Contact: <a href="mailto:jazzydusmusic@gmail.com">jazzydusmusic@gmail.com</a></p>
+  </div>
 
-<h2 id="sheet-music---gumroad">Sheet Music - Gumroad</h2>
-
-<ul>
-  <li><a href="https://gumroad.com/jazzydusmusic#mSlRxY" target="_blank">
-  Minor 2-5-1 Voicings using Lociran#2 Diatonic Chords
-</a></li>
-  <li><a href="https://gumroad.com/jazzydusmusic#rQKhu" target="_blank">
-  You are in me Project #1. m7(b5)voicing 연구 12Keys PDF(악보) + Lecture(비공개강의)
-</a></li>
-  <li><a href="https://gumroad.com/jazzydusmusic#gFFEsD" target="_blank">
-  Funk Piano (Key of F) 3 Tips for Funk Piano
-</a></li>
-  <li><a href="https://gumroad.com/jazzydusmusic#JCupaZ" target="_blank">
-  Polka dots and Moonbeams (Jazzpiano Arrangement)
-</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/rScwd" target="_blank">
-  6 Beautiful Major 7th Chords for Piano</a></li>
-  <li><a href="https://jazzydusmusic.gumroad.com/l/yThDM" target="_blank">
-  Pop Ballad (Key of Eb,F, G)</a></li>
-</ul>
-
-<h2 id="sheet-music---mapianistcom">Sheet Music - mapianist.com</h2>
-
-<ul>
-  <li><a href="https://www.mapianist.com/profile/670590/main" target="_blank">
-  Artist’s Page</a></li>
-</ul>
-
-<h2 id="more-infos--jazzydusmusicgmailcom">More Infos : jazzydusmusic@gmail.com</h2>
+</div>
 
 
 
@@ -300,13 +313,13 @@
 
 <div class="email-cta-section">
   <div class="email-cta-inner">
-    <h2 class="email-cta-title">Send an Email to JJ</h2>
+    <h2 class="email-cta-title">Send an Email to <span class="homepage-concerts__gold">JJ</span></h2>
     <p class="email-cta-text">Have a question about performances, collaborations, or lessons? I'd love to hear from you.</p>
     <a href="mailto:jazzydusmusic@gmail.com" class="email-cta-button">
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 512 512" aria-hidden="true" style="vertical-align: middle; margin-right: 8px;">
         <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
       </svg>
-      Send Email to JJ
+      Send Email to <span class="homepage-concerts__gold">JJ</span>
     </a>
   </div>
 </div>
