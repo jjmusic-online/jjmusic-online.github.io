@@ -80,20 +80,6 @@ permalink: /shop/
     <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
     <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
     <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" class="card-photo" />
-    <div style="display: flex; align-items: flex-start; gap: 0.8em; margin-top: 0.4em;">
-      <div style="flex: 0 0 auto; width: 80px;">
-        <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; border-radius: 4px;">
-          <iframe
-            src="https://www.youtube.com/embed/_Z--t1BVIAA"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-            allowfullscreen>
-          </iframe>
-        </div>
-      </div>
-      <div style="flex: 1; font-size: 0.9em;">
-        <strong><a href="https://jazzydusmusic.gumroad.com/l/ypzzxu" target="_blank">(MIDi file) One Way(Hillsong) Reharm</a></strong>
-      </div>
-    </div>
     <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
   </div>
 
