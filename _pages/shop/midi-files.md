@@ -75,6 +75,21 @@ JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요
     </div>
   </div>
 
+  <div style="display: flex; align-items: flex-start; gap: 1.2em; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 180px;">
+      <strong><a href="https://jazzydusmusic.gumroad.com/l/pfoip" target="_blank">(MIDI File) 십자가 그사랑 The Love of the Cross</a></strong>
+    </div>
+    <div style="flex: 0 0 auto; width: 90px;">
+      <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden;">
+        <iframe
+          src="https://www.instagram.com/reel/DB7cdWboKtP/embed/"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ---
