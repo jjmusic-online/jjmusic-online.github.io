@@ -67,23 +67,7 @@ permalink: /shop/
     <a href="https://jiyeonjeon.bandcamp.com/album/journey-together" target="_blank" class="btn btn--primary">Buy on Bandcamp</a>
   </div>
 
-  <!-- 2. Sheet Music -->
-  <div class="shop-card">
-    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Sheet Music</h2>
-    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.<br>JJ 자작곡 리드시트 및 발라드 펑크 보이싱을 완벽하게 채보한 악보 구매</p>
-    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.41.25.png" alt="Sheet Music preview" class="card-photo" />
-    <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
-  </div>
-
-  <!-- 3. MIDI Files -->
-  <div class="shop-card">
-    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
-    <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
-    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" class="card-photo" />
-    <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
-  </div>
-
-  <!-- 4. Online Lesson -->
+  <!-- 2. Online Lesson -->
   <div class="shop-card">
     <h2>
       <img src="/assets/images/88x88.png" alt="JJ Music Logo" />
@@ -92,6 +76,22 @@ permalink: /shop/
     <img src="https://jjmusic-online.github.io/assets/images/Lessonshot.jpeg" alt="Online Lessons" class="card-photo" />
     <p>One-on-one jazz piano lessons via Zoom — tailored to your level and goals.<br>전세계 어디서나 3개국어로 진행하는 맞춤 온라인 레슨</p>
     <a href="/shop/online-lesson/" class="btn btn--primary">View Details</a>
+  </div>
+
+  <!-- 3. Sheet Music -->
+  <div class="shop-card">
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />Sheet Music</h2>
+    <p>PDF arrangements and compositions — available on Gumroad and mapianist.com.<br>JJ 자작곡 리드시트 및 발라드 펑크 보이싱을 완벽하게 채보한 악보 구매</p>
+    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.41.25.png" alt="Sheet Music preview" class="card-photo" />
+    <a href="/shop/sheet-music/" class="btn btn--primary">View Details</a>
+  </div>
+
+  <!-- 4. MIDI Files -->
+  <div class="shop-card">
+    <h2><img src="/assets/images/88x88.png" alt="JJ Music Logo" />MIDI Files</h2>
+    <p>Want to know JJ's secret to playing? Check out the MIDI files!<br>JJ의 연주의 비밀을 알고 싶나요? 미디 파일을 확인해 보세요!</p>
+    <img src="/assets/images/Screenshot%202026-05-15%20at%2010.47.58.png" alt="MIDI Files preview" class="card-photo" />
+    <a href="/shop/midi-files/" class="btn btn--primary">View Details</a>
   </div>
 
   <!-- 5. Collaboration Lesson -->
