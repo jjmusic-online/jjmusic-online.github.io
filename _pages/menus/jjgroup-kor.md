@@ -1,29 +1,34 @@
 ---
 layout: pages
 author_profile: false
-title: "Welcome to JJ Music"
-title_html: 'Welcome to JJ Music'
+title: "JJ Group 한국어"
+title_html: 'JJ Group 한국어'
+permalink: /jjgroup/jjgroup-kor
 ---
 
-<!-- Hero Video -->
+<p style="margin-bottom: 1.2em;">
+  <a href="/jjgroup/">← JJ Group (English)</a>
+</p>
+
+<!-- 히어로 영상 -->
 <section class="homepage-hero">
   <video autoplay muted loop playsinline class="homepage-hero__video">
     <source src="/assets/videos/hero-bg.mp4" type="video/mp4">
   </video>
   <div class="homepage-hero__overlay">
     <h1 class="homepage-hero__title">Jiyeon Jeon</h1>
-    <p class="homepage-hero__subtitle">Pianist, Composer, Arranger &amp; Educator</p>
+    <p class="homepage-hero__subtitle">피아니스트, 작곡가, 편곡가 &amp; 교육자</p>
   </div>
 </section>
 
-<!-- Profile -->
+<!-- 프로필 -->
 <section class="homepage-profile">
   <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
   <div class="homepage-profile__bio">
-    <p>Jiyeon Jeon (<span class="homepage-concerts__gold">JJ</span>) is a pianist, composer, arranger, and educator based in Berlin, Germany.
-    Originally from Seoul, South Korea, she has over 20 years of experience on stage and in the studio — performing in Korea, Japan, China, the USA, and Germany.</p>
-    <p>She holds degrees in Jazz Piano and Music Education, and has released more than 12 albums as a composer, arranger, and session pianist.
-    Her debut leader album <em>Journey Together</em> was released in December 2025.</p>
+    <p>전지연 (<span class="homepage-concerts__gold">JJ</span>)은 독일 베를린을 기반으로 활동하는 피아니스트, 작곡가, 편곡가, 교육자입니다.
+    대한민국 서울 출신으로, 무대와 스튜디오에서 20년 이상의 경력을 쌓아 왔으며 한국, 일본, 중국, 미국, 독일 등에서 공연을 펼쳤습니다.</p>
+    <p>재즈피아노 및 음악교육 분야의 학위를 보유하고 있으며, 작곡가, 편곡가, 세션 피아니스트로서 12장 이상의 앨범에 참여했습니다.
+    리더 데뷔 앨범 <em>Journey Together</em>는 2025년 12월에 발매되었습니다.</p>
   </div>
 </section>
 
@@ -31,35 +36,34 @@ title_html: 'Welcome to JJ Music'
 <section class="homepage-profile">
   <div class="homepage-profile__bio">
     <h2><span class="homepage-concerts__gold">JJ Group</span></h2>
-    <p><a href="/jjgroup/jjgroup-kor">JJ Group 한국어로 보기 🇰🇷</a></p>
-    <p><span class="homepage-concerts__gold">JJ Group</span> is a contemporary jazz band based in Berlin, bringing a refined approach to modern jazz that bridges the musical worlds of Germany and Korea. Built on solid, groove-oriented foundations, the band layers intricate melodies and harmonies that unfold with both precision and spontaneity.</p>
-    <p>At the heart of their sound is a deep commitment to interplay — the dynamic, organic conversations that emerge between musicians in the moment. <span class="homepage-concerts__gold">JJ Group</span> pursues a musical dialogue that is simultaneously structured and free, carefully crafted yet open to the unexpected. Their music seeks harmonic progressions that feel contemplative and bittersweet, while always carrying an undercurrent of hope.</p>
-    <p>With their debut album <em>Journey Together</em> (released December 2025), <span class="homepage-concerts__gold">JJ Group</span> announces their collective voice to the international jazz scene — a sound shaped by diverse backgrounds and shared vision, exploring the space between compositional precision and improvisational freedom. The result is music that is rhythmically compelling, melodically nuanced, and unmistakably their own.</p>
+    <p><span class="homepage-concerts__gold">JJ Group</span>은 베를린을 기반으로 활동하는 컨템포러리 재즈 밴드로, 독일과 한국의 음악 세계를 잇는 세련된 현대 재즈를 선보입니다. 탄탄한 그루브를 바탕으로, 정밀함과 즉흥성이 조화를 이루며 펼쳐지는 복잡한 멜로디와 화성을 층층이 쌓아 올립니다.</p>
+    <p>이들의 음악 중심에는 상호작용에 대한 깊은 헌신이 있습니다 — 음악가들 사이에서 순간적으로 피어오르는 역동적이고 유기적인 대화. <span class="homepage-concerts__gold">JJ Group</span>은 구조적이면서도 자유롭고, 정교하게 다듬어지면서도 예기치 않은 것에 열려 있는 음악적 대화를 추구합니다. 이들의 음악은 관조적이고 쌉쌀하면서도 늘 희망의 흐름을 품은 화성 진행을 탐구합니다.</p>
+    <p>데뷔 앨범 <em>Journey Together</em> (2025년 12월 발매)를 통해 <span class="homepage-concerts__gold">JJ Group</span>은 국제 재즈 씬에 자신들의 목소리를 알립니다 — 다양한 배경과 공유된 비전으로 빚어진 사운드로, 작곡적 정밀함과 즉흥적 자유 사이의 공간을 탐구합니다. 그 결과물은 리듬감이 넘치고, 멜로디가 섬세하며, 틀림없이 그들만의 것입니다.</p>
   </div>
 </section>
 
-<!-- Media -->
-<h2>Media</h2>
+<!-- 미디어 -->
+<h2>미디어</h2>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
 
     <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
       <span>
-        <span class="homepage-concerts__date">Mar 4, 2026</span>
+        <span class="homepage-concerts__date">2026년 3월 4일</span>
         <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">SWR Kultur im Radio</a></span>
       </span>
       <a href="/assets/images/Screenshot 2026-04-24 at 23.56.20.png">
         <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
       </a>
-      <a href="https://open.spotify.com/playlist/7yUaSDqPvYly4WOZDYcBya?si=jnj8VyurRIiKojoyrKY9WA" target="_blank" style="font-size: 0.85em;">SWR Kultur Radio Jazz vor Sechs Playlist</a>
+      <a href="https://open.spotify.com/playlist/7yUaSDqPvYly4WOZDYcBya?si=jnj8VyurRIiKojoyrKY9WA" target="_blank" style="font-size: 0.85em;">SWR Kultur Radio Jazz vor Sechs 플레이리스트</a>
     </li>
 
     <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
       <span>
-        <span class="homepage-concerts__date">Apr 2026</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://jazzpeople.co.kr/" target="_blank">Jazz People (재즈피플)</a></span>
-        <span> — Korean Jazz Magazine</span>
+        <span class="homepage-concerts__date">2026년 4월</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://jazzpeople.co.kr/" target="_blank">재즈피플 (Jazz People)</a></span>
+        <span> — 한국 재즈 매거진</span>
       </span>
       <a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png">
         <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People 재즈피플" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
@@ -68,11 +72,11 @@ title_html: 'Welcome to JJ Music'
 
     <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
       <span>
-        <span class="homepage-concerts__date">Apr 27, 2026</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS Korean Public Radio (재즈수첩)</a></span>
-        <span> — Broadcast</span>
+        <span class="homepage-concerts__date">2026년 4월 27일</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS 클래식FM (재즈수첩)</a></span>
+        <span> — 라디오 방송</span>
       </span>
-      <span style="font-size: 0.85em; padding-left: 0.2em;">Host: Hwang Deokho (황덕호)</span>
+      <span style="font-size: 0.85em; padding-left: 0.2em;">진행: 황덕호</span>
       <a href="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" target="_blank">
         <img src="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" alt="KBS 재즈수첩" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
       </a>
@@ -81,8 +85,8 @@ title_html: 'Welcome to JJ Music'
   </ul>
 </div>
 
-<!-- Videos -->
-<h2><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.6em;">Berlin</span> 🇩🇪 <span style="font-size: 0.6em;">Seoul</span> 🇰🇷</h2>
+<!-- 영상 -->
+<h2><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.6em;">베를린</span> 🇩🇪 <span style="font-size: 0.6em;">서울</span> 🇰🇷</h2>
 
 <div class="homepage-videos">
   <div>
@@ -99,7 +103,7 @@ title_html: 'Welcome to JJ Music'
   </div>
 </div>
 
-<h3><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.7em;">Worship</span></h3>
+<h3><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.7em;">예배</span></h3>
 
 <div class="homepage-videos">
   <div>
@@ -116,8 +120,8 @@ title_html: 'Welcome to JJ Music'
   </div>
 </div>
 
-<!-- Upcoming Concerts -->
-<h2>Upcoming Concerts</h2>
+<!-- 예정된 콘서트 -->
+<h2>예정된 콘서트</h2>
 
 {% assign today = site.time | date: "%Y%m%d" %}
 {% assign upcoming = "" | split: "" %}
@@ -138,15 +142,15 @@ title_html: 'Welcome to JJ Music'
     <ul class="homepage-concerts__list">
       {% for concert in upcoming %}
         <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">{{ concert.date | date: "%b %d, %Y" }}</span>
+          <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
           <span class="homepage-concerts__details">
             <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
             {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
             {% if concert.url and concert.url != "" %}
-              <a href="{{ concert.url }}" target="_blank">Tickets</a>
+              <a href="{{ concert.url }}" target="_blank">티켓</a>
             {% endif %}
             {% if concert.info and concert.info != "" %}
-              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>
               <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
             {% endif %}
           </span>
@@ -154,25 +158,25 @@ title_html: 'Welcome to JJ Music'
       {% endfor %}
     </ul>
   {% else %}
-    <p class="homepage-concerts__empty">New concert dates coming soon — stay tuned!</p>
+    <p class="homepage-concerts__empty">새로운 콘서트 일정이 곧 공개됩니다 — 기대해 주세요!</p>
   {% endif %}
 </div>
 
-<!-- Past Concerts -->
+<!-- 지난 콘서트 -->
 {% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
 {% if jj_past.size > 0 %}
-<h2>Past Concerts</h2>
+<h2>지난 콘서트</h2>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
     {% for concert in jj_past %}
       <li class="homepage-concerts__item" style="opacity: 0.7;">
-        <span class="homepage-concerts__date">{{ concert.date | date: "%b %d, %Y" }}</span>
+        <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
         <span class="homepage-concerts__details">
           <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
           {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
           {% if concert.info and concert.info != "" %}
-            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>
             <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
           {% endif %}
         </span>
@@ -182,15 +186,15 @@ title_html: 'Welcome to JJ Music'
 </div>
 {% endif %}
 
-<!-- Albums -->
-<h2>Recordings</h2>
+<!-- 음반 -->
+<h2>음반</h2>
 
 <div class="homepage-albums">
   <div class="homepage-albums__grid">
 
     <div class="homepage-albums__item">
-      <h3>Journey Together (12.2025)</h3>
-      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together Album Cover" class="homepage-albums__cover" />
+      <h3>Journey Together (2025.12)</h3>
+      <img src="/assets/images/jjalbumjourney.png" alt="Journey Together 앨범 커버" class="homepage-albums__cover" />
       <div class="homepage-albums__links">
         <a href="https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox?si=Q55B49qrQ1G1pZMzmE0xxQ" target="_blank" class="homepage-albums__link" style="color: #1DB954; border-color: #1DB954;">
           <i class="fab fa-spotify" aria-hidden="true"></i> Spotify
@@ -205,7 +209,7 @@ title_html: 'Welcome to JJ Music'
           <i class="fab fa-amazon" aria-hidden="true"></i> Amazon Music
         </a>
       </div>
-      <p style="margin-top: 0.8em; font-weight: 600;">Buy Now:</p>
+      <p style="margin-top: 0.8em; font-weight: 600;">구매하기:</p>
       <div class="homepage-albums__links">
         <a href="https://music.apple.com/us/album/journey-together/1859004949" target="_blank" class="homepage-albums__link" style="color: #FA243C; border-color: #FA243C;">
           <i class="fab fa-itunes-note" aria-hidden="true"></i> iTunes
@@ -220,22 +224,22 @@ title_html: 'Welcome to JJ Music'
     </div>
 
     <div class="homepage-albums__item">
-      <h3>As Co-Leader</h3>
+      <h3>공동 리더</h3>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-        <img src="/assets/images/jjcoleader2.png" alt="JJ Co-Leader Album" class="homepage-albums__cover" style="max-width: 140px;" />
-        <img src="/assets/images/jjcoleader1.jpg" alt="JJ Co-Leader Album" class="homepage-albums__cover" style="max-width: 140px;" />
+        <img src="/assets/images/jjcoleader2.png" alt="JJ 공동 리더 앨범" class="homepage-albums__cover" style="max-width: 140px;" />
+        <img src="/assets/images/jjcoleader1.jpg" alt="JJ 공동 리더 앨범" class="homepage-albums__cover" style="max-width: 140px;" />
       </div>
       <div class="homepage-albums__links">
         <a href="https://youtube.com/playlist?list=PLHLU9NVhDC6OSTIwqyvpUIVaYR1A4n9s_&si=z0V2gcKS_OisPBt7" target="_blank" class="homepage-albums__link" style="color: #FF0000; border-color: #FF0000;">
-          <i class="fab fa-youtube" aria-hidden="true"></i> Playlist
+          <i class="fab fa-youtube" aria-hidden="true"></i> 플레이리스트
         </a>
       </div>
-      <img src="/assets/images/bg-texture.png" alt="Jiyeon Jeon at Piano" class="homepage-albums__cover" style="max-width: 290px; margin-top: 1em; border-radius: 4px;" />
+      <img src="/assets/images/bg-texture.png" alt="피아노 연주 중인 전지연" class="homepage-albums__cover" style="max-width: 290px; margin-top: 1em; border-radius: 4px;" />
     </div>
 
   </div>
 
   <p style="margin-top: 1.5em;">
-    <a href="/music/" class="btn btn--primary">View All Recordings</a>
+    <a href="/music/" class="btn btn--primary">모든 음반 보기</a>
   </p>
 </div>
