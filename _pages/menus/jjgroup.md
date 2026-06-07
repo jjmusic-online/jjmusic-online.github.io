@@ -19,7 +19,10 @@ permalink: /jjgroup/
 
 <!-- Profile -->
 <section class="homepage-profile">
-  <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5em;">
+    <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
+    <a href="/about/" style="font-size: 0.9em;">About JJ →</a>
+  </div>
   <div class="homepage-profile__bio">
     <p>Jiyeon Jeon (<span class="homepage-concerts__gold">JJ</span>) is a pianist, composer, arranger, and educator based in Berlin, Germany.
     Originally from Seoul, South Korea, she has over 20 years of experience on stage and in the studio — performing in Korea, Japan, China, the USA, and Germany.</p>
