@@ -13,7 +13,7 @@ Jiyeon Jeon, born in Seoul, South Korea, is a musician and educator. She began p
 
 She has always loved Motown-style Black music and is strongly influenced by it, which is why she fundamentally pursues groovy music. She constantly explores the connection between a pure groove – one that touches the heart and makes our bodies react immediately – and melodies that are both lyrical and sophisticated.  
 
-She works intensively on finding harmonic progressions that may sound lonely and melancholic, yet still hopeful at the same time. She views all of these musical processes as her way of creating something “Jiyeonish” (지연스러움) – something that is uniquely Jiyeon.  
+She works intensively on finding harmonic progressions that may sound lonely and melancholic, yet still hopeful at the same time. She views all of these musical processes as her way of creating something “<a href="https://youtu.be/uF4aBapuKxw?si=tTKPMiejbXY0Gm49" target="_blank">Jiyeonish</a>” (지연스러움) – something that is uniquely Jiyeon.  
 
 She completed her Bachelor’s degree in Jazz Piano at KyungHee University and her Master’s degree in Classical Music Education at Sookmyung Women’s University in Seoul, Korea. And she obtained a secondary school music teacher’s certificate.
 

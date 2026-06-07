@@ -17,7 +17,7 @@ Jiyeon Jeon, geboren in Seoul, Südkorea, ist Musikerin und Pädagogin. Sie fing
 
 Sie mochte die schwarzen Motown-Sounds und ist davon stark geprägt. Grundsätzlich strebt sie nach grooviger Musik. Sie erforscht ständig die Verbindung aus einem reinen Groove, der das Herz trifft und unseren Körper unmittelbar reagieren lässt, sowie einer gefühlvollen und zugleich raffinierten Melodie.
 
-Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam und melancholisch, zugleich aber hoffnungsvoll klingen. All diese musikalischen Arbeitsprozesse versteht sie als den Weg, etwas „Jiyeonish“ (지연스러움), also typisch Jiyeon, zu erschaffen.
+Sie arbeitet intensiv daran, harmonische Verläufe zu finden, die zwar einsam und melancholisch, zugleich aber hoffnungsvoll klingen. All diese musikalischen Arbeitsprozesse versteht sie als den Weg, etwas „<a href="https://youtu.be/uF4aBapuKxw?si=tTKPMiejbXY0Gm49" target="_blank">Jiyeonish</a>“ (지연스러움), also typisch Jiyeon, zu erschaffen.
 
 Sie hat ihren Bachelor in Jazzklavier(KyungHee Universität) Korea abgeschlossen. 
 
