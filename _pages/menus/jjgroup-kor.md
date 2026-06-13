@@ -43,6 +43,7 @@ permalink: /jjgroup/jjgroup-kor
 </section>
 
 <!-- 미디어 -->
+<div class="jj-compact-section">
 <h2>미디어</h2>
 
 <div class="homepage-concerts">
@@ -84,6 +85,7 @@ permalink: /jjgroup/jjgroup-kor
 
   </ul>
 </div>
+</div>
 
 <!-- 영상 -->
 <h2><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.6em;">베를린</span> 🇩🇪 <span style="font-size: 0.6em;">서울</span> 🇰🇷</h2>
@@ -121,6 +123,7 @@ permalink: /jjgroup/jjgroup-kor
 </div>
 
 <!-- 예정된 콘서트 -->
+<div class="jj-compact-section">
 <h2>예정된 콘서트</h2>
 
 {% assign today = site.time | date: "%Y%m%d" %}
@@ -161,8 +164,10 @@ permalink: /jjgroup/jjgroup-kor
     <p class="homepage-concerts__empty">새로운 콘서트 일정이 곧 공개됩니다 — 기대해 주세요!</p>
   {% endif %}
 </div>
+</div>
 
 <!-- JJ 스페셜 스케줄 -->
+<div class="jj-compact-section">
 <h2><span class="homepage-concerts__gold">JJ</span> 스페셜 스케줄</h2>
 
 <div class="homepage-concerts">
@@ -193,10 +198,12 @@ permalink: /jjgroup/jjgroup-kor
     </li>
   </ul>
 </div>
+</div>
 
 <!-- 지난 콘서트 -->
 {% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
 {% if jj_past.size > 0 %}
+<div class="jj-compact-section">
 <h2>지난 콘서트</h2>
 
 <div class="homepage-concerts">
@@ -215,6 +222,7 @@ permalink: /jjgroup/jjgroup-kor
       </li>
     {% endfor %}
   </ul>
+</div>
 </div>
 {% endif %}
 

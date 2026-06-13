@@ -326,6 +326,11 @@
   }
 }
 
+/* Compact section wrapper — used for Media / Concerts / Special Schedule */
+.jj-compact-section {
+  font-size: 0.6em;
+}
+
 /* Responsive: stack on mobile */
 @media (max-width: 600px) {
   .homepage-profile {

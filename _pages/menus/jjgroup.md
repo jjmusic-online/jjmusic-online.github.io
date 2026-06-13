@@ -42,6 +42,7 @@ permalink: /jjgroup/
 </section>
 
 <!-- Media -->
+<div class="jj-compact-section">
 <h2>Media</h2>
 
 <div class="homepage-concerts">
@@ -83,6 +84,7 @@ permalink: /jjgroup/
 
   </ul>
 </div>
+</div>
 
 <!-- Videos -->
 <h2><span class="homepage-concerts__gold">JJ Group</span> <span style="font-size: 0.6em;">Berlin</span> 🇩🇪 <span style="font-size: 0.6em;">Seoul</span> 🇰🇷</h2>
@@ -120,6 +122,7 @@ permalink: /jjgroup/
 </div>
 
 <!-- Upcoming Concerts -->
+<div class="jj-compact-section">
 <h2>Upcoming Concerts</h2>
 
 {% assign today = site.time | date: "%Y%m%d" %}
@@ -160,8 +163,10 @@ permalink: /jjgroup/
     <p class="homepage-concerts__empty">New concert dates coming soon — stay tuned!</p>
   {% endif %}
 </div>
+</div>
 
 <!-- JJ Special Schedule -->
+<div class="jj-compact-section">
 <h2><span class="homepage-concerts__gold">JJ</span> Special Schedule</h2>
 
 <div class="homepage-concerts">
@@ -192,10 +197,12 @@ permalink: /jjgroup/
     </li>
   </ul>
 </div>
+</div>
 
 <!-- Past Concerts -->
 {% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
 {% if jj_past.size > 0 %}
+<div class="jj-compact-section">
 <h2>Past Concerts</h2>
 
 <div class="homepage-concerts">
@@ -214,6 +221,7 @@ permalink: /jjgroup/
       </li>
     {% endfor %}
   </ul>
+</div>
 </div>
 {% endif %}
 
