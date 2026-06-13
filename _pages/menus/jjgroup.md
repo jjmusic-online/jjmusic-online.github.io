@@ -161,6 +161,38 @@ permalink: /jjgroup/
   {% endif %}
 </div>
 
+<!-- JJ Special Schedule -->
+<h2><span class="homepage-concerts__gold">JJ</span> Special Schedule</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">Jun 20, 2026</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">
+          <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+          JJ Music <span style="font-weight:900;">✕</span>
+          <a href="https://www.youtube.com/@onmamdahye" target="_blank">
+            <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+            온맘다혜
+          </a>
+          — One-Day Workshop
+        </span>
+        <span class="homepage-concerts__city"> · Online (KST 20:30–22:30)</span>
+        <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+        <span class="homepage-concerts__info">📅 June 20, 2026 · 8:30–10:30 PM (KST)<br><strong>펑크피아노의 비밀</strong> — Secrets of Funk Piano<br>Collaboration One-Day Workshop · Online · In Korean<br><a href="/shop/onemamdahye-seminar/">View Details / Register →</a></span>
+      </span>
+    </li>
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">Aug 5, 2026</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">Recording Session</span> —
+        Brickwall<span class="homepage-concerts__city">, Seoul</span>
+      </span>
+    </li>
+  </ul>
+</div>
+
 <!-- Past Concerts -->
 {% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
 {% if jj_past.size > 0 %}

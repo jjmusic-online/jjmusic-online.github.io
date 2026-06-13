@@ -162,6 +162,38 @@ permalink: /jjgroup/jjgroup-kor
   {% endif %}
 </div>
 
+<!-- JJ 스페셜 스케줄 -->
+<h2><span class="homepage-concerts__gold">JJ</span> 스페셜 스케줄</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">2026년 6월 20일</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">
+          <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+          JJ Music <span style="font-weight:900;">✕</span>
+          <a href="https://www.youtube.com/@onmamdahye" target="_blank">
+            <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+            온맘다혜
+          </a>
+          — 원데이 워크샵
+        </span>
+        <span class="homepage-concerts__city"> · 온라인 (한국시간 20:30–22:30)</span>
+        <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>
+        <span class="homepage-concerts__info">📅 2026년 6월 20일 · 저녁 8시 30분 ~ 10시 30분 (한국시간)<br><strong>펑크피아노의 비밀</strong><br>콜라보레이션 원데이 워크샵 · 온라인 · 한국어 진행<br><a href="/shop/onemamdahye-seminar/">자세히 보기 / 신청하기 →</a></span>
+      </span>
+    </li>
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">2026년 8월 5일</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">레코딩 세션</span> —
+        브릭윌<span class="homepage-concerts__city">, 서울</span>
+      </span>
+    </li>
+  </ul>
+</div>
+
 <!-- 지난 콘서트 -->
 {% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
 {% if jj_past.size > 0 %}
