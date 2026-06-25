@@ -196,6 +196,22 @@ permalink: /jjgroup/jjgroup-kor
         브릭윌<span class="homepage-concerts__city">, 서울</span>
       </span>
     </li>
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">2026년 가을 (후반기)</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">
+          <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+          JJ Music <span style="font-weight:900;">✕</span>
+          <a href="https://www.youtube.com/@onmamdahye" target="_blank">
+            <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+            온맘다혜
+          </a>
+          — <strong>펑크피아노의 비밀</strong> 재오픈
+        </span>
+        <span class="homepage-concerts__city"> · 온라인 · 한국어 진행</span>
+        <br><span style="font-size:0.85em; opacity:0.85;">올해 상반기에 함께 진행했던 콜라보레이션 워크샵 <strong>펑크피아노의 비밀</strong>이 하반기 가을에 다시 오픈됩니다! 많은 기대 부탁드립니다 🎹</span>
+      </span>
+    </li>
   </ul>
 </div>
 </div>
