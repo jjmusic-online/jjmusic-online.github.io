@@ -210,6 +210,7 @@ permalink: /jjgroup/jjgroup-kor
         </span>
         <span class="homepage-concerts__city"> · 온라인 · 한국어 진행</span>
         <br><span style="font-size:0.85em; opacity:0.85;">올해 상반기에 함께 진행했던 콜라보레이션 워크샵 <strong>펑크피아노의 비밀</strong>이 하반기 가을에 다시 오픈됩니다! 많은 기대 부탁드립니다 🎹</span>
+        <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 재오픈" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
       </span>
     </li>
   </ul>
