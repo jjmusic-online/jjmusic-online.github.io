@@ -20,6 +20,8 @@ permalink: /shop/collaboration-lesson/
   <img src="/assets/images/Screenshot 2026-04-24 at 23.25.56.png" alt="피아리노 온라인 레슨 한국어 맛있는솔로잉" style="max-width: 320px; width: 100%; display: block; margin: 10px 0; border-radius: 4px;" />
 </a>
 
+<a href="https://blog.naver.com/piareno_online/223376309777" target="_blank">📖 상세 정보 보기 (네이버 블로그)</a>
+
 ---
 
 ### English — Tasty Soloing
