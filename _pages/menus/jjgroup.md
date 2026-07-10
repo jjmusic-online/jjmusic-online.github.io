@@ -82,6 +82,17 @@ permalink: /jjgroup/
       </a>
     </li>
 
+    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
+      <span>
+        <span class="homepage-concerts__date">Jul 2026</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://www.mmjazz.co.kr/" target="_blank">MMJAZZ</a></span>
+        <span> — Korean Jazz Magazine (2026년7월호)</span>
+      </span>
+      <a href="/assets/images/vol335_p30.jpg" target="_blank">
+        <img src="/assets/images/vol335_p30.jpg" alt="MMJAZZ 2026년7월호" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
+      </a>
+    </li>
+
   </ul>
 </div>
 </div>
