@@ -65,7 +65,7 @@ permalink: /about/about-kor
 
 ## 🎹연주 녹음 경력 Performing and Recording Experience(2006-Present)
 - 정규앨범 리더작 Album: Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)발매 
-- Single Sohn Jiyoun (손지연) - I see you (보이네)(2026)
+- 디지털싱글 Sohn Jiyoun (손지연) - I see you (보이네)(2026)
 - 디지털 싱글 Single: CRUX/내게 강같은 평화 (2025)
 - 디지털 싱글 Single: Jesus loves me 예수 사랑하심은. 전지연 조범진 발매 (2024)  
 - 디지털 싱글 Single: Only One (단 한번) Kim Dae Han 피아노 및 편곡 (2022)
