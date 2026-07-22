@@ -41,6 +41,7 @@ Jiyeon Jeon emigrierte 2017 nach Deutschland. Seitdem ist sie musikalisch aktiv 
 Jiyeon Jeon lebt mit ihrer Familie in Hermsdorf, Berlin, Deutschland 🇩🇪
 ### Eigene Prjekt 
 - *Album: Jiyeon Jeon/[Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)
+- Single Sohn Jiyoun (손지연) - I see you (보이네)(2026)
 ### Eigene Co-Projekte
 - *Single: Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)Korea
 - *Single: C2J Trio 2013 International Jazz Day (2013)Korea

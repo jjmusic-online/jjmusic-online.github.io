@@ -44,6 +44,7 @@ She lives with her family in Hermsdorf, Berlin, Germany. 🇩🇪
 
 ## 🎹Performing and Recording Experience(2006-Present)
 - Album: as Leader_ Jiyeon Jeon / [Journey Together](https://open.spotify.com/album/4vwzXEDvkDBK9Dyh3Sb1Ox) (2025.12)
+- Single Sohn Jiyoun (손지연) - I see you (보이네)(2026)
 
 - Single: CRUX/내게 강같은 평화 (2025)
 - Single: Co Project_Jiyeon Jeon und Beom Jin Jo/Jesus loves me (2024)
