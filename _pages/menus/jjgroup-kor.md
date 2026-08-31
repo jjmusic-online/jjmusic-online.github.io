@@ -109,10 +109,10 @@ permalink: /jjgroup/jjgroup-kor
     {% include video id="tfsjCnQchcA" provider="youtube" %}
   </div>
   <div>
-    {% include video id="rprL0A_EpDs" provider="youtube" %}
+    {% include video id="g60ob9gfv-M" provider="youtube" %}
   </div>
   <div>
-    {% include video id="gMlJ6go_2GA" provider="youtube" %}
+    {% include video id="QxaR9C79qk0" provider="youtube" %}
   </div>
 </div>
 
