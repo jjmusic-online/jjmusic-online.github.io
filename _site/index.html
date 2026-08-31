@@ -20,7 +20,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="JJ Music">
 <meta property="og:title" content="Welcome to JJ Music">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:url" content="/">
 
 
   <meta property="og:description" content="A website for JJ Music">
@@ -40,7 +40,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="/">
 
 
 
@@ -51,7 +51,7 @@
     
       "@type": "Person",
       "name": "Jiyeon Jeon",
-      "url": "http://localhost:4000/"
+      "url": "/"
     
   }
 </script>
@@ -157,7 +157,7 @@
 
     <!-- Social Sidebar -->
     <nav class="social-sidebar" aria-label="Social links">
-      <a href="https://www.instagram.com/jj_jazzydus_music/" target="_blank" title="Instagram">
+      <a href="https://www.instagram.com/jiyeonjeon_jj/" target="_blank" title="Instagram">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9S160.5 370.9 224.1 370.9 339 319.6 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8s-26.8-12-26.8-26.8 12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1S3.8 127.9 2.1 163.8c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
       </a>
       <a href="https://www.linkedin.com/in/jiyeon-jeon-836946152/" target="_blank" title="LinkedIn">
@@ -200,7 +200,10 @@
 
 <!-- Profile -->
 <section class="homepage-profile">
-  <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5em;">
+    <img src="/assets/images/IMG_5964.PNG" alt="Jiyeon Jeon" class="homepage-profile__photo" />
+    <a href="/about/" style="font-size: 0.9em;">About JJ →</a>
+  </div>
   <div class="homepage-profile__bio">
     <p>Jiyeon Jeon (<span class="homepage-concerts__gold">JJ</span>) is a pianist, composer, arranger, and educator based in Berlin, Germany.
     Originally from Seoul, South Korea, she has over 20 years of experience on stage and in the studio — performing in Korea, Japan, China, the USA, and Germany.</p>
@@ -212,7 +215,7 @@
 <!-- JJ Group -->
 <section class="homepage-profile">
   <div class="homepage-profile__bio">
-    <h2><span class="homepage-concerts__gold">JJ Group</span></h2>
+    <h2><span class="homepage-concerts__gold">JJ Group</span> <a href="/jjgroup/jjgroup-kor" style="font-size: 0.55em; font-weight: normal; margin-left: 0.6em; vertical-align: middle;">한국어로 보기 🇰🇷</a></h2>
     <p><span class="homepage-concerts__gold">JJ Group</span> is a contemporary jazz band based in Berlin, bringing a refined approach to modern jazz that bridges the musical worlds of Germany and Korea. Built on solid, groove-oriented foundations, the band layers intricate melodies and harmonies that unfold with both precision and spontaneity.</p>
     <p>At the heart of their sound is a deep commitment to interplay — the dynamic, organic conversations that emerge between musicians in the moment. <span class="homepage-concerts__gold">JJ Group</span> pursues a musical dialogue that is simultaneously structured and free, carefully crafted yet open to the unexpected. Their music seeks harmonic progressions that feel contemplative and bittersweet, while always carrying an undercurrent of hope.</p>
     <p>With their debut album <em>Journey Together</em> (released December 2025), <span class="homepage-concerts__gold">JJ Group</span> announces their collective voice to the international jazz scene — a sound shaped by diverse backgrounds and shared vision, exploring the space between compositional precision and improvisational freedom. The result is music that is rhythmically compelling, melodically nuanced, and unmistakably their own.</p>
@@ -220,6 +223,7 @@
 </section>
 
 <!-- Media -->
+<div class="jj-compact-section">
 <h2>Media</h2>
 
 <div class="homepage-concerts">
@@ -259,7 +263,19 @@
       </a>
     </li>
 
+    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
+      <span>
+        <span class="homepage-concerts__date">Jul 2026</span>
+        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="http://www.mmjazz.net/" target="_blank">MMJAZZ</a></span>
+        <span> — Korean Jazz Magazine (2026년7월호)</span>
+      </span>
+      <a href="/assets/images/vol335_p30.jpg" target="_blank">
+        <img src="/assets/images/vol335_p30.jpg" alt="MMJAZZ 2026년7월호" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
+      </a>
+    </li>
+
   </ul>
+</div>
 </div>
 
 <!-- Videos -->
@@ -370,6 +386,7 @@
 </div>
 
 <!-- Upcoming Concerts -->
+<div class="jj-compact-section">
 <h2>Upcoming Concerts</h2>
 
 
@@ -384,63 +401,7 @@
     <ul class="homepage-concerts__list">
       
         <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">Jun 26, 2026</span>
-          <span class="homepage-concerts__details">
-            <span class="homepage-concerts__venue">The Friday Singers</span> —
-            Humboldt-Bibliothek<span class="homepage-concerts__city">, Tegel Berlin Germany</span>
-            
-            
-              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
-              <span class="homepage-concerts__info">Klavier Jiyeon Jeon</span>
-            
-          </span>
-        </li>
-      
-        <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">Jun 28, 2026</span>
-          <span class="homepage-concerts__details">
-            <span class="homepage-concerts__venue">String Concert</span> —
-            <span class="homepage-concerts__city">, Berlin, Germany</span>
-            
-            
-              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
-              <span class="homepage-concerts__info">Klassisches Klavier — Jiyeon Jeon</span>
-            
-          </span>
-        </li>
-      
-        <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">Aug 04, 2026</span>
-          <span class="homepage-concerts__details">
-            <span class="homepage-concerts__venue"><span class="homepage-concerts__gold">JJ Group</span> Album Release Concert</span> —
-            Flatnine Jazz Bar<span class="homepage-concerts__city">, Seoul.Korea</span>
-            
-              <a href="https://www.instagram.com/flatnine_jazzbar/" target="_blank">Tickets</a>
-            
-            
-              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
-              <span class="homepage-concerts__info">p. Jiyeon Jeon / t.sax. Myungsup Shin / b. Sang-e Jung / dr. Yeongjin Kim / v. SeungEun Do</span>
-            
-          </span>
-        </li>
-      
-        <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">Aug 06, 2026</span>
-          <span class="homepage-concerts__details">
-            <span class="homepage-concerts__venue"><span class="homepage-concerts__gold">JJ Group</span> Album Release Concert</span> —
-            Club Evans<span class="homepage-concerts__city">, Seoul.Korea</span>
-            
-              <a href="https://clubevans.com/" target="_blank">Tickets</a>
-            
-            
-              <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
-              <span class="homepage-concerts__info">p. Jiyeon Jeon / t.sax. Myungsup Shin / b. Sang-e Jung / dr. Yeongjin Kim / v. SeungEun Do</span>
-            
-          </span>
-        </li>
-      
-        <li class="homepage-concerts__item">
-          <span class="homepage-concerts__date">Oct 22, 2026</span>
+          <span class="homepage-concerts__date">Oct 15, 2026</span>
           <span class="homepage-concerts__details">
             <span class="homepage-concerts__venue"><span class="homepage-concerts__gold">JJ Group</span></span> —
             Alter Schwede Wedding<span class="homepage-concerts__city">, Berlin.Germany</span>
@@ -488,14 +449,74 @@ p. Jiyeon Jeon / t.sax. Gianni Gagliardi / b. Roz Macdonald / dr. Heinrich Köbb
     </ul>
   
 </div>
+</div>
+
+<!-- JJ Special Schedule -->
+<div class="jj-compact-section">
+<h2><span class="homepage-concerts__gold">JJ</span> Special Schedule</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">Aug 5, 2026</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">Recording Session</span> —
+        Brickwall<span class="homepage-concerts__city">, Seoul</span>
+      </span>
+    </li>
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">Autumn 2026</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue">
+          <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+          JJ Music <span style="font-weight:900;">✕</span>
+          <a href="https://www.youtube.com/@onmamdahye" target="_blank">
+            <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
+            온맘다혜
+          </a>
+          — <strong>펑크피아노의 비밀</strong> (Re-opening)
+        </span>
+        <span class="homepage-concerts__city"> · Online · In Korean</span>
+        <br><span style="font-size:0.85em; opacity:0.85;">Our collaboration workshop <em>Secrets of Funk Piano</em>, which we ran together earlier this year, is coming back in the second half of autumn — stay tuned for details! 🎹</span>
+        <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 Re-opening" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
+      </span>
+    </li>
+  </ul>
+</div>
+</div>
 
 <!-- Past Concerts -->
 
 
+<div class="jj-compact-section">
 <h2>Past Concerts</h2>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
+    
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">Aug 06, 2026</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue"><span class="homepage-concerts__gold">JJ Group</span> Album Release Concert</span> —
+          Club Evans<span class="homepage-concerts__city">, Seoul.Korea</span>
+          
+            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+            <span class="homepage-concerts__info">p. Jiyeon Jeon / t.sax. Myungsup Shin / b. Sang-e Jung / dr. Yeongjin Kim / v. SeungEun Do</span>
+          
+        </span>
+      </li>
+    
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">Aug 04, 2026</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue"><span class="homepage-concerts__gold">JJ Group</span> Album Release Concert</span> —
+          Flatnine Jazz Bar<span class="homepage-concerts__city">, Seoul.Korea</span>
+          
+            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">More Details</a>
+            <span class="homepage-concerts__info">p. Jiyeon Jeon / t.sax. Myungsup Shin / b. Sang-e Jung / dr. Yeongjin Kim / v. SeungEun Do</span>
+          
+        </span>
+      </li>
     
       <li class="homepage-concerts__item" style="opacity: 0.7;">
         <span class="homepage-concerts__date">Apr 09, 2026</span>
@@ -510,6 +531,7 @@ p. Jiyeon Jeon / t.sax. Gianni Gagliardi / b. Roz Macdonald / dr. Heinrich Köbb
       </li>
     
   </ul>
+</div>
 </div>
 
 
@@ -654,7 +676,7 @@ p. Jiyeon Jeon / t.sax. Gianni Gagliardi / b. Roz Macdonald / dr. Heinrich Köbb
     
       
         
-          <li><a href="https://www.instagram.com/jj_jazzydus_music/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+          <li><a href="https://www.instagram.com/jiyeonjeon_jj/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     

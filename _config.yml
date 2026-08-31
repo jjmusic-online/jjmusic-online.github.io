@@ -119,7 +119,7 @@ author:
       url: "https://www.youtube.com/channel/UCHEd9N8RELMQAtekR0G9jqQ/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jj_jazzydus_music/"
+      url: "https://www.instagram.com/jiyeonjeon_jj/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jiyeon-jeon-836946152/"
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jj_jazzydus_music/"
+      url: "https://www.instagram.com/jiyeonjeon_jj/"
 
 
 # Reading Files
