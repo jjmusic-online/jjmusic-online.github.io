@@ -47,6 +47,14 @@ permalink: /gallery/
 
 <div class="gallery-grid">
 
+  <a href="/assets/images/IMG_8662.JPG">
+    <img src="/assets/images/IMG_8662.JPG" alt="JJ Recent Photo 2" />
+  </a>
+
+  <a href="/assets/images/IMG_8237.JPG">
+    <img src="/assets/images/IMG_8237.JPG" alt="JJ Recent Photo 1" />
+  </a>
+
   <a href="/assets/images/JJ_Group_1.JPG">
     <img src="/assets/images/JJ_Group_1.JPG" alt="JJ Group Recording" />
   </a>
@@ -133,14 +141,6 @@ permalink: /gallery/
 
   <a href="/assets/images/스크린샷 2018-09-22 오후 6.33.32.png">
     <img src="/assets/images/스크린샷 2018-09-22 오후 6.33.32.png" alt="JJ Photo" />
-  </a>
-
-  <a href="/assets/images/IMG_8237.JPG">
-    <img src="/assets/images/IMG_8237.JPG" alt="JJ Recent Photo 1" />
-  </a>
-
-  <a href="/assets/images/IMG_8662.JPG">
-    <img src="/assets/images/IMG_8662.JPG" alt="JJ Recent Photo 2" />
   </a>
 
 </div>
