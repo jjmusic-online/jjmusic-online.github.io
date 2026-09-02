@@ -191,7 +191,7 @@ permalink: /jjgroup/jjgroup-kor
       </span>
     </li>
     <li class="homepage-concerts__item">
-      <span class="homepage-concerts__date">2026년 가을 (후반기)</span>
+      <span class="homepage-concerts__date">오후 8시 ~ 10시 (한국시간)</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">
           <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
@@ -200,11 +200,11 @@ permalink: /jjgroup/jjgroup-kor
             <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
             온맘다혜
           </a>
-          — <strong>펑크피아노의 비밀</strong> 재오픈
+          — <strong>펑크피아노의 비밀</strong> 세미나
         </span>
         <span class="homepage-concerts__city"> · 온라인 · 한국어 진행</span>
-        <br><span style="font-size:0.85em; opacity:0.85;">올해 상반기에 함께 진행했던 콜라보레이션 워크샵 <strong>펑크피아노의 비밀</strong>이 하반기 가을에 다시 오픈됩니다! 많은 기대 부탁드립니다 🎹</span>
-        <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 재오픈" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
+        <br><span style="font-size:0.85em; opacity:0.85;">JJ Music × 온맘다혜의 콜라보 세미나 <strong>펑크피아노의 비밀</strong>은 한국시간 기준 <strong>오후 8시부터 10시</strong>까지 진행됩니다. 🎹</span>
+        <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 세미나" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
       </span>
     </li>
   </ul>
