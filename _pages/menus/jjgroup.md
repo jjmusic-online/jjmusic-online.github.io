@@ -183,13 +183,6 @@ permalink: /jjgroup/
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
     <li class="homepage-concerts__item">
-      <span class="homepage-concerts__date">Recording Session</span>
-      <span class="homepage-concerts__details">
-        <span class="homepage-concerts__venue">Brickwall</span> —
-        Seoul<span class="homepage-concerts__city">, Korea</span>
-      </span>
-    </li>
-    <li class="homepage-concerts__item">
       <span class="homepage-concerts__date">Oct 13, 2026</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">

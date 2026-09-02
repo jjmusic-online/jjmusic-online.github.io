@@ -184,13 +184,6 @@ permalink: /jjgroup/jjgroup-kor
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
     <li class="homepage-concerts__item">
-      <span class="homepage-concerts__date">레코딩 세션</span>
-      <span class="homepage-concerts__details">
-        <span class="homepage-concerts__venue">브릭윌</span> —
-        서울<span class="homepage-concerts__city">, 한국</span>
-      </span>
-    </li>
-    <li class="homepage-concerts__item">
       <span class="homepage-concerts__date">2026년 10월 13일</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">
