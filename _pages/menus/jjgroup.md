@@ -111,7 +111,7 @@ permalink: /jjgroup/
     {% include video id="g60ob9gfv-M" provider="youtube" %}
   </div>
   <div>
-    {% include video id="QxaR9C79qk0" provider="youtube" %}
+    {% include video id="dbRPcTM5NGg" provider="youtube" %}
   </div>
 </div>
 
