@@ -102,14 +102,14 @@ permalink: /shop/
       </a>
       JJ Music
       <span style="font-size: 0.75em; font-weight: 900; opacity: 0.85;">✕</span>
-      <a href="https://www.piareno.com/product/jj_1kor" target="_blank">
+      <a href="https://piareno.com/product/%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%86%94%EB%A1%9C%EC%9E%89/108/category/27/display/1/" target="_blank">
         <img src="/assets/images/Screenshot%202026-05-14%20at%2021.59.01.png" alt="Piareno Logo" style="width: 36px; height: 36px; border-radius: 50%; border: 2px solid #ccc; object-fit: contain; background: #fff; padding: 2px;" />
       </a>
       Piareno
     </h2>
     <p>1:1 KakaoTalk online lesson at Piareno — available in Korean and English.<br>피아리노와 JJ Music이 함께 만든 <strong>맛있는 솔로잉</strong> 레슨 (<strong>Tasty Soloing</strong>)</p>
     <div style="display: flex; gap: 0.5em; align-items: center; margin-top: 0.3em;">
-      <a href="https://www.piareno.com/product/jj_1kor" target="_blank">
+      <a href="https://piareno.com/product/%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%86%94%EB%A1%9C%EC%9E%89/108/category/27/display/1/" target="_blank">
         <img src="/assets/images/Screenshot%202026-04-24%20at%2023.25.56.png" alt="맛있는솔로잉 한국어" style="width: 36px; height: 36px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;" />
       </a>
       <span style="font-size: 0.75em;">한국어</span>

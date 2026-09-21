@@ -14,9 +14,9 @@ permalink: /shop/collaboration-lesson/
 
 ### 한국어 — 맛있는솔로잉
 
-<a href="https://www.piareno.com/product/jj_1kor" target="_blank">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어</a>
+<a href="https://piareno.com/product/%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%86%94%EB%A1%9C%EC%9E%89/108/category/27/display/1/" target="_blank">카톡으로 배우는 1:1 피아리노 온라인 레슨 (맛있는솔로잉) 한국어</a>
 
-<a href="https://www.piareno.com/product/jj_1kor" target="_blank">
+<a href="https://piareno.com/product/%EB%A7%9B%EC%9E%88%EB%8A%94-%EC%86%94%EB%A1%9C%EC%9E%89/108/category/27/display/1/" target="_blank">
   <img src="/assets/images/Screenshot 2026-04-24 at 23.25.56.png" alt="피아리노 온라인 레슨 한국어 맛있는솔로잉" style="max-width: 320px; width: 100%; display: block; margin: 10px 0; border-radius: 4px;" />
 </a>
 
