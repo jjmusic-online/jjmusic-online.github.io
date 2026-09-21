@@ -196,7 +196,7 @@ permalink: /jjgroup/jjgroup-kor
           — <strong>펑크피아노의 비밀</strong> 세미나
         </span>
         <span class="homepage-concerts__city"> · 온라인 · 한국어 진행</span>
-        <br><span style="font-size:0.85em; opacity:0.85;">JJ Music × 온맘다혜의 콜라보 세미나 <strong>펑크피아노의 비밀</strong>은 <strong>2026년 10월 13일</strong> 한국시간 기준 <strong>오후 8시부터 10시</strong>까지 진행됩니다. 🎹</span>
+        <br><span style="font-size:0.85em; opacity:0.85;">JJ Music × 온맘다혜의 콜라보 세미나 <strong>펑크피아노의 비밀</strong>은 <strong>2026년 10월 13일</strong> 한국시간 기준 <strong>20시부터 22시</strong>까지 진행됩니다. 🎹</span>
         <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 세미나" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
       </span>
     </li>

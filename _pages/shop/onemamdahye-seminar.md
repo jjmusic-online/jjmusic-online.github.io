@@ -12,11 +12,11 @@ permalink: /shop/onemamdahye-seminar/
 
 ---
 
-📅 **2026년 6월 20일** 한국시간 저녁 8시30분 ~ 10시30분  
+📅 **2026년 10월 13일** 한국시간 20시 ~ 22시  
 🎹 **펑크피아노의 비밀** 원데이 세미나 · 한국어로 진행
 
 **One-Day Seminar: Secrets of Funk Piano**  
-June 20, 2026 · 8:30–10:30 PM (KST) · Conducted in Korean
+October 13, 2026 · 8:00–10:00 PM (KST) · Conducted in Korean
 
 ---
 
