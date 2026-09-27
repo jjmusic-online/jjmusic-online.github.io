@@ -43,8 +43,13 @@ permalink: /jjgroup/
 
 <!-- Media -->
 <div class="jj-compact-section">
-  <h2><a href="/media/">Media</a></h2>
-  <p><a href="/media/">Explore JJ Group's broadcasts and press features.</a></p>
+  <a href="/media/" style="display: flex; align-items: center; justify-content: space-between; gap: 1.25em; max-width: 620px; padding: 0.4em 0; text-decoration: none;">
+    <span>
+      <strong style="display: block; font-size: 1.6em; line-height: 1.2;">Media</strong>
+      <span style="display: block; margin-top: 0.35em;">Explore JJ Group's broadcasts and press features.</span>
+    </span>
+    <img src="/assets/images/Screenshot 2026-09-27 at 21.40.02.png" alt="CBS broadcast poster" style="display: block; flex: 0 0 88px; width: 88px; max-height: 112px; object-fit: contain; border-radius: 4px;" />
+  </a>
 </div>
 
 <!-- Videos -->
