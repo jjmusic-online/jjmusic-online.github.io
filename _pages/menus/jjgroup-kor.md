@@ -44,58 +44,8 @@ permalink: /jjgroup/jjgroup-kor
 
 <!-- 미디어 -->
 <div class="jj-compact-section">
-<h2>미디어</h2>
-
-<div class="homepage-concerts">
-  <ul class="homepage-concerts__list">
-
-    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
-      <span>
-        <span class="homepage-concerts__date">2026년 3월 4일</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://www.swr.de/swrkultur/programm/programmkalender-swr-kultur-radio-100.html?swx_pcDate=2026-03-04&swx_pcStation=2.0.0" target="_blank">SWR Kultur im Radio</a></span>
-      </span>
-      <a href="/assets/images/Screenshot 2026-04-24 at 23.56.20.png">
-        <img src="/assets/images/Screenshot 2026-04-24 at 23.56.20.png" alt="SWR Kultur im Radio" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-      </a>
-      <a href="https://open.spotify.com/playlist/7yUaSDqPvYly4WOZDYcBya?si=jnj8VyurRIiKojoyrKY9WA" target="_blank" style="font-size: 0.85em;">SWR Kultur Radio Jazz vor Sechs 플레이리스트</a>
-    </li>
-
-    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
-      <span>
-        <span class="homepage-concerts__date">2026년 4월</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://jazzpeople.co.kr/" target="_blank">재즈피플 (Jazz People)</a></span>
-        <span> — 한국 재즈 매거진</span>
-      </span>
-      <a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png">
-        <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People 재즈피플" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-      </a>
-    </li>
-
-    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
-      <span>
-        <span class="homepage-concerts__date">2026년 4월 27일</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://program.kbs.co.kr/1fm/radio/jass/pc/index.html" target="_blank">KBS 클래식FM (재즈수첩)</a></span>
-        <span> — 라디오 방송</span>
-      </span>
-      <span style="font-size: 0.85em; padding-left: 0.2em;">진행: 황덕호</span>
-      <a href="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" target="_blank">
-        <img src="/assets/images/Screenshot 2026-04-27 at 07.39.49.PNG" alt="KBS 재즈수첩" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-      </a>
-    </li>
-
-    <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
-      <span>
-        <span class="homepage-concerts__date">2026년 7월</span>
-        <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="http://www.mmjazz.net/" target="_blank">MMJAZZ</a></span>
-        <span> — 한국 재즈 잡지 (2026년7월호)</span>
-      </span>
-      <a href="/assets/images/vol335_p30.jpg" target="_blank">
-        <img src="/assets/images/vol335_p30.jpg" alt="MMJAZZ 2026년7월호" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-      </a>
-    </li>
-
-  </ul>
-</div>
+  <h2><a href="/media/">미디어</a></h2>
+  <p><a href="/media/">JJ Group의 방송 및 언론 소개 보기</a></p>
 </div>
 
 <!-- 영상 -->
