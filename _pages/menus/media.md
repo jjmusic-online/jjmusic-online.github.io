@@ -13,9 +13,6 @@ permalink: /media/
           <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://www.youtube.com/live/k6DIQx95-lI?si=IAZNgT7nX27ZD98o&amp;t=779" target="_blank" rel="noopener">충북CBS 2026년 9월23일 한국시간 12시 5분 달디단 찬양 방송 (The Space Between , Journey Together)</a></span>
         </span>
         <span style="font-size: 0.85em; padding-left: 0.2em;">Please start listening at 12:59.</span>
-        <a href="/assets/images/Screenshot 2026-09-27 at 21.40.02.png" target="_blank" rel="noopener">
-          <img src="/assets/images/Screenshot 2026-09-27 at 21.40.02.png" alt="충북CBS 달디단 찬양, 2026년 9월 23일" style="max-width: 420px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-        </a>
       </li>
 
       <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
