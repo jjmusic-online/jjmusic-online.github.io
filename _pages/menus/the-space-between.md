@@ -17,8 +17,8 @@ author_profile: false
   <thead>
     <tr>
       <th class="tsb-col-num">No.</th>
-      <th class="tsb-col-title">제목</th>
-      <th class="tsb-col-date">날짜</th>
+      <th class="tsb-col-title">Title</th>
+      <th class="tsb-col-date">Date</th>
     </tr>
   </thead>
   <tbody>
@@ -26,8 +26,11 @@ author_profile: false
     {% for post in thoughts %}
     <tr>
       <td class="tsb-col-num">{{ total | minus: forloop.index0 }}</td>
-      <td class="tsb-col-title"><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td class="tsb-col-date">{{ post.date | date: "%Y.%m.%d" }}</td>
+      <td class="tsb-col-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {% if post.english_excerpt %}<div class="tsb-col-english">{{ post.english_excerpt }}</div>{% endif %}
+      </td>
+      <td class="tsb-col-date">{{ post.date | date: "%b %-d, %Y" }}</td>
     </tr>
     {% endfor %}
   </tbody>

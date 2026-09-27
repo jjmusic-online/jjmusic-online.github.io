@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "악기를 연주하고 음악을 짓는 사람으로"
+english_excerpt: "In times like these, it feels precious, rare, and deeply personal to be someone who plays an instrument, who makes music."
 date: 2026-09-27
 categories: thoughts
 author_profile: false
