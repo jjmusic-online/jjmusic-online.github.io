@@ -114,7 +114,7 @@ permalink: /jjgroup/jjgroup-kor
           <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
           <span class="homepage-concerts__details">
             <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
-            {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
+            {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% if concert.time %} · {{ concert.time }}{% endif %}
             {% if concert.url and concert.url != "" %}
               <a href="{{ concert.url }}" target="_blank">티켓</a>
             {% endif %}
