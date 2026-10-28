@@ -113,7 +113,7 @@ permalink: /jjgroup/jjgroup-kor
         <li class="homepage-concerts__item">
           <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
           <span class="homepage-concerts__details">
-            <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
+            {% unless concert.hide_title %}<span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —{% endunless %}
             {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% if concert.time %} · {{ concert.time }}{% endif %}
             {% if concert.url and concert.url != "" %}
               <a href="{{ concert.url }}" target="_blank">티켓</a>
@@ -171,7 +171,7 @@ permalink: /jjgroup/jjgroup-kor
       <li class="homepage-concerts__item" style="opacity: 0.7;">
         <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
         <span class="homepage-concerts__details">
-          <span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —
+          {% unless concert.hide_title %}<span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —{% endunless %}
           {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
           {% if concert.info and concert.info != "" %}
             <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>

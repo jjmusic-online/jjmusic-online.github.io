@@ -47,6 +47,7 @@
   time: "4:00 PM"
 - date: 2026-12-05
   title: JJ Group
+  hide_title: true
   venue: "Humboldt Bibliothek"
   city: "Berlin"
   time: "4:00 PM"
