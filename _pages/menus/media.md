@@ -52,9 +52,14 @@ permalink: /media/
           <span class="homepage-concerts__venue" style="margin-left: 0.5em;"><a href="https://jazzpeople.co.kr/" target="_blank" rel="noopener">Jazz People (재즈피플)</a></span>
           <span> — Korean Jazz Magazine</span>
         </span>
-        <a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" target="_blank" rel="noopener">
-          <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People Korean jazz magazine" style="max-width: 280px; width: 100%; border-radius: 4px; margin: 4px 0; cursor: zoom-in;" />
-        </a>
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 8px; margin: 4px 0;">
+          <a href="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" target="_blank" rel="noopener" style="display: block; flex: 0 1 280px; max-width: 100%;">
+            <img src="/assets/images/Screenshot 2026-04-24 at 10.22.39.png" alt="Jazz People Korean jazz magazine article" style="display: block; max-width: 280px; width: 100%; border-radius: 4px; cursor: zoom-in;" />
+          </a>
+          <a href="/assets/images/Journey_Together_Review_Summary_2_EN.png" target="_blank" rel="noopener" style="display: block; flex: 0 1 280px; max-width: 100%;">
+            <img src="/assets/images/Journey_Together_Review_Summary_2_EN.png" alt="English summary of the Jazz People review" style="display: block; max-width: 280px; width: 100%; border-radius: 4px; cursor: zoom-in;" />
+          </a>
+        </div>
       </li>
 
       <li class="homepage-concerts__item" style="flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 0.8em;">
