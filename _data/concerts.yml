@@ -51,6 +51,11 @@
   venue: "Humboldt Bibliothek"
   city: "Berlin"
   time: "4:00 PM"
+- date: 2027-04-16
+  title: JJ Group
+  venue: "Alter Schwede Wedding"
+  city: "Berlin"
+  time: "8:00 PM"
 - date: 2027-06-25
   title: JJ Group
   hide_title: true
