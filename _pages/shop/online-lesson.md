@@ -6,11 +6,6 @@ permalink: /shop/online-lesson/
 
 <a href="/shop/">← Back to Shop</a>
 
-<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027.png" target="_blank" rel="noopener">2027년 1월 1일 이후 신규 등록하는 학생에 한해 레슨비가 변경됩니다. 변경된 가격표를 확인하려면 여기를 클릭하세요.</a></p>
-<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027_EN.png" target="_blank" rel="noopener">The lesson price change applies only to new students who enroll on or after January 1, 2027. Click here to view the updated price list.</a></p>
-
-## Pricing
-
 <div style="display: flex; flex-wrap: wrap; gap: 3px; margin: 0.5em 0 1em;">
   <a href="/assets/images/IMG_0022.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_0022.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
   <a href="/assets/images/IMG_2090.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_2090.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
@@ -22,6 +17,11 @@ permalink: /shop/online-lesson/
   <a href="/assets/images/IMG_8488.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8488.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
   <a href="/assets/images/IMG_8857.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8857.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
 </div>
+
+## Pricing
+
+<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027.png" target="_blank" rel="noopener">2027년 1월 1일 이후 신규 등록하는 학생에 한해 레슨비가 변경됩니다. 변경된 가격표를 확인하려면 여기를 클릭하세요.</a></p>
+<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027_EN.png" target="_blank" rel="noopener">The lesson price change applies only to new students who enroll on or after January 1, 2027. Click here to view the updated price list.</a></p>
 
 <img src="https://jjmusic-online.github.io/assets/images/jjprice8.jpg" alt="Lesson Pricing" style="max-width: 420px; width: 100%; border-radius: 4px; margin-bottom: 0.5em;" />
 <img src="https://jjmusic-online.github.io/assets/images/jjprice9.jpg" alt="Lesson Pricing" style="max-width: 420px; width: 100%; border-radius: 4px;" />
