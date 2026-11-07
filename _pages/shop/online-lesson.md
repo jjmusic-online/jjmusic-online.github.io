@@ -6,6 +6,9 @@ permalink: /shop/online-lesson/
 
 <a href="/shop/">← Back to Shop</a>
 
+<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027.png" target="_blank" rel="noopener">2027년 1월 1일 이후 등록하는 학생부터 레슨비가 변경됩니다. 변경된 가격표를 확인하려면 여기를 클릭하세요.</a></p>
+<p><a href="/assets/images/JJ_Music_Lesson_Prices_2027_EN.png" target="_blank" rel="noopener">Lesson prices will change for students who enroll on or after January 1, 2027. Click here to view the updated price list.</a></p>
+
 ## Pricing
 
 <img src="https://jjmusic-online.github.io/assets/images/jjprice8.jpg" alt="Lesson Pricing" style="max-width: 420px; width: 100%; border-radius: 4px; margin-bottom: 0.5em;" />
