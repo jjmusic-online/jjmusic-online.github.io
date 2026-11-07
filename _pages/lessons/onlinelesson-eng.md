@@ -8,6 +8,18 @@ permalink: /lessons/onlinelesson-eng
 ### Online Jazzpiano Lesson , Online Piano Lesson in Berlin 
 ### Lessons in English.
 
+<div style="display: flex; flex-wrap: wrap; gap: 3px; margin: 0.5em 0 1em;">
+	<a href="/assets/images/IMG_0022.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_0022.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_2090.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_2090.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_4430.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_4430.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7128.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7128.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7864.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7864.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7992.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7992.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8083.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8083.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8488.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8488.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8857.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8857.jpg" alt="Online piano lesson" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+</div>
+
 - Screen sharing (keyboard video, handwriting APP, Chordie App keyboard App) can be recorded and recorded files can be saved, and all lesson materials and sheet music are provided as PDF files.
 
 - One Point Lesson

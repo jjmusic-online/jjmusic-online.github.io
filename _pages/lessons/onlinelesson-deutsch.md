@@ -8,6 +8,18 @@ permalink: /lessons/onlinelesson-deutsch
 ### Online Klavierunterricht (Jazzklavier, Jazzpiano) in Berlin 
 ### Unterrichten auf Deutsch
 
+<div style="display: flex; flex-wrap: wrap; gap: 3px; margin: 0.5em 0 1em;">
+	<a href="/assets/images/IMG_0022.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_0022.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_2090.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_2090.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_4430.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_4430.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7128.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7128.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7864.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7864.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_7992.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7992.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8083.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8083.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8488.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8488.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+	<a href="/assets/images/IMG_8857.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8857.jpg" alt="Online-Klavierunterricht" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+</div>
+
 ### Hauptgerät: PC, Laptop oder PAD
 - Der Bildschirm(Tastaturvideo, Handschrift-APP, Chordie-App-Tastatur-App) kann aufgezeichnet und aufgezeichnete Dateien können gespeichert werden,damit Sie das Video nach dem Unterricht wieder ansehen kann.Alle Unterrichtsmaterialien und Notenblätter werden als PDF-Dateien bereitgestellt.
 

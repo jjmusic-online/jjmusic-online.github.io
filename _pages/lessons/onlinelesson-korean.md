@@ -7,6 +7,18 @@ permalink: /lessons/onlinelesson-korean
 
 ### Lessons in Korean(한국어) 
 
+<div style="display: flex; flex-wrap: wrap; gap: 3px; margin: 0.5em 0 1em;">
+    <a href="/assets/images/IMG_0022.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_0022.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_2090.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_2090.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_4430.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_4430.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_7128.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7128.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_7864.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7864.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_7992.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_7992.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_8083.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8083.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_8488.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8488.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+    <a href="/assets/images/IMG_8857.jpg" target="_blank" rel="noopener"><img src="/assets/images/IMG_8857.jpg" alt="온라인 피아노 레슨" style="width: 100px; height: 130px; object-fit: cover; margin: 0;" /></a>
+</div>
+
 - 수강료 정보는 Shop에서 확인 가능합니다.
 
 - 수강자는 녹화된 비디오를 다운로드 및  무제한 무료로 평생(ㅎ) 반복적으로 확인체크하며 연습할 수 있는 장점이 있습니다. <img src="https://jjmusic-online.github.io/assets/images/download.png" alt="JJ Photo of JJ" title="Photo of JJ" style="min-width: 300px" /> JJ Music 레슨생만의 특권입니다:)시공간에 제약을 받지 않는 편리하지만 지속가능한 평생의 여러분들의 피아노 공부를 도와 주는 온라인레슨입니다. 
