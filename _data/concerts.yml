@@ -18,6 +18,22 @@
   url: https://alterschwedewedding.de/
   info: "p. Jiyeon Jeon / t.sax. Gianni Gagliardi / b. Christopher Williams"
 
+- date: 2026-05-10
+  title: Vocals and Piano Concert
+  venue: "Centre Bagatelle"
+  city: "Frohnau Berlin Germany"
+  url: https://www.centre-bagatelle.de/
+  info: ""
+- date: 2026-06-26
+  title: The Friday Singers
+  venue: "Humboldt-Bibliothek"
+  city: "Tegel Berlin Germany"
+  info: "Leitung: Nastassja Nass / Klavier Jiyeon Jeon"
+- date: 2026-06-28
+  title: String Concert
+  venue: "Atrium"
+  city: "Berlin, Germany"
+  info: "Klassisches Klavier — Jiyeon Jeon"
 - date: 2026-08-04
   title: JJ Group Album Release Concert
   venue: "Flatnine Jazz Bar"
@@ -46,6 +62,7 @@
   venue: "Fontane House Cultural Center"
   city: "Berlin.Germany"
   time: "4:00 PM"
+  info: "Free admission"
 - date: 2026-12-05
   title: JJ Group
   hide_title: true
@@ -63,7 +80,10 @@
   title: Christmas Concert
   venue: "베를린백림반석교회"
   city: ""
-  info: "Christmas Concert\nSolo Piano Jiyeon Jeon"
+  info: |
+    Christmas Concert
+    Solo Piano Jiyeon Jeon
+    Free admission
 - date: 2027-04-16
   title: JJ Group
   venue: "Alter Schwede Wedding"
