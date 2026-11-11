@@ -40,6 +40,7 @@
   title: Solo piano
   venue: "Galaveranstaltung"
   city: "Berlin"
+  info: "Solo Piano by Jiyeon Jeon"
 - date: 2026-11-15
   title: Concert
   venue: "Fontane House Cultural Center"
@@ -58,6 +59,11 @@
 
     Christmas Carols
     Solo Piano by Jiyeon Jeon
+- date: 2026-12-25
+  title: Christmas Concert
+  venue: "베를린백림반석교회"
+  city: ""
+  info: "Christmas Concert\nSolo Piano Jiyeon Jeon"
 - date: 2027-04-16
   title: JJ Group
   venue: "Alter Schwede Wedding"

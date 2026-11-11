@@ -114,7 +114,7 @@ permalink: /jjgroup/jjgroup-kor
           <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
           <span class="homepage-concerts__details">
             {% unless concert.hide_title %}<span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —{% endunless %}
-            {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% if concert.time %} · {{ concert.time }}{% endif %}
+            {{ concert.venue }}{% if concert.city and concert.city != "" %}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% endif %}{% if concert.time %} · {{ concert.time }}{% endif %}
             {% if concert.url and concert.url != "" %}
               <a href="{{ concert.url }}" target="_blank">티켓</a>
             {% endif %}
@@ -160,7 +160,15 @@ permalink: /jjgroup/jjgroup-kor
 </div>
 
 <!-- 지난 콘서트 -->
-{% assign jj_past = past | where_exp: "concert", "concert.title contains 'JJ Group'" %}
+{% assign jj_past = "" | split: "" %}
+{% assign other_past = "" | split: "" %}
+{% for concert in past %}
+  {% if concert.title contains "JJ Group" %}
+    {% assign jj_past = jj_past | push: concert %}
+  {% else %}
+    {% assign other_past = other_past | push: concert %}
+  {% endif %}
+{% endfor %}
 {% if jj_past.size > 0 %}
 <div class="jj-compact-section">
 <h2>지난 콘서트</h2>
@@ -172,7 +180,31 @@ permalink: /jjgroup/jjgroup-kor
         <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
         <span class="homepage-concerts__details">
           {% unless concert.hide_title %}<span class="homepage-concerts__venue">{{ concert.title | replace: "JJ Group", '<span class="homepage-concerts__gold">JJ Group</span>' }}</span> —{% endunless %}
-          {{ concert.venue }}<span class="homepage-concerts__city">, {{ concert.city }}</span>
+          {{ concert.venue }}{% if concert.city and concert.city != "" %}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% endif %}
+          {% if concert.info and concert.info != "" %}
+            <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>
+            <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
+          {% endif %}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+</div>
+{% endif %}
+
+{% if other_past.size > 0 %}
+<div class="jj-compact-section">
+<h2>JJ Group 외 지난 콘서트</h2>
+
+<div class="homepage-concerts">
+  <ul class="homepage-concerts__list">
+    {% for concert in other_past %}
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">{{ concert.date | date: "%Y년 %-m월 %-d일" }}</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue">{{ concert.title }}</span> —
+          {{ concert.venue }}{% if concert.city and concert.city != "" %}<span class="homepage-concerts__city">, {{ concert.city }}</span>{% endif %}
           {% if concert.info and concert.info != "" %}
             <a href="#" class="homepage-concerts__info-toggle" onclick="this.nextElementSibling.classList.toggle('is-visible');return false;">자세히 보기</a>
             <span class="homepage-concerts__info">{{ concert.info | newline_to_br }}</span>
