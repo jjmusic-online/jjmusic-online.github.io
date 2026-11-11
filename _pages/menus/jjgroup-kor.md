@@ -195,7 +195,8 @@ permalink: /jjgroup/jjgroup-kor
 
 {% if other_past.size > 0 %}
 <div class="jj-compact-section">
-<h2>JJ Group 외 지난 콘서트</h2>
+<details>
+<summary style="font-size: 1.5em; font-weight: 700; cursor: pointer; margin-bottom: 0.5em;">JJ Group 외 지난 콘서트</summary>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
@@ -214,6 +215,7 @@ permalink: /jjgroup/jjgroup-kor
     {% endfor %}
   </ul>
 </div>
+</details>
 </div>
 {% endif %}
 

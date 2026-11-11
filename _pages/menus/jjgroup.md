@@ -194,7 +194,8 @@ permalink: /jjgroup/
 
 {% if other_past.size > 0 %}
 <div class="jj-compact-section">
-<h2>Other Past Concerts</h2>
+<details>
+<summary style="font-size: 1.5em; font-weight: 700; cursor: pointer; margin-bottom: 0.5em;">Other Past Concerts</summary>
 
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
@@ -213,6 +214,7 @@ permalink: /jjgroup/
     {% endfor %}
   </ul>
 </div>
+</details>
 </div>
 {% endif %}
 
