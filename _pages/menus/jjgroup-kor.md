@@ -142,7 +142,7 @@ permalink: /jjgroup/jjgroup-kor
       <span class="homepage-concerts__date">2027년 1월</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">
-          <strong>JJ Group</strong> — 미니 앨범 <em>Breathing Berlin</em> 발매
+          <strong>JJ Group</strong> — 듀오 프로젝트 미니 앨범 <em>Breathing Berlin</em> 발매
         </span>
         <span class="homepage-concerts__city"> · 발매 예정</span>
       </span>
@@ -151,7 +151,7 @@ permalink: /jjgroup/jjgroup-kor
       <span class="homepage-concerts__date">2027년 상반기</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue"><strong>펑크피아노의 비밀</strong> 워크샵</span>
-        <span class="homepage-concerts__city"> · JJ Music × 온맘다혜 · 개최 예정</span>
+        <span class="homepage-concerts__city"> · JJ Music × 온맘다혜 · 개최 예정<br><a href="https://gartc.kr/product/detail.html?product_no=88&amp;page_6=3" target="_blank" rel="noopener noreferrer">홈페이지</a></span>
       </span>
     </li>
   </ul>

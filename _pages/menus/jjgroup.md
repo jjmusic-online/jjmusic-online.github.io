@@ -141,7 +141,7 @@ permalink: /jjgroup/
       <span class="homepage-concerts__date">January 2027</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">
-          <strong>JJ Group</strong> — <em>Breathing Berlin</em> Mini Album Release
+          <strong>JJ Group</strong> — <em>Breathing Berlin</em> Duo Project Mini Album Release
         </span>
         <span class="homepage-concerts__city"> · Scheduled for release</span>
       </span>
@@ -150,7 +150,7 @@ permalink: /jjgroup/
       <span class="homepage-concerts__date">First Half of 2027</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue"><strong>Secrets of Funk Piano</strong> Workshop</span>
-        <span class="homepage-concerts__city"> · JJ Music × Onmamdahye · Planned</span>
+        <span class="homepage-concerts__city"> · JJ Music × Onmamdahye · Planned<br><a href="https://gartc.kr/product/detail.html?product_no=88&amp;page_6=3" target="_blank" rel="noopener noreferrer">Homepage</a></span>
       </span>
     </li>
   </ul>
