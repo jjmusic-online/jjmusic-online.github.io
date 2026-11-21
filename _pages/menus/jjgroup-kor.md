@@ -139,24 +139,45 @@ permalink: /jjgroup/jjgroup-kor
 <div class="homepage-concerts">
   <ul class="homepage-concerts__list">
     <li class="homepage-concerts__item">
-      <span class="homepage-concerts__date">2026년 10월 13일</span>
+      <span class="homepage-concerts__date">2027년 1월</span>
       <span class="homepage-concerts__details">
         <span class="homepage-concerts__venue">
-          <img src="/assets/images/88x88.png" alt="JJ Music Logo" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
-          JJ Music <span style="font-weight:900;">✕</span>
-          <a href="https://www.youtube.com/@onmamdahye" target="_blank">
-            <img src="/assets/images/Screenshot%202026-05-15%20at%2011.18.07.png" alt="온맘다혜" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;margin-right:3px;" />
-            온맘다혜
-          </a>
-          — <strong>펑크피아노의 비밀</strong> 세미나
+          <strong>JJ Group</strong> — 미니 앨범 <em>Breathing Berlin</em> 발매
         </span>
-        <span class="homepage-concerts__city"> · 온라인 · 한국어 진행</span>
-        <br><span style="font-size:0.85em; opacity:0.85;">JJ Music × 온맘다혜의 콜라보 세미나 <strong>펑크피아노의 비밀</strong>은 <strong>2026년 10월 13일</strong> 한국시간 기준 <strong>20시부터 22시</strong>까지 진행됩니다. 🎹</span>
-        <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 세미나" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
+        <span class="homepage-concerts__city"> · 발매 예정</span>
+      </span>
+    </li>
+    <li class="homepage-concerts__item">
+      <span class="homepage-concerts__date">2027년 상반기</span>
+      <span class="homepage-concerts__details">
+        <span class="homepage-concerts__venue"><strong>펑크피아노의 비밀</strong> 워크샵</span>
+        <span class="homepage-concerts__city"> · JJ Music × 온맘다혜 · 개최 예정</span>
       </span>
     </li>
   </ul>
 </div>
+<details>
+  <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.5em;">아카이브 — 지난 워크샵</summary>
+  <div class="homepage-concerts">
+    <ul class="homepage-concerts__list">
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">2026년 6월 20일</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue"><strong>펑크피아노의 비밀</strong> 워크샵 1회차</span>
+          <span class="homepage-concerts__city"> · 온라인 · 한국어 진행 · 한국시간 20:30–22:30</span>
+          <br><img src="/assets/images/Screenshot%202026-06-25%20at%2016.31.49.png" alt="펑크피아노의 비밀 워크샵 포스터" style="max-width:120px; width:100%; border-radius:4px; margin-top:6px; display:block;" />
+        </span>
+      </li>
+      <li class="homepage-concerts__item" style="opacity: 0.7;">
+        <span class="homepage-concerts__date">2026년 10월 13일</span>
+        <span class="homepage-concerts__details">
+          <span class="homepage-concerts__venue"><strong>펑크피아노의 비밀</strong> 워크샵 2회차</span>
+          <span class="homepage-concerts__city"> · 온라인 · 한국어 진행 · 한국시간 20:00–22:00</span>
+        </span>
+      </li>
+    </ul>
+  </div>
+</details>
 </div>
 
 <!-- 지난 콘서트 -->
