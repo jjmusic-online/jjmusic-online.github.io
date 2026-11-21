@@ -90,6 +90,11 @@
   venue: "Alter Schwede Wedding"
   city: "Berlin"
   time: "8:00 PM"
+- date: 2027-03-06
+  title: JJ Group
+  venue: "Cafe Nova"
+  city: "Berlin"
+  time: "8:00 PM"
 - date: 2027-06-25
   title: JJ Group
   hide_title: true
