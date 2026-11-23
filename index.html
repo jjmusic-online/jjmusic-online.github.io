@@ -238,6 +238,30 @@ title_html: 'Welcome to JJ Music'
 </div>
 {% endif %}
 
+<dialog class="concert-popup" id="concert-popup" aria-labelledby="concert-popup-title">
+  <button class="concert-popup__close" type="button" aria-label="Close popup" onclick="this.closest('dialog').close()">×</button>
+  <img class="concert-popup__poster" src="/assets/images/Quartet_Poster%20(1).jpg" alt="JJ Group live at b-flat Berlin on December 20, 2026 at 21:00" />
+  <div class="concert-popup__details">
+    <h2 id="concert-popup-title">JJ Group at b-flat Berlin</h2>
+    <p class="concert-popup__date">December 20, 2026 · 21:00</p>
+    <p class="concert-popup__prices">General €20 · Students €15</p>
+    <a class="btn btn--primary" href="https://b-flat-berlin.de/kontakt" target="_blank" rel="noopener noreferrer">Reserve</a>
+  </div>
+</dialog>
+<script>
+  (function () {
+    var popup = document.getElementById("concert-popup");
+    var storageKey = "jj-group-concert-popup-date";
+    var now = new Date();
+    var today = [now.getFullYear(), String(now.getMonth() + 1).padStart(2, "0"), String(now.getDate()).padStart(2, "0")].join("-");
+
+    if (localStorage.getItem(storageKey) !== today) {
+      localStorage.setItem(storageKey, today);
+      popup.showModal();
+    }
+  })();
+</script>
+
 <!-- Albums -->
 <h2>Recordings</h2>
 

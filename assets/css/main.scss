@@ -104,6 +104,67 @@
   }
 }
 
+.concert-popup {
+  position: fixed;
+  inset: 50% auto auto 50%;
+  transform: translate(-50%, -50%);
+  width: min(900px, calc(100vw - 2em));
+  max-width: none;
+  max-height: calc(100vh - 2em);
+  padding: 1.25em;
+  border: 1px solid #b69b4c;
+  border-radius: 8px;
+  background: #111;
+  color: #f5f0df;
+  box-shadow: 0 1em 4em rgba(0, 0, 0, 0.65);
+
+  &::backdrop {
+    background: rgba(0, 0, 0, 0.78);
+  }
+
+  &__close {
+    position: absolute;
+    top: 0.35em;
+    right: 0.5em;
+    z-index: 1;
+    border: 0;
+    background: transparent;
+    color: #f5f0df;
+    font-size: 2em;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  &__poster {
+    display: block;
+    width: 100%;
+    max-height: min(55vh, 620px);
+    object-fit: contain;
+  }
+
+  &__details {
+    text-align: center;
+  }
+
+  &__details h2 {
+    margin: 0.6em 0 0.2em;
+    color: #d7bd68;
+  }
+
+  &__date,
+  &__prices {
+    margin: 0.35em 0;
+  }
+
+  &__prices {
+    font-weight: 700;
+  }
+
+  .btn {
+    margin-top: 0.6em;
+  }
+}
+
 .homepage-videos {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -343,6 +404,14 @@
   .homepage-profile {
     flex-direction: column;
     text-align: center;
+  }
+
+  .concert-popup {
+    padding: 1em;
+
+    &__poster {
+      max-height: 45vh;
+    }
   }
 
   .homepage-videos {
