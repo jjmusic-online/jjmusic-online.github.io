@@ -246,17 +246,27 @@ title_html: 'Welcome to JJ Music'
     <p class="concert-popup__date">December 20, 2026 · 21:00</p>
     <p class="concert-popup__prices">General €20 · Students €15</p>
     <a class="btn btn--primary" href="https://b-flat-berlin.de/kontakt" target="_blank" rel="noopener noreferrer">Reserve</a>
+    <label class="concert-popup__dismiss">
+      <input id="concert-popup-hide-today" type="checkbox" />
+      오늘은 그만보기
+    </label>
   </div>
 </dialog>
 <script>
   (function () {
     var popup = document.getElementById("concert-popup");
-    var storageKey = "jj-group-concert-popup-date";
+    var hideToday = document.getElementById("concert-popup-hide-today");
+    var storageKey = "jj-group-concert-popup-hide-date";
     var now = new Date();
     var today = [now.getFullYear(), String(now.getMonth() + 1).padStart(2, "0"), String(now.getDate()).padStart(2, "0")].join("-");
 
+    popup.addEventListener("close", function () {
+      if (hideToday.checked) {
+        localStorage.setItem(storageKey, today);
+      }
+    });
+
     if (localStorage.getItem(storageKey) !== today) {
-      localStorage.setItem(storageKey, today);
       popup.showModal();
     }
   })();
