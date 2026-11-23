@@ -108,8 +108,9 @@
   position: fixed;
   inset: 50% auto auto 50%;
   transform: translate(-50%, -50%);
-  width: min(900px, calc(100vw - 2em));
-  max-width: none;
+  box-sizing: border-box;
+  width: 10cm;
+  max-width: calc(100vw - 2em);
   max-height: calc(100vh - 2em);
   padding: 1.25em;
   border: 1px solid #b69b4c;
