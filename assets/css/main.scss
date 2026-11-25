@@ -300,6 +300,95 @@
   }
 }
 
+.jiyeonish {
+  max-width: 760px;
+
+  &__intro {
+    margin-bottom: 1.2em;
+    color: #555;
+    line-height: 1.7;
+
+    p {
+      margin: 0.2em 0;
+    }
+  }
+
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+    margin-bottom: 2em;
+  }
+
+  &__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    padding: 0.5em 1em;
+    border: 1px solid currentColor;
+    border-radius: 2em;
+    font-size: 0.8em;
+    font-weight: 700;
+    text-decoration: none;
+
+    &:hover {
+      background: #f5f5f5;
+    }
+
+    &--apple { color: #b51f38; }
+    &--spotify { color: #16783b; }
+    &--youtube { color: #c00; }
+  }
+
+  &__release {
+    display: flex;
+    align-items: flex-start;
+    gap: 1em;
+    padding: 1em 0;
+    border-top: 1px solid #e6e6e6;
+  }
+
+  &__cover {
+    width: 120px;
+    height: auto;
+    border-radius: 6px;
+  }
+
+  &__release-content {
+    flex: 1;
+    min-width: 0;
+
+    h3 {
+      margin: 0 0 0.6em;
+      font-size: 1em;
+    }
+  }
+
+  &__player {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    border: 0;
+    border-radius: 10px;
+  }
+
+  &__fallback {
+    display: inline-block;
+    margin-top: 0.4em;
+    font-size: 0.75em;
+  }
+}
+
+@media (max-width: 600px) {
+  .jiyeonish__release {
+    flex-wrap: wrap;
+  }
+
+  .jiyeonish__release-content {
+    flex-basis: 100%;
+  }
+}
+
 /* The Space Between — bulletin board */
 .tsb-intro {
   font-style: italic;
